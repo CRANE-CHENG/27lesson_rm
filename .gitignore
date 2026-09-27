@@ -1,0 +1,68 @@
+# OS and editor files
+.DS_Store
+Thumbs.db
+desktop.ini
+*~
+*.swp
+*.swo
+
+# VS Code generated state
+**/.vscode/*.log
+**/.vscode/*.lock
+**/.vscode/ipch/
+**/.vscode/.browse.VC.db*
+**/.vscode/Browse.VC.db*
+
+# STM32CubeIDE / Eclipse generated files
+.metadata/
+.settings/
+.cproject
+.project
+.mxproject.launch
+Debug/
+Release/
+build/
+
+# Keil MDK user-local files
+*.uvgui
+*.uvgui.*
+*.uvguix
+*.uvguix.*
+*.uvopt
+*.uvoptx
+JLinkLog.txt
+JLinkSettings.ini
+
+# Keil MDK build output
+MDK-ARM/AIR_RM_HAL/
+*.o
+*.d
+*.crf
+*.dep
+*.axf
+*.elf
+*.hex
+*.bin
+*.map
+*.lst
+*.lnp
+*.htm
+*.html
+*.iex
+*.bak
+*.Bak
+
+# Debug and trace output
+*.scvd
+*.dbgconf
+*.trace
+*.log
+
+# Archives and temporary exports
+*.zip
+*.rar
+*.7z
+*.tar
+*.tar.gz
+
+*.mp4
