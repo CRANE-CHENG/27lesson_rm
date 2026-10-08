@@ -1,0 +1,40 @@
+﻿--- p17
+    char diff  lost='000'
+    char diff  new ='...'
+--- p18
+    char diff  lost='000'
+    char diff  new ='...'
+--- p19
+    char diff  lost='000'
+    char diff  new ='...'
+--- p20
+    char diff  lost='000'
+    char diff  new ='...'
+--- p22
+    char diff  lost='0000'
+    char diff  new ='....'
+--- p23
+    char diff  lost='00000'
+    char diff  new ='.....'
+27赛季培训课件\电控组第二讲.pptx: 6 problematic slides of 24
+--- p19
+    char diff  lost='0000'
+    char diff  new ='....'
+--- p20
+    char diff  lost='00000'
+    char diff  new ='.....'
+27赛季培训课件\电控组第三讲.pptx: 2 problematic slides of 21
+--- p18
+    char diff  lost='000'
+    char diff  new ='...'
+--- p19
+    char diff  lost='00000'
+    char diff  new ='.....'
+27赛季培训课件\电控组第四讲.pptx: 2 problematic slides of 20
+--- p14
+    char diff  lost='0000'
+    char diff  new ='....'
+--- p15
+    char diff  lost='00000'
+    char diff  new ='.....'
+27赛季培训课件\电控组第五讲.pptx: 2 problematic slides of 16

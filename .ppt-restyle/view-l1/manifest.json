@@ -1,0 +1,419 @@
+{
+  "schemaVersion": 1,
+  "backend": "native",
+  "rasterEngine": "pdfium",
+  "source": "saved",
+  "inputPath": "D:\\桌面\\培训\\.ppt-restyle\\pdf-l1.pdf",
+  "sourceSha256": "50dd3f4198ad6b546557043a14b42ee519a44cc42b0b31fb9f0fa43a68c34699",
+  "dpi": 96,
+  "pageCount": 29,
+  "images": [
+    {
+      "index": 1,
+      "page": 1,
+      "path": "D:\\桌面\\培训\\.ppt-restyle\\view-l1\\page-0001.png",
+      "width": 1280,
+      "height": 720,
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "width": 1280,
+        "height": 720
+      },
+      "byteLength": 101626
+    },
+    {
+      "index": 2,
+      "page": 2,
+      "path": "D:\\桌面\\培训\\.ppt-restyle\\view-l1\\page-0002.png",
+      "width": 1280,
+      "height": 720,
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "width": 1280,
+        "height": 720
+      },
+      "byteLength": 399902
+    },
+    {
+      "index": 3,
+      "page": 3,
+      "path": "D:\\桌面\\培训\\.ppt-restyle\\view-l1\\page-0003.png",
+      "width": 1280,
+      "height": 720,
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "width": 1280,
+        "height": 720
+      },
+      "byteLength": 142850
+    },
+    {
+      "index": 4,
+      "page": 4,
+      "path": "D:\\桌面\\培训\\.ppt-restyle\\view-l1\\page-0004.png",
+      "width": 1280,
+      "height": 720,
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "width": 1280,
+        "height": 720
+      },
+      "byteLength": 160739
+    },
+    {
+      "index": 5,
+      "page": 5,
+      "path": "D:\\桌面\\培训\\.ppt-restyle\\view-l1\\page-0005.png",
+      "width": 1280,
+      "height": 720,
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "width": 1280,
+        "height": 720
+      },
+      "byteLength": 185589
+    },
+    {
+      "index": 6,
+      "page": 6,
+      "path": "D:\\桌面\\培训\\.ppt-restyle\\view-l1\\page-0006.png",
+      "width": 1280,
+      "height": 720,
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "width": 1280,
+        "height": 720
+      },
+      "byteLength": 215437
+    },
+    {
+      "index": 7,
+      "page": 7,
+      "path": "D:\\桌面\\培训\\.ppt-restyle\\view-l1\\page-0007.png",
+      "width": 1280,
+      "height": 720,
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "width": 1280,
+        "height": 720
+      },
+      "byteLength": 141155
+    },
+    {
+      "index": 8,
+      "page": 8,
+      "path": "D:\\桌面\\培训\\.ppt-restyle\\view-l1\\page-0008.png",
+      "width": 1280,
+      "height": 720,
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "width": 1280,
+        "height": 720
+      },
+      "byteLength": 164415
+    },
+    {
+      "index": 9,
+      "page": 9,
+      "path": "D:\\桌面\\培训\\.ppt-restyle\\view-l1\\page-0009.png",
+      "width": 1280,
+      "height": 720,
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "width": 1280,
+        "height": 720
+      },
+      "byteLength": 147166
+    },
+    {
+      "index": 10,
+      "page": 10,
+      "path": "D:\\桌面\\培训\\.ppt-restyle\\view-l1\\page-0010.png",
+      "width": 1280,
+      "height": 720,
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "width": 1280,
+        "height": 720
+      },
+      "byteLength": 154294
+    },
+    {
+      "index": 11,
+      "page": 11,
+      "path": "D:\\桌面\\培训\\.ppt-restyle\\view-l1\\page-0011.png",
+      "width": 1280,
+      "height": 720,
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "width": 1280,
+        "height": 720
+      },
+      "byteLength": 155138
+    },
+    {
+      "index": 12,
+      "page": 12,
+      "path": "D:\\桌面\\培训\\.ppt-restyle\\view-l1\\page-0012.png",
+      "width": 1280,
+      "height": 720,
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "width": 1280,
+        "height": 720
+      },
+      "byteLength": 146177
+    },
+    {
+      "index": 13,
+      "page": 13,
+      "path": "D:\\桌面\\培训\\.ppt-restyle\\view-l1\\page-0013.png",
+      "width": 1280,
+      "height": 720,
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "width": 1280,
+        "height": 720
+      },
+      "byteLength": 139854
+    },
+    {
+      "index": 14,
+      "page": 14,
+      "path": "D:\\桌面\\培训\\.ppt-restyle\\view-l1\\page-0014.png",
+      "width": 1280,
+      "height": 720,
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "width": 1280,
+        "height": 720
+      },
+      "byteLength": 130706
+    },
+    {
+      "index": 15,
+      "page": 15,
+      "path": "D:\\桌面\\培训\\.ppt-restyle\\view-l1\\page-0015.png",
+      "width": 1280,
+      "height": 720,
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "width": 1280,
+        "height": 720
+      },
+      "byteLength": 186058
+    },
+    {
+      "index": 16,
+      "page": 16,
+      "path": "D:\\桌面\\培训\\.ppt-restyle\\view-l1\\page-0016.png",
+      "width": 1280,
+      "height": 720,
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "width": 1280,
+        "height": 720
+      },
+      "byteLength": 108657
+    },
+    {
+      "index": 17,
+      "page": 17,
+      "path": "D:\\桌面\\培训\\.ppt-restyle\\view-l1\\page-0017.png",
+      "width": 1280,
+      "height": 720,
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "width": 1280,
+        "height": 720
+      },
+      "byteLength": 116471
+    },
+    {
+      "index": 18,
+      "page": 18,
+      "path": "D:\\桌面\\培训\\.ppt-restyle\\view-l1\\page-0018.png",
+      "width": 1280,
+      "height": 720,
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "width": 1280,
+        "height": 720
+      },
+      "byteLength": 130782
+    },
+    {
+      "index": 19,
+      "page": 19,
+      "path": "D:\\桌面\\培训\\.ppt-restyle\\view-l1\\page-0019.png",
+      "width": 1280,
+      "height": 720,
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "width": 1280,
+        "height": 720
+      },
+      "byteLength": 100158
+    },
+    {
+      "index": 20,
+      "page": 20,
+      "path": "D:\\桌面\\培训\\.ppt-restyle\\view-l1\\page-0020.png",
+      "width": 1280,
+      "height": 720,
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "width": 1280,
+        "height": 720
+      },
+      "byteLength": 139863
+    },
+    {
+      "index": 21,
+      "page": 21,
+      "path": "D:\\桌面\\培训\\.ppt-restyle\\view-l1\\page-0021.png",
+      "width": 1280,
+      "height": 720,
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "width": 1280,
+        "height": 720
+      },
+      "byteLength": 135097
+    },
+    {
+      "index": 22,
+      "page": 22,
+      "path": "D:\\桌面\\培训\\.ppt-restyle\\view-l1\\page-0022.png",
+      "width": 1280,
+      "height": 720,
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "width": 1280,
+        "height": 720
+      },
+      "byteLength": 120736
+    },
+    {
+      "index": 23,
+      "page": 23,
+      "path": "D:\\桌面\\培训\\.ppt-restyle\\view-l1\\page-0023.png",
+      "width": 1280,
+      "height": 720,
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "width": 1280,
+        "height": 720
+      },
+      "byteLength": 120406
+    },
+    {
+      "index": 24,
+      "page": 24,
+      "path": "D:\\桌面\\培训\\.ppt-restyle\\view-l1\\page-0024.png",
+      "width": 1280,
+      "height": 720,
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "width": 1280,
+        "height": 720
+      },
+      "byteLength": 136655
+    },
+    {
+      "index": 25,
+      "page": 25,
+      "path": "D:\\桌面\\培训\\.ppt-restyle\\view-l1\\page-0025.png",
+      "width": 1280,
+      "height": 720,
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "width": 1280,
+        "height": 720
+      },
+      "byteLength": 130934
+    },
+    {
+      "index": 26,
+      "page": 26,
+      "path": "D:\\桌面\\培训\\.ppt-restyle\\view-l1\\page-0026.png",
+      "width": 1280,
+      "height": 720,
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "width": 1280,
+        "height": 720
+      },
+      "byteLength": 106473
+    },
+    {
+      "index": 27,
+      "page": 27,
+      "path": "D:\\桌面\\培训\\.ppt-restyle\\view-l1\\page-0027.png",
+      "width": 1280,
+      "height": 720,
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "width": 1280,
+        "height": 720
+      },
+      "byteLength": 135502
+    },
+    {
+      "index": 28,
+      "page": 28,
+      "path": "D:\\桌面\\培训\\.ppt-restyle\\view-l1\\page-0028.png",
+      "width": 1280,
+      "height": 720,
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "width": 1280,
+        "height": 720
+      },
+      "byteLength": 178994
+    },
+    {
+      "index": 29,
+      "page": 29,
+      "path": "D:\\桌面\\培训\\.ppt-restyle\\view-l1\\page-0029.png",
+      "width": 1280,
+      "height": 720,
+      "rectangle": {
+        "x": 0,
+        "y": 0,
+        "width": 1280,
+        "height": 720
+      },
+      "byteLength": 113117
+    }
+  ],
+  "missingFonts": []
+}

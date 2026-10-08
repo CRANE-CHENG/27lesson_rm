@@ -1,0 +1,57 @@
+﻿===== 27赛季培训课件\电控组第二讲.pptx
+  p2   picture page kept
+  p5   body=18.0 head=18.5 code=15.5 tbl=16.5 | 10 blocks
+  p6   body=19.5 head=19.5 code=16.5 tbl=18.0 | 8 blocks
+  p7   body=16.0 head=16.5 code=14.0 tbl=15.0 | 8 blocks
+  p9   body=18.0 head=18.5 code=15.5 tbl=16.5 | 8 blocks
+  p10  body=21.0 head=21.0 code=17.2 tbl=20.2 | 3 blocks
+  p11  body=21.0 head=21.0 code=17.2 tbl=20.2 | 3 blocks
+  p13  body=19.5 head=19.5 code=16.5 tbl=18.0 | 8 blocks
+  p14  body=15.0 head=15.5 code=13.0 tbl=14.0 | 8 blocks
+  p15  body=18.0 head=18.5 code=15.5 tbl=16.5 | 8 blocks
+  p17  body=21.0 head=21.0 code=17.2 tbl=20.2 | 8 blocks
+  p18  body=21.0 head=21.0 code=17.2 tbl=20.2 | 8 blocks
+  p19  body=21.0 head=21.0 code=17.2 tbl=20.2 | 8 blocks
+  p20  body=21.0 head=21.0 code=17.2 tbl=20.2 | 8 blocks
+  p21  body=18.0 head=18.5 code=15.5 tbl=16.5 | 8 blocks
+  p22  body=19.5 head=19.5 code=16.5 tbl=18.0 | 9 blocks
+  p23  body=19.5 head=19.5 code=16.5 tbl=18.0 | 11 blocks
+===== 27赛季培训课件\电控组第三讲.pptx
+  p2   picture page kept
+  p5   body=16.0 head=16.5 code=14.0 tbl=15.0 | 8 blocks
+  p6   body=17.0 head=17.5 code=15.0 tbl=15.5 | 8 blocks
+  p7   body=18.0 head=18.5 code=15.5 tbl=16.5 | 8 blocks
+  p9   body=19.5 head=19.5 code=16.5 tbl=18.0 | 8 blocks
+  p10  body=21.0 head=21.0 code=17.2 tbl=20.2 | 2 blocks
+  p11  body=18.0 head=18.5 code=15.5 tbl=16.5 | 8 blocks
+  p13  body=18.0 head=18.5 code=15.5 tbl=16.5 | 8 blocks
+  p14  body=21.0 head=21.0 code=17.2 tbl=20.2 | 2 blocks
+  p16  body=18.0 head=18.5 code=15.5 tbl=16.5 | 8 blocks
+  p17  body=18.0 head=18.5 code=15.5 tbl=16.5 | 8 blocks
+  p18  body=21.0 head=21.0 code=17.2 tbl=20.2 | 2 blocks
+  p19  body=19.5 head=19.5 code=16.5 tbl=18.0 | 9 blocks
+  p20  body=21.0 head=21.0 code=17.2 tbl=20.2 | 6 blocks
+===== 27赛季培训课件\电控组第四讲.pptx
+  p2   picture page kept
+  p5   body=18.0 head=18.5 code=15.5 tbl=16.5 | 8 blocks
+  p6   body=18.0 head=18.5 code=15.5 tbl=16.5 | 8 blocks
+  p7   body=18.0 head=18.5 code=15.5 tbl=16.5 | 8 blocks
+  p9   body=18.0 head=18.5 code=15.5 tbl=16.5 | 8 blocks
+  p10  body=21.0 head=21.0 code=17.2 tbl=20.2 | 2 blocks
+  p12  body=18.0 head=18.5 code=15.5 tbl=16.5 | 8 blocks
+  p13  body=18.0 head=18.5 code=15.5 tbl=16.5 | 8 blocks
+  p14  body=16.0 head=16.5 code=14.0 tbl=15.0 | 8 blocks
+  p16  body=19.5 head=19.5 code=16.5 tbl=18.0 | 8 blocks
+  p17  body=19.5 head=19.5 code=16.5 tbl=18.0 | 8 blocks
+  p18  body=21.0 head=21.0 code=17.2 tbl=20.2 | 7 blocks
+  p19  body=21.0 head=21.0 code=17.2 tbl=20.2 | 6 blocks
+===== 27赛季培训课件\电控组第五讲.pptx
+  p2   picture page kept
+  p5   body=18.0 head=18.5 code=15.5 tbl=16.5 | 8 blocks
+  p6   body=21.0 head=21.0 code=17.2 tbl=20.2 | 8 blocks
+  p8   body=18.0 head=18.5 code=15.5 tbl=16.5 | 8 blocks
+  p9   body=19.5 head=19.5 code=16.5 tbl=18.0 | 8 blocks
+  p11  body=19.5 head=19.5 code=16.5 tbl=18.0 | 8 blocks
+  p13  body=18.0 head=18.5 code=15.5 tbl=16.5 | 8 blocks
+  p14  body=21.0 head=21.0 code=17.2 tbl=20.2 | 9 blocks
+  p15  body=21.0 head=21.0 code=17.2 tbl=20.2 | 6 blocks
