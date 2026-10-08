@@ -1,0 +1,96 @@
+{
+  "slide_num": 12,
+  "role": "ending",
+  "slide_id": "pVo",
+  "local_xml_path": "source-slides\\slide-12.xml",
+  "shell_shapes": [
+    {
+      "id": 19,
+      "type": "AUTO_SHAPE",
+      "left": 12.8423,
+      "top": 0.855,
+      "width": 0.3023,
+      "height": 0.2606,
+      "text": ""
+    },
+    {
+      "id": 9,
+      "type": "PICTURE",
+      "left": 12.3669,
+      "top": 0.5999,
+      "width": 0.6132,
+      "height": 0.6132,
+      "text": ""
+    }
+  ],
+  "content_shapes": [
+    {
+      "id": 16,
+      "type": "GROUP",
+      "left": 0.4619,
+      "top": 0.219,
+      "width": 4.6356,
+      "height": 1.0661,
+      "text": ""
+    },
+    {
+      "id": 7,
+      "type": "FREEFORM",
+      "left": 9.3582,
+      "top": 0.5999,
+      "width": 8.6841,
+      "height": 0.6132,
+      "text": ""
+    },
+    {
+      "id": 10,
+      "type": "TEXT_BOX",
+      "left": 9.8002,
+      "top": 0.7568,
+      "width": 7.6146,
+      "height": 0.2995,
+      "text": "哈理工A.I.R.创新实验室"
+    },
+    {
+      "id": 11,
+      "type": "TABLE",
+      "left": 5.5241,
+      "top": 1.446,
+      "width": 6.6343,
+      "height": 2.1394,
+      "text": ""
+    },
+    {
+      "id": 5,
+      "type": "TEXT_BOX",
+      "left": 1.3917,
+      "top": 1.447,
+      "width": 4.009,
+      "height": 2.1394,
+      "text": "#include <stdio.h>\n\nint main(void)\n{\n    printf(\"Hello World!\\n\");\n    return 0;\n}"
+    },
+    {
+      "id": 8,
+      "type": "TEXT_BOX",
+      "left": 1.3917,
+      "top": 5.4059,
+      "width": 10.7667,
+      "height": 1.5811,
+      "text": "每个程序必须包含 main() 函数。\n每条语句以 分号 ; 结束。\n语句块使用 花括号 {} 括起来。\nC 区分大小写（main ≠ Main）"
+    },
+    {
+      "id": 24,
+      "type": "GROUP",
+      "left": 1.3917,
+      "top": 3.8398,
+      "width": 10.7667,
+      "height": 1.3127,
+      "text": ""
+    }
+  ],
+  "available_regions": [],
+  "images_used": [
+    "image2.png",
+    "image8.png"
+  ]
+}

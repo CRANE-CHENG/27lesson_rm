@@ -1,0 +1,87 @@
+{
+  "slide_num": 5,
+  "role": "chapter",
+  "slide_id": "psJ",
+  "local_xml_path": "source-slides\\slide-05.xml",
+  "shell_shapes": [
+    {
+      "id": 19,
+      "type": "AUTO_SHAPE",
+      "left": 12.8423,
+      "top": 0.855,
+      "width": 0.3023,
+      "height": 0.2606,
+      "text": ""
+    },
+    {
+      "id": 9,
+      "type": "PICTURE",
+      "left": 12.3669,
+      "top": 0.5999,
+      "width": 0.6132,
+      "height": 0.6132,
+      "text": ""
+    },
+    {
+      "id": 2,
+      "type": "PICTURE",
+      "left": 9.1458,
+      "top": 6.5086,
+      "width": 4.1875,
+      "height": 0.9914,
+      "text": ""
+    }
+  ],
+  "content_shapes": [
+    {
+      "id": 16,
+      "type": "GROUP",
+      "left": 0.4619,
+      "top": 0.219,
+      "width": 6.6078,
+      "height": 1.0661,
+      "text": ""
+    },
+    {
+      "id": 7,
+      "type": "FREEFORM",
+      "left": 9.3582,
+      "top": 0.5999,
+      "width": 8.6841,
+      "height": 0.6132,
+      "text": ""
+    },
+    {
+      "id": 10,
+      "type": "TEXT_BOX",
+      "left": 9.8002,
+      "top": 0.7568,
+      "width": 7.6146,
+      "height": 0.2995,
+      "text": "哈理工A.I.R.创新实验室"
+    },
+    {
+      "id": 3,
+      "type": "TEXT_BOX",
+      "left": 1.835,
+      "top": 1.7437,
+      "width": 9.0194,
+      "height": 1.7166,
+      "text": "哈理工A.I.R.战队(简称为A.I.R.),分为大创工作室、竞赛工作室、无人机工作室、运宣工作室以及A.I.R.机器人俱乐部。\n\t目前实验室主要进行Robomaster（简称RM）比赛，同时有其他各"
+    },
+    {
+      "id": 6,
+      "type": "TABLE",
+      "left": 1.835,
+      "top": 3.6772,
+      "width": 8.9928,
+      "height": 2.405,
+      "text": ""
+    }
+  ],
+  "available_regions": [],
+  "images_used": [
+    "image2.png",
+    "image6.png"
+  ]
+}

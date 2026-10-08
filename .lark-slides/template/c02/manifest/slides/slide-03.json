@@ -1,0 +1,178 @@
+{
+  "slide_num": 3,
+  "role": "toc",
+  "slide_id": "pfw",
+  "local_xml_path": "source-slides\\slide-03.xml",
+  "shell_shapes": [
+    {
+      "id": 4,
+      "type": "AUTO_SHAPE",
+      "left": 0.0,
+      "top": 0.0,
+      "width": 0.1736,
+      "height": 0.1736,
+      "text": ""
+    },
+    {
+      "id": 5,
+      "type": "PICTURE",
+      "left": 12.3669,
+      "top": 0.5999,
+      "width": 0.6132,
+      "height": 0.6132,
+      "text": ""
+    }
+  ],
+  "content_shapes": [
+    {
+      "id": 19,
+      "type": "FREEFORM",
+      "left": 12.608,
+      "top": -0.4183,
+      "width": 0.7515,
+      "height": 5.7147,
+      "text": ""
+    },
+    {
+      "id": 31,
+      "type": "FREEFORM",
+      "left": -0.5592,
+      "top": -1.3162,
+      "width": 2.3775,
+      "height": 4.8383,
+      "text": ""
+    },
+    {
+      "id": 3,
+      "type": "EMBEDDED_OLE_OBJECT",
+      "left": 0.0017,
+      "top": 0.0017,
+      "width": 0.0017,
+      "height": 0.0017,
+      "text": ""
+    },
+    {
+      "id": 6,
+      "type": "AUTO_SHAPE",
+      "left": 1.5879,
+      "top": -2.8315,
+      "width": 1.0732,
+      "height": 9.5296,
+      "text": ""
+    },
+    {
+      "id": 20,
+      "type": "FREEFORM",
+      "left": -0.5211,
+      "top": -0.364,
+      "width": 0.884,
+      "height": 3.9681,
+      "text": ""
+    },
+    {
+      "id": 33,
+      "type": "FREEFORM",
+      "left": 0.0713,
+      "top": 3.0851,
+      "width": 0.5822,
+      "height": 0.4297,
+      "text": ""
+    },
+    {
+      "id": 27,
+      "type": "FREEFORM",
+      "left": 0.0612,
+      "top": -1.0743,
+      "width": 0.884,
+      "height": 3.9681,
+      "text": ""
+    },
+    {
+      "id": 38,
+      "type": "FREEFORM",
+      "left": 1.7374,
+      "top": 1.0999,
+      "width": 0.7515,
+      "height": 5.7147,
+      "text": ""
+    },
+    {
+      "id": 35,
+      "type": "AUTO_SHAPE",
+      "left": 2.183,
+      "top": 2.311,
+      "width": 1.3167,
+      "height": 0.7729,
+      "text": "目录"
+    },
+    {
+      "id": 39,
+      "type": "AUTO_SHAPE",
+      "left": 5.5014,
+      "top": 3.1784,
+      "width": 0.7472,
+      "height": 0.7472,
+      "text": "02"
+    },
+    {
+      "id": 40,
+      "type": "TEXT_BOX",
+      "left": 6.4592,
+      "top": 3.22,
+      "width": 5.7979,
+      "height": 0.7056,
+      "text": "走进 C 语言"
+    },
+    {
+      "id": 13,
+      "type": "GROUP",
+      "left": 5.4951,
+      "top": 4.3073,
+      "width": 6.7368,
+      "height": 0.7583,
+      "text": ""
+    },
+    {
+      "id": 69,
+      "type": "FREEFORM",
+      "left": 9.3582,
+      "top": 0.5999,
+      "width": 8.6841,
+      "height": 0.6132,
+      "text": ""
+    },
+    {
+      "id": 7,
+      "type": "TEXT_BOX",
+      "left": 9.8002,
+      "top": 0.7568,
+      "width": 7.6146,
+      "height": 0.2995,
+      "text": "哈理工A.I.R.创新实验室"
+    },
+    {
+      "id": 11,
+      "type": "GROUP",
+      "left": 5.4826,
+      "top": 2.0304,
+      "width": 7.23,
+      "height": 0.7485,
+      "text": ""
+    },
+    {
+      "id": 14,
+      "type": "GROUP",
+      "left": 5.4826,
+      "top": 5.4585,
+      "width": 6.7368,
+      "height": 0.7583,
+      "text": ""
+    }
+  ],
+  "available_regions": [],
+  "images_used": [
+    "image4.png",
+    "image2.png",
+    "image5.png"
+  ]
+}

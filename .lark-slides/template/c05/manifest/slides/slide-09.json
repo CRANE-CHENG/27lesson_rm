@@ -1,0 +1,68 @@
+{
+  "slide_num": 9,
+  "role": "chapter",
+  "slide_id": "psD",
+  "local_xml_path": "source-slides\\slide-09.xml",
+  "shell_shapes": [
+    {
+      "id": 19,
+      "type": "AUTO_SHAPE",
+      "left": 12.8423,
+      "top": 0.855,
+      "width": 0.3023,
+      "height": 0.2606,
+      "text": ""
+    },
+    {
+      "id": 9,
+      "type": "PICTURE",
+      "left": 12.3669,
+      "top": 0.5999,
+      "width": 0.6132,
+      "height": 0.6132,
+      "text": ""
+    }
+  ],
+  "content_shapes": [
+    {
+      "id": 16,
+      "type": "GROUP",
+      "left": 0.4619,
+      "top": 0.219,
+      "width": 6.6078,
+      "height": 1.0661,
+      "text": ""
+    },
+    {
+      "id": 7,
+      "type": "FREEFORM",
+      "left": 9.3582,
+      "top": 0.5999,
+      "width": 8.6841,
+      "height": 0.6132,
+      "text": ""
+    },
+    {
+      "id": 10,
+      "type": "TEXT_BOX",
+      "left": 9.8002,
+      "top": 0.7568,
+      "width": 7.6146,
+      "height": 0.2995,
+      "text": "哈理工A.I.R.创新实验室"
+    },
+    {
+      "id": 4,
+      "type": "TEXT_BOX",
+      "left": 1.3917,
+      "top": 1.3858,
+      "width": 9.0194,
+      "height": 4.7459,
+      "text": "编程语言是人向计算机描述任务和执行步骤的工具。\n\n\t机器语言是由0和1组成的指令，计算机可以直接执行。\n\tC语言的程序通常经过编译、链接，生成包含机器代码的可执行程序。gcc常用于编译C程序，g++常"
+    }
+  ],
+  "available_regions": [],
+  "images_used": [
+    "image2.png"
+  ]
+}

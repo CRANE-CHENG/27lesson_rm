@@ -1,0 +1,647 @@
+{
+  "ok": true,
+  "pptx": "template-c01.pptx",
+  "canvas": {
+    "width_inch": 13.3333,
+    "height_inch": 7.5
+  },
+  "total_slides": 29,
+  "capability_level": "degraded",
+  "capabilities": {
+    "python_pptx": true,
+    "pypdfium2": true,
+    "pil": true,
+    "lxml": true,
+    "soffice": false
+  },
+  "overview": {
+    "ok": true,
+    "reason": "ok_via_screenshot",
+    "path": "thumbs/overview.jpg",
+    "paths": [
+      "thumbs/overview.jpg"
+    ],
+    "sharded": false,
+    "shard_count": 1
+  },
+  "lark": {
+    "template_imported": true,
+    "deck": {
+      "xml_presentation_id": "MRoTswOBPlNnMYdGxFdc7xJTnZc",
+      "url": "https://my.feishu.cn/slides/MRoTswOBPlNnMYdGxFdc7xJTnZc",
+      "first_page_slide_id": "pVr",
+      "first_page_state": "blank"
+    }
+  },
+  "visual_language": {
+    "primary_colors": [
+      "rgba(31, 35, 41, 1)",
+      "rgba(240, 240, 240, 1)",
+      "rgba(3, 72, 149, 1)",
+      "rgba(255, 255, 255, 1)",
+      "rgba(0, 0, 238, 0.85)",
+      "rgba(0, 0, 238, 0.58)"
+    ],
+    "fonts_declared": {
+      "major_latin": "等线 Light",
+      "minor_latin": "等线",
+      "major_ea": null,
+      "minor_ea": null
+    },
+    "fonts_used": [
+      {
+        "name": "思源黑体",
+        "count": 1101
+      },
+      {
+        "name": "Noto Sans CJK SC",
+        "count": 161
+      },
+      {
+        "name": "Consolas",
+        "count": 93
+      },
+      {
+        "name": "等线",
+        "count": 55
+      }
+    ]
+  },
+  "assets_local_files": [
+    {
+      "filename": "image9.png",
+      "size_bytes": 14294,
+      "local_path": "assets\\image9.png"
+    },
+    {
+      "filename": "image8.png",
+      "size_bytes": 18522,
+      "local_path": "assets\\image8.png"
+    },
+    {
+      "filename": "image7.png",
+      "size_bytes": 428369,
+      "local_path": "assets\\image7.png"
+    },
+    {
+      "filename": "image6.png",
+      "size_bytes": 11461,
+      "local_path": "assets\\image6.png"
+    },
+    {
+      "filename": "image5.png",
+      "size_bytes": 71,
+      "local_path": "assets\\image5.png"
+    },
+    {
+      "filename": "image4.png",
+      "size_bytes": 58844,
+      "local_path": "assets\\image4.png"
+    },
+    {
+      "filename": "image3.png",
+      "size_bytes": 233902,
+      "local_path": "assets\\image3.png"
+    },
+    {
+      "filename": "image2.png",
+      "size_bytes": 73126,
+      "local_path": "assets\\image2.png"
+    },
+    {
+      "filename": "image1.png",
+      "size_bytes": 207223,
+      "local_path": "assets\\image1.png"
+    }
+  ],
+  "assets_with_tokens": [
+    {
+      "file_token": "YUzCbN1kfoafUjxopNdcgZVMnLg",
+      "used_in_slide_num": [
+        1,
+        4,
+        8,
+        11,
+        15,
+        29
+      ],
+      "source": "template"
+    },
+    {
+      "file_token": "OrCKbuA53o6Jlyxhe73cSAORn4e",
+      "used_in_slide_num": [
+        2,
+        3,
+        5,
+        6,
+        7,
+        9,
+        10,
+        12,
+        13,
+        14,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28
+      ],
+      "source": "template"
+    },
+    {
+      "file_token": "LEJTbdvA8oTXwZxmB4fcCZcPnQd",
+      "used_in_slide_num": [
+        2
+      ],
+      "source": "template"
+    },
+    {
+      "file_token": "QQxDbIayuo1ImaxEMmgcrBnynFb",
+      "used_in_slide_num": [
+        3
+      ],
+      "source": "template"
+    },
+    {
+      "file_token": "UaKCbw35poLWOTxaiFCcDxTmnoc",
+      "used_in_slide_num": [
+        5
+      ],
+      "source": "template"
+    },
+    {
+      "file_token": "JAZCbvfMYoTkFmxo71scr6Pcn2f",
+      "used_in_slide_num": [
+        6
+      ],
+      "source": "template"
+    },
+    {
+      "file_token": "Kf95bw8oMo298sxOmHrcTVRQndf",
+      "used_in_slide_num": [
+        12
+      ],
+      "source": "template"
+    },
+    {
+      "file_token": "Bf21bfyPconqgYxscOBce80ynOc",
+      "used_in_slide_num": [
+        14
+      ],
+      "source": "template"
+    }
+  ],
+  "sample_placeholders": [],
+  "slides": [
+    {
+      "slide_num": 1,
+      "role": "cover",
+      "slide_id": "pVr",
+      "local_xml_path": "source-slides\\slide-01.xml",
+      "preview_text": "培训时间：9.25 主讲人：吴亚翰（西）赵亿（南） / 电控组第一讲 / 『生无所息，斗无所止』",
+      "images_used": [
+        "image1.png"
+      ],
+      "shape_count": {
+        "shell": 2,
+        "content": 11
+      },
+      "content_skeleton_path": null
+    },
+    {
+      "slide_num": 2,
+      "role": "chapter",
+      "slide_id": "pVK",
+      "local_xml_path": "source-slides\\slide-02.xml",
+      "preview_text": "哈理工A.I.R.创新实验室",
+      "images_used": [
+        "image2.png",
+        "image3.png"
+      ],
+      "shape_count": {
+        "shell": 2,
+        "content": 4
+      },
+      "content_skeleton_path": null
+    },
+    {
+      "slide_num": 3,
+      "role": "toc",
+      "slide_id": "pVq",
+      "local_xml_path": "source-slides\\slide-03.xml",
+      "preview_text": "目录 / 02 / 走进 C 语言 / 哈理工A.I.R.创新实验室",
+      "images_used": [
+        "image4.png",
+        "image2.png",
+        "image5.png"
+      ],
+      "shape_count": {
+        "shell": 2,
+        "content": 16
+      },
+      "content_skeleton_path": "manifest\\content-skeletons\\slide-03.content-skeleton.xml"
+    },
+    {
+      "slide_num": 4,
+      "role": "chapter",
+      "slide_id": "pVm",
+      "local_xml_path": "source-slides\\slide-04.xml",
+      "preview_text": "『生无所息，斗无所止』 / 01战队历史及电控组介绍",
+      "images_used": [
+        "image1.png"
+      ],
+      "shape_count": {
+        "shell": 1,
+        "content": 9
+      },
+      "content_skeleton_path": "manifest\\content-skeletons\\slide-04.content-skeleton.xml"
+    },
+    {
+      "slide_num": 5,
+      "role": "chapter",
+      "slide_id": "pVp",
+      "local_xml_path": "source-slides\\slide-05.xml",
+      "preview_text": "哈理工A.I.R.创新实验室 / 哈理工A.I.R.战队(简称为A.I.R.),分为大创工作室、竞赛工作室、无人机工作室、运宣工作室以及A.I.R.机器人俱乐部。\n\t目前实验室主要进行Robomaster（简称RM）比赛，同时有其他各",
+      "images_used": [
+        "image2.png",
+        "image6.png"
+      ],
+      "shape_count": {
+        "shell": 3,
+        "content": 5
+      },
+      "content_skeleton_path": "manifest\\content-skeletons\\slide-05.content-skeleton.xml"
+    },
+    {
+      "slide_num": 6,
+      "role": "content",
+      "slide_id": "pVY",
+      "local_xml_path": "source-slides\\slide-06.xml",
+      "preview_text": "哈理工A.I.R.创新实验室 / 电控职责 / 机械 / 电控 / 骨骼 / 大脑和神经系统 / 软件 / 硬件",
+      "images_used": [
+        "image2.png",
+        "image7.png"
+      ],
+      "shape_count": {
+        "shell": 7,
+        "content": 10
+      },
+      "content_skeleton_path": "manifest\\content-skeletons\\slide-06.content-skeleton.xml"
+    },
+    {
+      "slide_num": 7,
+      "role": "chapter",
+      "slide_id": "pVN",
+      "local_xml_path": "source-slides\\slide-07.xml",
+      "preview_text": "哈理工A.I.R.创新实验室 / 电控组主要负责的内容：\n\t1. 调试各类机器人，负责电机控制、运动控制\n\t2. 连接整车线材，完成电路搭建\n\t3. 控制整车功率、完成部分模型建模\n\n电控组主要技术的内容：\n\t1. 熟练C语言代码编写",
+      "images_used": [
+        "image2.png"
+      ],
+      "shape_count": {
+        "shell": 2,
+        "content": 4
+      },
+      "content_skeleton_path": "manifest\\content-skeletons\\slide-07.content-skeleton.xml"
+    },
+    {
+      "slide_num": 8,
+      "role": "chapter",
+      "slide_id": "pVH",
+      "local_xml_path": "source-slides\\slide-08.xml",
+      "preview_text": "『生无所息，斗无所止』 / 02 走进 C 语言",
+      "images_used": [
+        "image1.png"
+      ],
+      "shape_count": {
+        "shell": 1,
+        "content": 9
+      },
+      "content_skeleton_path": "manifest\\content-skeletons\\slide-08.content-skeleton.xml"
+    },
+    {
+      "slide_num": 9,
+      "role": "chapter",
+      "slide_id": "pVg",
+      "local_xml_path": "source-slides\\slide-09.xml",
+      "preview_text": "哈理工A.I.R.创新实验室 / 编程语言是人向计算机描述任务和执行步骤的工具。\n\n\t机器语言是由0和1组成的指令，计算机可以直接执行。\n\tC语言的程序通常经过编译、链接，生成包含机器代码的可执行程序。gcc常用于编译C程序，g++常",
+      "images_used": [
+        "image2.png"
+      ],
+      "shape_count": {
+        "shell": 2,
+        "content": 4
+      },
+      "content_skeleton_path": "manifest\\content-skeletons\\slide-09.content-skeleton.xml"
+    },
+    {
+      "slide_num": 10,
+      "role": "chapter",
+      "slide_id": "pVB",
+      "local_xml_path": "source-slides\\slide-10.xml",
+      "preview_text": "哈理工A.I.R.创新实验室 / C语言内容\n1.数据类型\n2.运算符和表达式\n3.分支与循环语句\n4.字符串\n5.函数\n6.数组与指针\n7.结构体，枚举体 / C语言怎么学:\ni.   视频:B站翁恺（BV1dr4y1n7vA）等\nii.  C语言书籍:系统，全面(例如《C Primer Plus》等)\niii. 网站:菜鸟教程\niv. 大量练习语法:作业+",
+      "images_used": [
+        "image2.png"
+      ],
+      "shape_count": {
+        "shell": 2,
+        "content": 5
+      },
+      "content_skeleton_path": "manifest\\content-skeletons\\slide-10.content-skeleton.xml"
+    },
+    {
+      "slide_num": 11,
+      "role": "chapter",
+      "slide_id": "pVh",
+      "local_xml_path": "source-slides\\slide-11.xml",
+      "preview_text": "『生无所息，斗无所止』 / 03  C 语言基础语法",
+      "images_used": [
+        "image1.png"
+      ],
+      "shape_count": {
+        "shell": 1,
+        "content": 9
+      },
+      "content_skeleton_path": "manifest\\content-skeletons\\slide-11.content-skeleton.xml"
+    },
+    {
+      "slide_num": 12,
+      "role": "ending",
+      "slide_id": "pVz",
+      "local_xml_path": "source-slides\\slide-12.xml",
+      "preview_text": "哈理工A.I.R.创新实验室 / #include <stdio.h>\n\nint main(void)\n{\n    printf(\"Hello World!\\n\");\n    return 0;\n} / 每个程序必须包含 main() 函数。\n每条语句以 分号 ; 结束。\n语句块使用 花括号 {} 括起来。\nC 区分大小写（main ≠ Main）",
+      "images_used": [
+        "image2.png",
+        "image8.png"
+      ],
+      "shape_count": {
+        "shell": 2,
+        "content": 7
+      },
+      "content_skeleton_path": "manifest\\content-skeletons\\slide-12.content-skeleton.xml"
+    },
+    {
+      "slide_num": 13,
+      "role": "chapter",
+      "slide_id": "pVL",
+      "local_xml_path": "source-slides\\slide-13.xml",
+      "preview_text": "哈理工A.I.R.创新实验室 / 标识符用于命名变量、函数等。\n命名规则：\n只能使用 字母、数字、下划线；\n不能以数字开头；\n区分大小写；\n不能使用关键字。\n\n✅ 合法示例：score, user_name, _count❌ 非法示例 / 注释\n\n单行注释：\n \n// 这是一行注释，下面是代码\na = b;\n\n多行注释：\n \n/* 这是注释内容 \n下面还是注释内容 */",
+      "images_used": [
+        "image2.png"
+      ],
+      "shape_count": {
+        "shell": 2,
+        "content": 5
+      },
+      "content_skeleton_path": "manifest\\content-skeletons\\slide-13.content-skeleton.xml"
+    },
+    {
+      "slide_num": 14,
+      "role": "content",
+      "slide_id": "pVW",
+      "local_xml_path": "source-slides\\slide-14.xml",
+      "preview_text": "哈理工A.I.R.创新实验室 / scanf() 用于输入数据，printf() 用于输出数据。注意：输入变量前要加 & 取地址符。 / #include <stdio.h>\nint main(void)\n{\n    int a;\n    printf(\"请输入一个整数：\");\n    scanf(\"%d\", &a);\n    prin / 运行效果：\n\n\t在执行程序后，弹出输入整数提示。输入整数",
+      "images_used": [
+        "image2.png",
+        "image9.png"
+      ],
+      "shape_count": {
+        "shell": 2,
+        "content": 7
+      },
+      "content_skeleton_path": "manifest\\content-skeletons\\slide-14.content-skeleton.xml"
+    },
+    {
+      "slide_num": 15,
+      "role": "chapter",
+      "slide_id": "pVX",
+      "local_xml_path": "source-slides\\slide-15.xml",
+      "preview_text": "『生无所息，斗无所止』 / 04 C 语言基础知识",
+      "images_used": [
+        "image1.png"
+      ],
+      "shape_count": {
+        "shell": 1,
+        "content": 9
+      },
+      "content_skeleton_path": "manifest\\content-skeletons\\slide-15.content-skeleton.xml"
+    },
+    {
+      "slide_num": 16,
+      "role": "chapter",
+      "slide_id": "pVO",
+      "local_xml_path": "source-slides\\slide-16.xml",
+      "preview_text": "哈理工A.I.R.创新实验室 / 例子：\nprintf(\"%zu\\n\", sizeof(int));  // 输出 int 类型所占字节数",
+      "images_used": [
+        "image2.png"
+      ],
+      "shape_count": {
+        "shell": 4,
+        "content": 5
+      },
+      "content_skeleton_path": "manifest\\content-skeletons\\slide-16.content-skeleton.xml"
+    },
+    {
+      "slide_num": 17,
+      "role": "content",
+      "slide_id": "pVF",
+      "local_xml_path": "source-slides\\slide-17.xml",
+      "preview_text": "哈理工A.I.R.创新实验室 / 变量是存储数据的命名空间，使用前必须先定义：\nint age = 20;\nfloat height = 1.75;\n变量可多次赋值，后一次赋值覆盖前一次。 / 常量的值在程序运行中不能改变。\n方式一：使用 #define\n#define PI 3.14159\n方式二：使用 const\nconst int MAX = 100; / 变量和常量的存储空间：",
+      "images_used": [
+        "image2.png"
+      ],
+      "shape_count": {
+        "shell": 2,
+        "content": 6
+      },
+      "content_skeleton_path": "manifest\\content-skeletons\\slide-17.content-skeleton.xml"
+    },
+    {
+      "slide_num": 18,
+      "role": "toc",
+      "slide_id": "pVx",
+      "local_xml_path": "source-slides\\slide-18.xml",
+      "preview_text": "环境配置：编辑器与编译器 / 哈理工 A.I.R. 创新实验室 / Vscode配置： / 1. 安装 VS Code 与 Microsoft C/C++ 扩展，用于编写代码。 / 2. 安装 MSYS2，在 MSYS2 终端执行工具链安装命令： / pacman -S --needed base-devel mingw-w64-ucrt-x86_64-toolchain / 3. 在 Windo",
+      "images_used": [
+        "image2.png"
+      ],
+      "shape_count": {
+        "shell": 2,
+        "content": 11
+      },
+      "content_skeleton_path": "manifest\\content-skeletons\\slide-18.content-skeleton.xml"
+    },
+    {
+      "slide_num": 19,
+      "role": "content",
+      "slide_id": "pVJ",
+      "local_xml_path": "source-slides\\slide-19.xml",
+      "preview_text": "创建工程与第一次运行 / 哈理工 A.I.R. 创新实验室 / 工程操作 / 1. 新建文件夹 c_lesson01。\n2. 用 VS Code 打开该文件夹。\n3. 新建 main.c，输入右侧代码。\n4. 保存文件，打开集成终端。 / main.c / #include <stdio.h>\nint main(void)\n{\n    printf(\"Hello, C!\\n\");\n    retu",
+      "images_used": [
+        "image2.png"
+      ],
+      "shape_count": {
+        "shell": 2,
+        "content": 8
+      },
+      "content_skeleton_path": "manifest\\content-skeletons\\slide-19.content-skeleton.xml"
+    },
+    {
+      "slide_num": 20,
+      "role": "content",
+      "slide_id": "pVE",
+      "local_xml_path": "source-slides\\slide-20.xml",
+      "preview_text": "C 程序的编译与运行 / 哈理工 A.I.R. 创新实验室 / 编译命令通常一次完成上面四步，中间文件默认不保留。 / gcc main.c -o main.exe / 运行：操作系统加载程序并执行。",
+      "images_used": [
+        "image2.png"
+      ],
+      "shape_count": {
+        "shell": 2,
+        "content": 8
+      },
+      "content_skeleton_path": "manifest\\content-skeletons\\slide-20.content-skeleton.xml"
+    },
+    {
+      "slide_num": 21,
+      "role": "content",
+      "slide_id": "pVD",
+      "local_xml_path": "source-slides\\slide-21.xml",
+      "preview_text": "算术、赋值与运算顺序 / 哈理工 A.I.R. 创新实验室 / int count = 3;\ncount = count + 2;  // count is 5\ncount += 2;        // count is 7 / = 表示赋值\n+= 表示加后再赋值 / 先算括号，再算乘除取余，最后算加减；同级算术运算从左到右。 / 随堂练习：2 + 3 * 4 与 (2 + 3) * 4 的结果",
+      "images_used": [
+        "image2.png"
+      ],
+      "shape_count": {
+        "shell": 2,
+        "content": 9
+      },
+      "content_skeleton_path": "manifest\\content-skeletons\\slide-21.content-skeleton.xml"
+    },
+    {
+      "slide_num": 22,
+      "role": "content",
+      "slide_id": "pVe",
+      "local_xml_path": "source-slides\\slide-22.xml",
+      "preview_text": "关系与逻辑运算 / 哈理工 A.I.R. 创新实验室 / 0 表示假，非 0 表示真；关系和逻辑运算的结果为 0 或 1 / int a = 5, b = 2;\na > b           // 1\na == b          // 0\n(a > b) && (b > 0)  // 1 / a = b：把 b 的值赋给 a\na == b：判断两者是否相等",
+      "images_used": [
+        "image2.png"
+      ],
+      "shape_count": {
+        "shell": 2,
+        "content": 8
+      },
+      "content_skeleton_path": "manifest\\content-skeletons\\slide-22.content-skeleton.xml"
+    },
+    {
+      "slide_num": 23,
+      "role": "content",
+      "slide_id": "pVR",
+      "local_xml_path": "source-slides\\slide-23.xml",
+      "preview_text": "printf：输出数据 / 哈理工 A.I.R. 创新实验室 / int count = 3;\ndouble voltage = 12.5;\nprintf(\"count=%d, U=%.2f V\\n\", count, voltage); / 输出：count=3, U=12.50 V / \\n 换行；%.2f 保留两位小数显示；多个参数按顺序对应。",
+      "images_used": [
+        "image2.png"
+      ],
+      "shape_count": {
+        "shell": 2,
+        "content": 8
+      },
+      "content_skeleton_path": "manifest\\content-skeletons\\slide-23.content-skeleton.xml"
+    },
+    {
+      "slide_num": 24,
+      "role": "content",
+      "slide_id": "pVT",
+      "local_xml_path": "source-slides\\slide-24.xml",
+      "preview_text": "scanf：输入数据 / 哈理工 A.I.R. 创新实验室 / double voltage, current;\nscanf(\"%lf %lf\", &voltage, &current); / 输入示例：12 0.5    输入两个数后按回车。 / 本页数值变量前要加 &，输入顺序要与变量顺序一致。 / 注意：scanf 中 double 用 %lf，printf 中用 %f。",
+      "images_used": [
+        "image2.png"
+      ],
+      "shape_count": {
+        "shell": 2,
+        "content": 9
+      },
+      "content_skeleton_path": "manifest\\content-skeletons\\slide-24.content-skeleton.xml"
+    },
+    {
+      "slide_num": 25,
+      "role": "content",
+      "slide_id": "pVn",
+      "local_xml_path": "source-slides\\slide-25.xml",
+      "preview_text": "类型转换与整数除法 / 哈理工 A.I.R. 创新实验室 / 平均值中的常见错误 / int a = 5, b = 2;\ndouble average = (a + b) / 2.0; / average = 3.5",
+      "images_used": [
+        "image2.png"
+      ],
+      "shape_count": {
+        "shell": 2,
+        "content": 8
+      },
+      "content_skeleton_path": "manifest\\content-skeletons\\slide-25.content-skeleton.xml"
+    },
+    {
+      "slide_num": 26,
+      "role": "content",
+      "slide_id": "pVV",
+      "local_xml_path": "source-slides\\slide-26.xml",
+      "preview_text": "课堂示例：电功率计算 / 哈理工 A.I.R. 创新实验室 / #include <stdio.h>\nint main(void)\n{\n    double voltage, current, power;\n    printf(\"U(V), I(A):\\n\"); / 思路 / 输入 U、I\n\n计算 P = U × I\n\n输出 P / 输入：12 0.5       输出：P = 6.00 W",
+      "images_used": [
+        "image2.png"
+      ],
+      "shape_count": {
+        "shell": 2,
+        "content": 8
+      },
+      "content_skeleton_path": "manifest\\content-skeletons\\slide-26.content-skeleton.xml"
+    },
+    {
+      "slide_num": 27,
+      "role": "content",
+      "slide_id": "pVl",
+      "local_xml_path": "source-slides\\slide-27.xml",
+      "preview_text": "独立练习：圆的周长与面积 / 哈理工 A.I.R. 创新实验室 / 任务：新建 circle 工程，输入半径，输出周长与面积 / 输入约定：半径 r 为合法正数，单位为 cm。 / const double PI = 3.1415926; / 公式：周长 C = 2 × PI × r    面积 S = PI × r × r / 要求：使用变量与常量，读取输入，计算并输出两位小数及单位。",
+      "images_used": [
+        "image2.png"
+      ],
+      "shape_count": {
+        "shell": 2,
+        "content": 10
+      },
+      "content_skeleton_path": "manifest\\content-skeletons\\slide-27.content-skeleton.xml"
+    },
+    {
+      "slide_num": 28,
+      "role": "content",
+      "slide_id": "pVw",
+      "local_xml_path": "source-slides\\slide-28.xml",
+      "preview_text": "常见错误与完成标准 / 哈理工 A.I.R. 创新实验室 / 完成标准 / 能独立建工程并运行；能解释输入、计算、输出各行的作用。 / 两组测试结果正确，输出带单位；能定位并修改一处简单错误。",
+      "images_used": [
+        "image2.png"
+      ],
+      "shape_count": {
+        "shell": 2,
+        "content": 8
+      },
+      "content_skeleton_path": "manifest\\content-skeletons\\slide-28.content-skeleton.xml"
+    },
+    {
+      "slide_num": 29,
+      "role": "ending",
+      "slide_id": "pVa",
+      "local_xml_path": "source-slides\\slide-29.xml",
+      "preview_text": "『生无所息，斗无所止』 / 下课啦！",
+      "images_used": [
+        "image1.png"
+      ],
+      "shape_count": {
+        "shell": 1,
+        "content": 9
+      },
+      "content_skeleton_path": null
+    }
+  ]
+}

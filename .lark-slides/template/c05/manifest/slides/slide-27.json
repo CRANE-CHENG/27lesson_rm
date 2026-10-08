@@ -1,0 +1,122 @@
+{
+  "slide_num": 27,
+  "role": "content",
+  "slide_id": "psV",
+  "local_xml_path": "source-slides\\slide-27.xml",
+  "shell_shapes": [
+    {
+      "id": 2,
+      "type": "AUTO_SHAPE",
+      "left": 12.8423,
+      "top": 0.855,
+      "width": 0.3023,
+      "height": 0.2606,
+      "text": ""
+    },
+    {
+      "id": 8,
+      "type": "PICTURE",
+      "left": 12.3669,
+      "top": 0.5999,
+      "width": 0.6132,
+      "height": 0.6132,
+      "text": ""
+    }
+  ],
+  "content_shapes": [
+    {
+      "id": 3,
+      "type": "GROUP",
+      "left": 0.4619,
+      "top": 0.219,
+      "width": 4.8946,
+      "height": 1.0661,
+      "text": ""
+    },
+    {
+      "id": 7,
+      "type": "FREEFORM",
+      "left": 9.3582,
+      "top": 0.5999,
+      "width": 8.6841,
+      "height": 0.6132,
+      "text": ""
+    },
+    {
+      "id": 9,
+      "type": "AUTO_SHAPE",
+      "left": 1.5625,
+      "top": 0.4375,
+      "width": 7.6562,
+      "height": 0.6042,
+      "text": "独立练习：圆的周长与面积"
+    },
+    {
+      "id": 10,
+      "type": "AUTO_SHAPE",
+      "left": 9.8333,
+      "top": 0.7708,
+      "width": 2.5208,
+      "height": 0.3333,
+      "text": "哈理工 A.I.R. 创新实验室"
+    },
+    {
+      "id": 11,
+      "type": "AUTO_SHAPE",
+      "left": 0.9896,
+      "top": 1.6146,
+      "width": 11.3542,
+      "height": 0.5,
+      "text": "任务：新建 circle 工程，输入半径，输出周长与面积"
+    },
+    {
+      "id": 12,
+      "type": "AUTO_SHAPE",
+      "left": 0.9896,
+      "top": 2.2708,
+      "width": 11.3542,
+      "height": 0.5104,
+      "text": "输入约定：半径 r 为合法正数，单位为 cm。"
+    },
+    {
+      "id": 13,
+      "type": "AUTO_SHAPE",
+      "left": 0.9896,
+      "top": 2.9375,
+      "width": 11.3542,
+      "height": 0.4688,
+      "text": "const double PI = 3.1415926;"
+    },
+    {
+      "id": 14,
+      "type": "AUTO_SHAPE",
+      "left": 0.9896,
+      "top": 3.5729,
+      "width": 11.3542,
+      "height": 0.5938,
+      "text": "公式：周长 C = 2 × PI × r    面积 S = PI × r × r"
+    },
+    {
+      "id": 15,
+      "type": "AUTO_SHAPE",
+      "left": 0.9896,
+      "top": 4.2604,
+      "width": 11.3542,
+      "height": 0.5417,
+      "text": "要求：使用变量与常量，读取输入，计算并输出两位小数及单位。"
+    },
+    {
+      "id": 16,
+      "type": "TABLE",
+      "left": 0.9896,
+      "top": 5.0521,
+      "width": 11.3542,
+      "height": 1.6354,
+      "text": ""
+    }
+  ],
+  "available_regions": [],
+  "images_used": [
+    "image2.png"
+  ]
+}

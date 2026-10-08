@@ -1,0 +1,68 @@
+{
+  "slide_num": 7,
+  "role": "chapter",
+  "slide_id": "psA",
+  "local_xml_path": "source-slides\\slide-07.xml",
+  "shell_shapes": [
+    {
+      "id": 19,
+      "type": "AUTO_SHAPE",
+      "left": 12.8423,
+      "top": 0.855,
+      "width": 0.3023,
+      "height": 0.2606,
+      "text": ""
+    },
+    {
+      "id": 9,
+      "type": "PICTURE",
+      "left": 12.3669,
+      "top": 0.5999,
+      "width": 0.6132,
+      "height": 0.6132,
+      "text": ""
+    }
+  ],
+  "content_shapes": [
+    {
+      "id": 16,
+      "type": "GROUP",
+      "left": 0.4619,
+      "top": 0.219,
+      "width": 6.6078,
+      "height": 1.0661,
+      "text": ""
+    },
+    {
+      "id": 7,
+      "type": "FREEFORM",
+      "left": 9.3582,
+      "top": 0.5999,
+      "width": 8.6841,
+      "height": 0.6132,
+      "text": ""
+    },
+    {
+      "id": 10,
+      "type": "TEXT_BOX",
+      "left": 9.8002,
+      "top": 0.7568,
+      "width": 7.6146,
+      "height": 0.2995,
+      "text": "哈理工A.I.R.创新实验室"
+    },
+    {
+      "id": 3,
+      "type": "TEXT_BOX",
+      "left": 1.835,
+      "top": 1.7437,
+      "width": 9.0194,
+      "height": 4.5439,
+      "text": "电控组主要负责的内容：\n\t1. 调试各类机器人，负责电机控制、运动控制\n\t2. 连接整车线材，完成电路搭建\n\t3. 控制整车功率、完成部分模型建模\n\n电控组主要技术的内容：\n\t1. 熟练C语言代码编写"
+    }
+  ],
+  "available_regions": [],
+  "images_used": [
+    "image2.png"
+  ]
+}

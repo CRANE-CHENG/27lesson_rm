@@ -1,0 +1,653 @@
+﻿########## 培训ppt\电控组c语言培训第一讲.pptx
+===== SLIDE 1  layout='空白' =====
+- [PICTURE (13)] 11 name='图片 10' pos=(-0.21,1.49) size=(7.01,5.07)
+- [FREEFORM (5)] 72 name='任意多边形: 形状 71' pos=(-4.51,1.99) size=(9.18,0.84)
+- [AUTO_SHAPE (1)] 7 name='平行四边形 6' pos=(9.26,2.29) size=(3.55,4.13)
+- [FREEFORM (5)] 66 name='任意多边形: 形状 65' pos=(3.07,2.26) size=(10.74,2.53)
+- [FREEFORM (5)] 69 name='任意多边形: 形状 68' pos=(-4.51,0.48) size=(8.68,0.61)
+- [FREEFORM (5)] 73 name='任意多边形: 形状 72' pos=(-2.95,6.15) size=(6.88,0.63)
+- [FREEFORM (5)] 74 name='任意多边形: 形状 73' pos=(-0.42,6.77) size=(5.67,0.52)
+- [FREEFORM (5)] 9 name='等腰三角形 8' pos=(10.11,3.77) size=(3.09,4.90)
+- [AUTO_SHAPE (1)] 14 name='平行四边形 13' pos=(6.05,1.47) size=(1.24,0.53)
+- [AUTO_SHAPE (1)] 81 name='平行四边形 80' pos=(7.73,1.21) size=(0.66,0.28)
+- [AUTO_SHAPE (1)] 83 name='矩形 82' pos=(5.25,6.71) size=(5.16,0.37)
+    P lvl=0 align=CENTER (2) sz=16.0 bold=None font=思源黑体 color=theme:ACCENT_6 (10) | 培训时间：9.25 主讲人：吴亚翰（西）赵亿（南）
+- [TEXT_BOX (17)] 85 name='标题 3' pos=(4.67,3.02) size=(9.73,1.69)
+    P lvl=0 align=None sz=54.0 bold=None font=None color=theme:BACKGROUND_1 (14) | 电控组第一讲
+- [TEXT_BOX (17)] 10 name='文本框 9' pos=(0.13,0.60) size=(7.59,0.37)
+    P lvl=0 align=None sz=20.0 bold=True font=黑体 color=000000 | 『生无所息，斗无所止』
+===== SLIDE 2  layout='内页' =====
+- [AUTO_SHAPE (1)] 19 name='淘宝网chenying0907出品 24' pos=(12.84,0.86) size=(0.30,0.26)
+- [GROUP (6)] 16 name='组合 15' pos=(0.46,0.22) size=(6.61,1.07)
+  - [GROUP (6)] 17 name='组合 16' pos=(1.09,0.46) size=(5.98,0.83)
+    - [TEXT_BOX (17)] 26 name='文本框 25' pos=(1.54,0.46) size=(5.53,0.50)
+        P lvl=0 align=None sz=24.0 bold=True font=锐字真言体免费商用 color=theme:BACKGROUND_1 (14) | 关于时间安排:
+    - [TEXT_BOX (17)] 27 name='文本框 26' pos=(1.09,0.88) size=(3.90,0.40)
+  - [TEXT_BOX (17)] 25 name='文本框 24' pos=(0.46,0.22) size=(0.93,0.71)
+      P lvl=0 align=None sz=36.0 bold=True font=锐字真言体免费商用 color=theme:BACKGROUND_1 (14) | 00
+- [FREEFORM (5)] 7 name='任意多边形: 形状 68' pos=(9.36,0.60) size=(8.68,0.61)
+- [PICTURE (13)] 9 name='图片 8' pos=(12.37,0.60) size=(0.61,0.61)
+- [TEXT_BOX (17)] 10 name='文本框 9' pos=(9.80,0.76) size=(7.61,0.30)
+    P lvl=0 align=None sz=14.0 bold=None font=None color=000000 | 哈理工A.I.R.创新实验室
+- [PICTURE (13)] 4 name='图片 3' pos=(1.54,1.21) size=(8.36,5.33)
+===== SLIDE 3  layout='空白' =====
+- [FREEFORM (5)] 19 name='任意多边形: 形状 18' pos=(12.61,-0.42) size=(0.75,5.71)
+- [FREEFORM (5)] 31 name='任意多边形: 形状 30' pos=(-0.56,-1.32) size=(2.38,4.84)
+- [EMBEDDED_OLE_OBJECT (7)] 3 name='对象 2' pos=(0.00,0.00) size=(0.00,0.00)
+- [AUTO_SHAPE (1)] 4 name='矩形 3' pos=(0.00,0.00) size=(0.17,0.17)
+- [AUTO_SHAPE (1)] 6 name='矩形 5' pos=(1.59,-2.83) size=(1.07,9.53)
+- [FREEFORM (5)] 20 name='任意多边形: 形状 19' pos=(-0.52,-0.36) size=(0.88,3.97)
+- [FREEFORM (5)] 33 name='任意多边形: 形状 32' pos=(0.07,3.09) size=(0.58,0.43)
+- [FREEFORM (5)] 27 name='任意多边形: 形状 26' pos=(0.06,-1.07) size=(0.88,3.97)
+- [FREEFORM (5)] 38 name='任意多边形: 形状 37' pos=(1.74,1.10) size=(0.75,5.71)
+- [AUTO_SHAPE (1)] 35 name='矩形 34' pos=(2.18,2.31) size=(1.32,0.77)
+    P lvl=0 align=None sz=40.0 bold=True font=思源黑体 color=theme:ACCENT_1 (5) | 目录
+- [AUTO_SHAPE (1)] 39 name='矩形 38' pos=(5.50,3.18) size=(0.75,0.75)
+    P lvl=0 align=CENTER (2) sz=28.0 bold=True font=None color=theme:TEXT_1 (13) | 02
+- [TEXT_BOX (17)] 40 name='文本框 39' pos=(6.46,3.22) size=(5.80,0.71)
+    P lvl=0 align=None sz=36.0 bold=True font=锐字真言体免费商用 color=theme:ACCENT_5 (9) | 走进 C 语言
+- [GROUP (6)] 13 name='组合 12' pos=(5.50,4.31) size=(6.74,0.76)
+  - [AUTO_SHAPE (1)] 41 name='矩形 40' pos=(5.50,4.32) size=(0.75,0.75)
+      P lvl=0 align=CENTER (2) sz=28.0 bold=True font=None color=theme:TEXT_1 (13) | 03
+  - [TEXT_BOX (17)] 44 name='文本框 43' pos=(6.43,4.31) size=(5.80,0.71)
+      P lvl=0 align=None sz=36.0 bold=True font=锐字真言体免费商用 color=theme:ACCENT_5 (9) | C 语言基础语法
+- [FREEFORM (5)] 69 name='任意多边形: 形状 68' pos=(9.36,0.60) size=(8.68,0.61)
+- [PICTURE (13)] 5 name='图片 4' pos=(12.37,0.60) size=(0.61,0.61)
+- [TEXT_BOX (17)] 7 name='文本框 6' pos=(9.80,0.76) size=(7.61,0.30)
+    P lvl=0 align=None sz=14.0 bold=None font=None color=000000 | 哈理工A.I.R.创新实验室
+- [GROUP (6)] 11 name='组合 10' pos=(5.48,2.03) size=(7.23,0.75)
+  - [AUTO_SHAPE (1)] 8 name='矩形 7' pos=(5.48,2.03) size=(0.75,0.75)
+      P lvl=0 align=CENTER (2) sz=28.0 bold=True font=None color=theme:TEXT_1 (13) | 01
+  - [TEXT_BOX (17)] 9 name='文本框 8' pos=(6.43,2.07) size=(6.28,0.71)
+      P lvl=0 align=None sz=36.0 bold=None font=None color=theme:ACCENT_5 (9) | 战队历史及电控组介绍
+- [GROUP (6)] 14 name='组合 13' pos=(5.48,5.46) size=(6.74,0.76)
+  - [AUTO_SHAPE (1)] 2 name='矩形 1' pos=(5.48,5.47) size=(0.75,0.75)
+      P lvl=0 align=CENTER (2) sz=28.0 bold=True font=None color=theme:TEXT_1 (13) | 04
+  - [TEXT_BOX (17)] 10 name='文本框 9' pos=(6.42,5.46) size=(5.80,0.71)
+      P lvl=0 align=None sz=36.0 bold=True font=锐字真言体免费商用 color=theme:ACCENT_5 (9) | C 语言基础知识
+===== SLIDE 4  layout='空白' =====
+- [PICTURE (13)] 11 name='图片 10' pos=(-0.19,1.10) size=(6.95,5.03)
+- [FREEFORM (5)] 26 name='任意多边形: 形状 25' pos=(6.57,-3.43) size=(2.29,11.83)
+- [FREEFORM (5)] 16 name='任意多边形: 形状 15' pos=(7.39,3.13) size=(0.71,1.22)
+- [FREEFORM (5)] 25 name='任意多边形: 形状 24' pos=(3.51,4.34) size=(4.71,6.47)
+- [FREEFORM (5)] 10 name='任意多边形: 形状 9' pos=(11.95,1.10) size=(1.12,5.78)
+- [FREEFORM (5)] 7 name='任意多边形: 形状 68' pos=(-5.28,5.83) size=(8.68,0.61)
+- [AUTO_SHAPE (1)] 8 name='流程图: 数据 7' pos=(-0.38,6.35) size=(2.44,0.76)
+- [FREEFORM (5)] 13 name='任意多边形: 形状 68' pos=(-4.51,0.48) size=(8.68,0.61)
+- [TEXT_BOX (17)] 14 name='文本框 13' pos=(0.13,0.60) size=(7.59,0.37)
+    P lvl=0 align=None sz=20.0 bold=True font=黑体 color=000000 | 『生无所息，斗无所止』
+- [TEXT_BOX (17)] 18 name='文本框 17' pos=(4.56,1.56) size=(6.57,2.69)
+    P lvl=0 align=None sz=66.0 bold=True font=锐字真言体免费商用 color=theme:BACKGROUND_1 (14) | 01战队历史及电控组介绍
+===== SLIDE 5  layout='内页' =====
+- [AUTO_SHAPE (1)] 19 name='淘宝网chenying0907出品 24' pos=(12.84,0.86) size=(0.30,0.26)
+- [GROUP (6)] 16 name='组合 15' pos=(0.46,0.22) size=(6.61,1.07)
+  - [GROUP (6)] 17 name='组合 16' pos=(1.09,0.46) size=(5.98,0.83)
+    - [TEXT_BOX (17)] 26 name='文本框 25' pos=(1.54,0.46) size=(5.53,0.50)
+        P lvl=0 align=None sz=24.0 bold=True font=锐字真言体免费商用 color=theme:BACKGROUND_1 (14) | 战队历史及电控组介绍
+    - [TEXT_BOX (17)] 27 name='文本框 26' pos=(1.09,0.88) size=(3.90,0.40)
+  - [TEXT_BOX (17)] 25 name='文本框 24' pos=(0.46,0.22) size=(0.93,0.71)
+      P lvl=0 align=None sz=36.0 bold=True font=锐字真言体免费商用 color=theme:BACKGROUND_1 (14) | 01
+- [FREEFORM (5)] 7 name='任意多边形: 形状 68' pos=(9.36,0.60) size=(8.68,0.61)
+- [PICTURE (13)] 9 name='图片 8' pos=(12.37,0.60) size=(0.61,0.61)
+- [TEXT_BOX (17)] 10 name='文本框 9' pos=(9.80,0.76) size=(7.61,0.30)
+    P lvl=0 align=None sz=14.0 bold=None font=None color=000000 | 哈理工A.I.R.创新实验室
+- [TEXT_BOX (17)] 3 name='文本框 2' pos=(1.83,1.74) size=(9.02,1.72)
+    P lvl=0 align=None sz=24.0 bold=None font=None color=None | 	哈理工A.I.R.战队(简称为A.I.R.),分为大创工作室、竞赛工作室、无人机工作室、运宣工作室以及A.I.R.机器人俱乐部。
+    P lvl=0 align=None sz=24.0 bold=None font=None color=None | 	目前实验室主要进行Robomaster（简称RM）比赛，同时有其他各类比赛也进行参加。 
+- [TABLE (19)] 6 name='表格 5' pos=(1.83,3.68) size=(8.99,2.40)
+- [PICTURE (13)] 2 name='图片 1' pos=(9.15,6.51) size=(4.19,0.99)
+===== SLIDE 6  layout='内页' =====
+- [AUTO_SHAPE (1)] 19 name='淘宝网chenying0907出品 24' pos=(12.84,0.86) size=(0.30,0.26)
+- [GROUP (6)] 16 name='组合 15' pos=(0.46,0.22) size=(6.61,1.07)
+  - [GROUP (6)] 17 name='组合 16' pos=(1.09,0.46) size=(5.98,0.83)
+    - [TEXT_BOX (17)] 26 name='文本框 25' pos=(1.54,0.46) size=(5.53,0.50)
+        P lvl=0 align=None sz=24.0 bold=True font=锐字真言体免费商用 color=theme:BACKGROUND_1 (14) | 战队历史及电控组介绍
+    - [TEXT_BOX (17)] 27 name='文本框 26' pos=(1.09,0.88) size=(3.90,0.40)
+  - [TEXT_BOX (17)] 25 name='文本框 24' pos=(0.46,0.22) size=(0.93,0.71)
+      P lvl=0 align=None sz=36.0 bold=True font=锐字真言体免费商用 color=theme:BACKGROUND_1 (14) | 01
+- [FREEFORM (5)] 7 name='任意多边形: 形状 68' pos=(9.36,0.60) size=(8.68,0.61)
+- [PICTURE (13)] 9 name='图片 8' pos=(12.37,0.60) size=(0.61,0.61)
+- [TEXT_BOX (17)] 10 name='文本框 9' pos=(9.80,0.76) size=(7.61,0.30)
+    P lvl=0 align=None sz=14.0 bold=None font=None color=000000 | 哈理工A.I.R.创新实验室
+- [TEXT_BOX (17)] 2 name='文本框 1' pos=(1.53,0.98) size=(4.03,0.64)
+    P lvl=0 align=None sz=32.0 bold=None font=None color=None | 电控职责
+- [TEXT_BOX (17)] 4 name='文本框 3' pos=(0.69,2.13) size=(1.74,0.50)
+    P lvl=0 align=None sz=24.0 bold=None font=None color=None | 机械
+- [TEXT_BOX (17)] 5 name='文本框 4' pos=(5.35,2.13) size=(1.08,0.50)
+    P lvl=0 align=None sz=24.0 bold=None font=None color=None | 电控
+- [AUTO_SHAPE (1)] 6 name='箭头: 右 5' pos=(1.55,2.16) size=(0.84,0.45)
+- [AUTO_SHAPE (1)] 11 name='箭头: 右 10' pos=(6.24,2.16) size=(0.84,0.45)
+- [TEXT_BOX (17)] 12 name='文本框 11' pos=(2.39,2.10) size=(2.11,0.50)
+    P lvl=0 align=None sz=24.0 bold=None font=None color=None | 骨骼
+- [TEXT_BOX (17)] 13 name='文本框 12' pos=(7.09,2.10) size=(2.56,0.50)
+    P lvl=0 align=None sz=24.0 bold=None font=None color=None | 大脑和神经系统
+- [TEXT_BOX (17)] 14 name='文本框 13' pos=(10.45,1.51) size=(0.88,0.50)
+    P lvl=0 align=None sz=24.0 bold=None font=None color=None | 软件
+- [TEXT_BOX (17)] 15 name='文本框 14' pos=(10.45,2.69) size=(0.88,0.50)
+    P lvl=0 align=None sz=24.0 bold=None font=None color=None | 硬件
+- [AUTO_SHAPE (1)] 20 name='箭头: 右 19' pos=(9.53,1.73) size=(0.94,0.50)
+- [AUTO_SHAPE (1)] 22 name='箭头: 右 21' pos=(9.53,2.44) size=(0.94,0.50)
+- [PICTURE (13)] 28 name='图片 27' pos=(0.84,2.82) size=(7.91,4.57)
+===== SLIDE 7  layout='内页' =====
+- [AUTO_SHAPE (1)] 19 name='淘宝网chenying0907出品 24' pos=(12.84,0.86) size=(0.30,0.26)
+- [GROUP (6)] 16 name='组合 15' pos=(0.46,0.22) size=(6.61,1.07)
+  - [GROUP (6)] 17 name='组合 16' pos=(1.09,0.46) size=(5.98,0.83)
+    - [TEXT_BOX (17)] 26 name='文本框 25' pos=(1.54,0.46) size=(5.53,0.50)
+        P lvl=0 align=None sz=24.0 bold=True font=锐字真言体免费商用 color=theme:BACKGROUND_1 (14) | 战队历史及电控组介绍
+    - [TEXT_BOX (17)] 27 name='文本框 26' pos=(1.09,0.88) size=(3.90,0.40)
+  - [TEXT_BOX (17)] 25 name='文本框 24' pos=(0.46,0.22) size=(0.93,0.71)
+      P lvl=0 align=None sz=36.0 bold=True font=锐字真言体免费商用 color=theme:BACKGROUND_1 (14) | 01
+- [FREEFORM (5)] 7 name='任意多边形: 形状 68' pos=(9.36,0.60) size=(8.68,0.61)
+- [PICTURE (13)] 9 name='图片 8' pos=(12.37,0.60) size=(0.61,0.61)
+- [TEXT_BOX (17)] 10 name='文本框 9' pos=(9.80,0.76) size=(7.61,0.30)
+    P lvl=0 align=None sz=14.0 bold=None font=None color=000000 | 哈理工A.I.R.创新实验室
+- [TEXT_BOX (17)] 3 name='文本框 2' pos=(1.83,1.74) size=(9.02,4.54)
+    P lvl=0 align=None sz=24.0 bold=None font=None color=None | 电控组主要负责的内容：
+    P lvl=0 align=None sz=24.0 bold=None font=None color=None | 	1. 调试各类机器人，负责电机控制、运动控制
+    P lvl=0 align=None sz=24.0 bold=None font=None color=None | 	2. 连接整车线材，完成电路搭建
+    P lvl=0 align=None sz=24.0 bold=None font=None color=None | 	3. 控制整车功率、完成部分模型建模
+    P lvl=0 align=None sz=24.0 bold=None font=None color=None | 电控组主要技术的内容：
+    P lvl=0 align=None sz=24.0 bold=None font=None color=None | 	1. 熟练C语言代码编写
+    P lvl=0 align=None sz=24.0 bold=None font=None color=None | 	2. 熟练STM32单片机
+    P lvl=0 align=None sz=24.0 bold=None font=None color=None | 	3. Pid，LQR等控制算法
+    P lvl=0 align=None sz=24.0 bold=None font=None color=None | 	4. 掌握各类通讯协议
+    P lvl=0 align=None sz=24.0 bold=None font=None color=None | 	5. 理解各类滤波、控制算法
+===== SLIDE 8  layout='空白' =====
+- [PICTURE (13)] 11 name='图片 10' pos=(-0.19,1.10) size=(6.95,5.03)
+- [FREEFORM (5)] 26 name='任意多边形: 形状 25' pos=(6.57,-3.43) size=(2.29,11.83)
+- [FREEFORM (5)] 16 name='任意多边形: 形状 15' pos=(7.39,3.13) size=(0.71,1.22)
+- [FREEFORM (5)] 25 name='任意多边形: 形状 24' pos=(3.51,4.34) size=(4.71,6.47)
+- [FREEFORM (5)] 10 name='任意多边形: 形状 9' pos=(11.95,1.10) size=(1.12,5.78)
+- [FREEFORM (5)] 7 name='任意多边形: 形状 68' pos=(-5.28,5.83) size=(8.68,0.61)
+- [AUTO_SHAPE (1)] 8 name='流程图: 数据 7' pos=(-0.38,6.35) size=(2.44,0.76)
+- [FREEFORM (5)] 13 name='任意多边形: 形状 68' pos=(-4.51,0.48) size=(8.68,0.61)
+- [TEXT_BOX (17)] 14 name='文本框 13' pos=(0.13,0.60) size=(7.59,0.37)
+    P lvl=0 align=None sz=20.0 bold=True font=黑体 color=000000 | 『生无所息，斗无所止』
+- [TEXT_BOX (17)] 18 name='文本框 17' pos=(4.56,1.56) size=(6.57,2.69)
+    P lvl=0 align=None sz=66.0 bold=True font=锐字真言体免费商用 color=theme:BACKGROUND_1 (14) | 02 走进 C 语言
+===== SLIDE 9  layout='内页' =====
+- [AUTO_SHAPE (1)] 19 name='淘宝网chenying0907出品 24' pos=(12.84,0.86) size=(0.30,0.26)
+- [GROUP (6)] 16 name='组合 15' pos=(0.46,0.22) size=(6.61,1.07)
+  - [GROUP (6)] 17 name='组合 16' pos=(1.09,0.46) size=(5.98,0.83)
+    - [TEXT_BOX (17)] 26 name='文本框 25' pos=(1.54,0.46) size=(5.53,0.50)
+        P lvl=0 align=None sz=24.0 bold=True font=锐字真言体免费商用 color=theme:BACKGROUND_1 (14) | 为什么学习C语言?
+    - [TEXT_BOX (17)] 27 name='文本框 26' pos=(1.09,0.88) size=(3.90,0.40)
+  - [TEXT_BOX (17)] 25 name='文本框 24' pos=(0.46,0.22) size=(0.93,0.71)
+      P lvl=0 align=None sz=36.0 bold=True font=锐字真言体免费商用 color=theme:BACKGROUND_1 (14) | 02
+- [FREEFORM (5)] 7 name='任意多边形: 形状 68' pos=(9.36,0.60) size=(8.68,0.61)
+- [PICTURE (13)] 9 name='图片 8' pos=(12.37,0.60) size=(0.61,0.61)
+- [TEXT_BOX (17)] 10 name='文本框 9' pos=(9.80,0.76) size=(7.61,0.30)
+    P lvl=0 align=None sz=14.0 bold=None font=None color=000000 | 哈理工A.I.R.创新实验室
+- [TEXT_BOX (17)] 4 name='文本框 3' pos=(1.39,1.39) size=(9.02,4.75)
+    P lvl=0 align=None sz=24.0 bold=True font=None color=None | 	编程语言是人向计算机描述任务和执行步骤的工具。
+    P lvl=0 align=None sz=24.0 bold=None font=None color=None | 	机器语言是由0和1组成的指令，计算机可以直接执行。
+    P lvl=0 align=None sz=24.0 bold=None font=None color=None | 	C语言的程序通常经过编译、链接，生成包含机器代码的可执行程序。gcc常用于编译C程序，g++常用于编译C++程序。
+    P lvl=0 align=None sz=24.0 bold=True font=None color=None | 	C语言是面向过程的程序设计语言，强调按步骤解决问题。 强调将问题拆成步骤，用代码逐步实现，通过函数组织和调用。
+===== SLIDE 10  layout='内页' =====
+- [AUTO_SHAPE (1)] 19 name='淘宝网chenying0907出品 24' pos=(12.84,0.86) size=(0.30,0.26)
+- [GROUP (6)] 16 name='组合 15' pos=(0.46,0.22) size=(6.61,1.07)
+  - [GROUP (6)] 17 name='组合 16' pos=(1.09,0.46) size=(5.98,0.83)
+    - [TEXT_BOX (17)] 26 name='文本框 25' pos=(1.54,0.46) size=(5.53,0.50)
+        P lvl=0 align=None sz=24.0 bold=True font=锐字真言体免费商用 color=theme:BACKGROUND_1 (14) | 学习的主要内容
+    - [TEXT_BOX (17)] 27 name='文本框 26' pos=(1.09,0.88) size=(3.90,0.40)
+  - [TEXT_BOX (17)] 25 name='文本框 24' pos=(0.46,0.22) size=(0.93,0.71)
+      P lvl=0 align=None sz=36.0 bold=True font=锐字真言体免费商用 color=theme:BACKGROUND_1 (14) | 02
+- [FREEFORM (5)] 7 name='任意多边形: 形状 68' pos=(9.36,0.60) size=(8.68,0.61)
+- [PICTURE (13)] 9 name='图片 8' pos=(12.37,0.60) size=(0.61,0.61)
+- [TEXT_BOX (17)] 10 name='文本框 9' pos=(9.80,0.76) size=(7.61,0.30)
+    P lvl=0 align=None sz=14.0 bold=None font=None color=000000 | 哈理工A.I.R.创新实验室
+- [TEXT_BOX (17)] 4 name='文本框 3' pos=(0.78,1.95) size=(9.02,4.73)
+    P lvl=0 align=None sz=None bold=None font=None color=None | C语言内容
+    P lvl=0 align=None sz=None bold=None font=None color=None | 1.数据类型
+    P lvl=0 align=None sz=24.0 bold=None font=None color=None | 2.运算符和表达式
+    P lvl=0 align=None sz=24.0 bold=None font=None color=None | 3.分支与循环语句
+    P lvl=0 align=None sz=24.0 bold=None font=None color=None | 4.字符串
+    P lvl=0 align=None sz=24.0 bold=None font=None color=None | 5.函数
+    P lvl=0 align=None sz=24.0 bold=None font=None color=None | 6.数组与指针
+    P lvl=0 align=None sz=24.0 bold=None font=None color=None | 7.结构体，枚举体
+- [TEXT_BOX (17)] 8 name='文本框 7' pos=(4.23,1.95) size=(8.09,4.27)
+    P lvl=0 align=None sz=24.0 bold=None font=None color=None | C语言怎么学:
+    P lvl=0 align=None sz=24.0 bold=None font=None color=None | i.   视频:B站翁恺（BV1dr4y1n7vA）等
+    P lvl=0 align=None sz=24.0 bold=None font=None color=None | ii.  C语言书籍:系统，全面(例如《C Primer Plus》等)
+    P lvl=0 align=None sz=24.0 bold=None font=None color=None | iii. 网站:菜鸟教程
+    P lvl=0 align=None sz=24.0 bold=None font=None color=None | iv. 大量练习语法:作业+刷题网站(洛谷，牛客，力扣)!
+    P lvl=0 align=None sz=24.0 bold=None font=None color=None | v.  信息检索:百度，SCDN，知乎，博客(有问题学会通过在百度上搜索解决)
+===== SLIDE 11  layout='空白' =====
+- [PICTURE (13)] 11 name='图片 10' pos=(-0.12,1.10) size=(6.95,5.03)
+- [FREEFORM (5)] 26 name='任意多边形: 形状 25' pos=(6.57,-3.43) size=(2.29,11.83)
+- [FREEFORM (5)] 16 name='任意多边形: 形状 15' pos=(7.39,3.13) size=(0.71,1.22)
+- [FREEFORM (5)] 25 name='任意多边形: 形状 24' pos=(3.51,4.34) size=(4.71,6.47)
+- [FREEFORM (5)] 10 name='任意多边形: 形状 9' pos=(11.95,1.10) size=(1.12,5.78)
+- [FREEFORM (5)] 7 name='任意多边形: 形状 68' pos=(-5.28,5.83) size=(8.68,0.61)
+- [AUTO_SHAPE (1)] 8 name='流程图: 数据 7' pos=(-0.38,6.35) size=(2.44,0.76)
+- [FREEFORM (5)] 13 name='任意多边形: 形状 68' pos=(-4.51,0.48) size=(8.68,0.61)
+- [TEXT_BOX (17)] 14 name='文本框 13' pos=(0.13,0.60) size=(7.59,0.37)
+    P lvl=0 align=None sz=20.0 bold=True font=黑体 color=000000 | 『生无所息，斗无所止』
+- [TEXT_BOX (17)] 18 name='文本框 17' pos=(4.31,1.46) size=(7.05,1.95)
+    P lvl=0 align=None sz=66.0 bold=True font=锐字真言体免费商用 color=theme:BACKGROUND_1 (14) | 03  C 语言基础语法
+===== SLIDE 12  layout='内页' =====
+- [AUTO_SHAPE (1)] 19 name='淘宝网chenying0907出品 24' pos=(12.84,0.86) size=(0.30,0.26)
+- [GROUP (6)] 16 name='组合 15' pos=(0.46,0.22) size=(4.64,1.07)
+  - [GROUP (6)] 17 name='组合 16' pos=(1.09,0.46) size=(4.01,0.83)
+    - [TEXT_BOX (17)] 26 name='文本框 25' pos=(1.54,0.46) size=(3.56,0.50)
+        P lvl=0 align=LEFT (1) sz=24.0 bold=True font=锐字真言体免费商用 color=theme:BACKGROUND_1 (14) | 第一个 C 程序
+    - [TEXT_BOX (17)] 27 name='文本框 26' pos=(1.09,0.88) size=(3.90,0.40)
+  - [TEXT_BOX (17)] 25 name='文本框 24' pos=(0.46,0.22) size=(0.93,0.71)
+      P lvl=0 align=None sz=36.0 bold=True font=锐字真言体免费商用 color=theme:BACKGROUND_1 (14) | 03
+- [FREEFORM (5)] 7 name='任意多边形: 形状 68' pos=(9.36,0.60) size=(8.68,0.61)
+- [PICTURE (13)] 9 name='图片 8' pos=(12.37,0.60) size=(0.61,0.61)
+- [TEXT_BOX (17)] 10 name='文本框 9' pos=(9.80,0.76) size=(7.61,0.30)
+    P lvl=0 align=None sz=14.0 bold=None font=None color=000000 | 哈理工A.I.R.创新实验室
+- [TABLE (19)] 11 name='表格 10' pos=(5.52,1.45) size=(6.63,2.14)
+- [TEXT_BOX (17)] 5 name='文本框 4' pos=(1.39,1.45) size=(4.01,2.14)
+    P lvl=0 align=None sz=14.0 bold=False font=Consolas color=C586C0 | #include <stdio.h>
+    P lvl=0 align=None sz=14.0 bold=False font=Consolas color=FF7B72 | int main(void)
+    P lvl=0 align=None sz=14.0 bold=False font=Consolas color=C9D1D9 | {
+    P lvl=0 align=None sz=14.0 bold=False font=Consolas color=C9D1D9 |     printf("Hello World!\n");
+    P lvl=0 align=None sz=14.0 bold=False font=Consolas color=C9D1D9 |     return 0;
+    P lvl=0 align=None sz=14.0 bold=False font=Consolas color=C9D1D9 | }
+- [TEXT_BOX (17)] 8 name='文本框 7' pos=(1.39,5.41) size=(10.77,1.58)
+    P lvl=0 align=None sz=None bold=None font=None color=None | 每个程序必须包含 main() 函数。
+    P lvl=0 align=None sz=None bold=None font=None color=FF0000 | 每条语句以 分号 ; 结束。
+    P lvl=0 align=None sz=None bold=None font=None color=None | 语句块使用 花括号 {} 括起来。
+    P lvl=0 align=None sz=None bold=None font=None color=FF0000 | C 区分大小写（main ≠ Main）
+- [GROUP (6)] 24 name='组合 23' pos=(1.39,3.84) size=(10.77,1.31)
+  - [TEXT_BOX (17)] 23 name='文本框 22' pos=(1.39,3.60) size=(10.77,1.31)
+      P lvl=0 align=None sz=None bold=None font=None color=None | 运行效果：
+  - [PICTURE (13)] 21 name='图片 20' pos=(2.12,4.12) size=(9.40,0.63)
+===== SLIDE 13  layout='内页' =====
+- [AUTO_SHAPE (1)] 19 name='淘宝网chenying0907出品 24' pos=(12.84,0.86) size=(0.30,0.26)
+- [GROUP (6)] 16 name='组合 15' pos=(0.46,0.22) size=(4.65,1.07)
+  - [GROUP (6)] 17 name='组合 16' pos=(1.09,0.47) size=(4.02,0.81)
+    - [TEXT_BOX (17)] 26 name='文本框 25' pos=(1.55,0.47) size=(3.56,0.50)
+        P lvl=0 align=LEFT (1) sz=24.0 bold=True font=锐字真言体免费商用 color=theme:BACKGROUND_1 (14) | 标识符与命名规则
+    - [TEXT_BOX (17)] 27 name='文本框 26' pos=(1.09,0.88) size=(3.90,0.40)
+  - [TEXT_BOX (17)] 25 name='文本框 24' pos=(0.46,0.22) size=(0.93,0.71)
+      P lvl=0 align=None sz=36.0 bold=True font=锐字真言体免费商用 color=theme:BACKGROUND_1 (14) | 03
+- [FREEFORM (5)] 7 name='任意多边形: 形状 68' pos=(9.36,0.60) size=(8.68,0.61)
+- [PICTURE (13)] 9 name='图片 8' pos=(12.37,0.60) size=(0.61,0.61)
+- [TEXT_BOX (17)] 10 name='文本框 9' pos=(9.80,0.76) size=(7.61,0.30)
+    P lvl=0 align=None sz=14.0 bold=None font=None color=000000 | 哈理工A.I.R.创新实验室
+- [TEXT_BOX (17)] 31 name='文本框 30' pos=(1.09,1.70) size=(6.82,4.31)
+    P lvl=0 align=None sz=24.0 bold=None font=None color=None | 标识符用于命名变量、函数等。
+    P lvl=0 align=None sz=24.0 bold=None font=None color=None | 命名规则：
+    P lvl=0 align=None sz=24.0 bold=None font=None color=None | 只能使用 字母、数字、下划线；
+    P lvl=0 align=None sz=24.0 bold=True font=None color=None | 不能以数字开头；
+    P lvl=0 align=None sz=24.0 bold=True font=None color=None | 区分大小写；
+    P lvl=0 align=None sz=24.0 bold=True font=None color=None | 不能使用关键字。
+    P lvl=0 align=None sz=24.0 bold=None font=None color=None | ✅ 合法示例：score, user_name, _count❌ 非法示例：2num, int, user-name
+- [TEXT_BOX (17)] 33 name='文本框 32' pos=(8.06,1.70) size=(4.80,4.29)
+    P lvl=0 align=None sz=24.0 bold=True font=None color=None | 注释
+    P lvl=0 align=None sz=20.0 bold=None font=Consolas color=theme:NOT_THEME_COLOR (0) | 单行注释：
+    P lvl=0 align=None sz=20.0 bold=False font=Consolas color=8B949E | // 这是一行注释，下面是代码
+    P lvl=0 align=None sz=20.0 bold=False font=Consolas color=C9D1D9 | a = b;
+    P lvl=0 align=None sz=20.0 bold=None font=Consolas color=theme:NOT_THEME_COLOR (0) | 多行注释：
+    P lvl=0 align=None sz=20.0 bold=False font=Consolas color=8B949E | /* 这是注释内容 
+    P lvl=0 align=None sz=20.0 bold=False font=Consolas color=8B949E | 下面还是注释内容 */
+===== SLIDE 14  layout='内页' =====
+- [AUTO_SHAPE (1)] 19 name='淘宝网chenying0907出品 24' pos=(12.84,0.86) size=(0.30,0.26)
+- [GROUP (6)] 16 name='组合 15' pos=(0.46,0.22) size=(4.64,1.07)
+  - [GROUP (6)] 17 name='组合 16' pos=(1.09,0.46) size=(4.01,0.83)
+    - [TEXT_BOX (17)] 26 name='文本框 25' pos=(1.54,0.46) size=(3.56,0.50)
+        P lvl=0 align=LEFT (1) sz=24.0 bold=True font=锐字真言体免费商用 color=theme:BACKGROUND_1 (14) | 输入与输出
+    - [TEXT_BOX (17)] 27 name='文本框 26' pos=(1.09,0.88) size=(3.90,0.40)
+  - [TEXT_BOX (17)] 25 name='文本框 24' pos=(0.46,0.22) size=(0.93,0.71)
+      P lvl=0 align=None sz=36.0 bold=True font=锐字真言体免费商用 color=theme:BACKGROUND_1 (14) | 03
+- [FREEFORM (5)] 7 name='任意多边形: 形状 68' pos=(9.36,0.60) size=(8.68,0.61)
+- [PICTURE (13)] 9 name='图片 8' pos=(12.37,0.60) size=(0.61,0.61)
+- [TEXT_BOX (17)] 10 name='文本框 9' pos=(9.80,0.76) size=(7.61,0.30)
+    P lvl=0 align=None sz=14.0 bold=None font=None color=000000 | 哈理工A.I.R.创新实验室
+- [TEXT_BOX (17)] 5 name='文本框 4' pos=(1.09,4.63) size=(11.28,0.91)
+    P lvl=0 align=None sz=24.0 bold=None font=Courier New color=None | scanf() 用于输入数据，printf() 用于输出数据。注意：输入变量前要加 & 取地址符。
+- [TEXT_BOX (17)] 12 name='文本框 11' pos=(1.09,1.77) size=(3.90,2.48)
+    P lvl=0 align=None sz=14.0 bold=False font=Consolas color=C586C0 | #include <stdio.h>
+    P lvl=0 align=None sz=14.0 bold=False font=Consolas color=FF7B72 | int main(void)
+    P lvl=0 align=None sz=14.0 bold=False font=Consolas color=C9D1D9 | {
+    P lvl=0 align=None sz=14.0 bold=False font=Consolas color=C9D1D9 |     int a;
+    P lvl=0 align=None sz=14.0 bold=False font=Consolas color=C9D1D9 |     printf("请输入一个整数：");
+    P lvl=0 align=None sz=14.0 bold=False font=Consolas color=C9D1D9 |     scanf("%d", &a);
+    P lvl=0 align=None sz=14.0 bold=False font=Consolas color=C9D1D9 |     printf("您输入的是：%d\n", a);
+    P lvl=0 align=None sz=14.0 bold=False font=Consolas color=C9D1D9 |     return 0;
+    P lvl=0 align=None sz=14.0 bold=False font=Consolas color=C9D1D9 | }
+- [TEXT_BOX (17)] 18 name='文本框 17' pos=(5.39,1.77) size=(6.98,2.42)
+    P lvl=0 align=None sz=None bold=None font=None color=None | 运行效果：
+    P lvl=0 align=None sz=None bold=None font=None color=None | 	在执行程序后，弹出输入整数提示。输入整数后，返回输入的整数的提示
+- [PICTURE (13)] 14 name='图片 13' pos=(5.96,3.24) size=(5.84,0.78)
+===== SLIDE 15  layout='空白' =====
+- [PICTURE (13)] 11 name='图片 10' pos=(-0.12,1.10) size=(6.95,5.03)
+- [FREEFORM (5)] 26 name='任意多边形: 形状 25' pos=(6.57,-3.43) size=(2.29,11.83)
+- [FREEFORM (5)] 16 name='任意多边形: 形状 15' pos=(7.39,3.13) size=(0.71,1.22)
+- [FREEFORM (5)] 25 name='任意多边形: 形状 24' pos=(3.51,4.34) size=(4.71,6.47)
+- [FREEFORM (5)] 10 name='任意多边形: 形状 9' pos=(11.95,1.10) size=(1.12,5.78)
+- [FREEFORM (5)] 7 name='任意多边形: 形状 68' pos=(-5.28,5.83) size=(8.68,0.61)
+- [AUTO_SHAPE (1)] 8 name='流程图: 数据 7' pos=(-0.38,6.35) size=(2.44,0.76)
+- [FREEFORM (5)] 13 name='任意多边形: 形状 68' pos=(-4.51,0.48) size=(8.68,0.61)
+- [TEXT_BOX (17)] 14 name='文本框 13' pos=(0.13,0.60) size=(7.59,0.37)
+    P lvl=0 align=None sz=20.0 bold=True font=黑体 color=000000 | 『生无所息，斗无所止』
+- [TEXT_BOX (17)] 18 name='文本框 17' pos=(3.34,1.68) size=(9.00,1.95)
+    P lvl=0 align=None sz=66.0 bold=True font=锐字真言体免费商用 color=theme:BACKGROUND_1 (14) | 04 C 语言基础知识
+===== SLIDE 16  layout='内页' =====
+- [AUTO_SHAPE (1)] 19 name='淘宝网chenying0907出品 24' pos=(12.84,0.86) size=(0.30,0.26)
+- [GROUP (6)] 16 name='组合 15' pos=(0.46,0.22) size=(4.53,1.07)
+  - [GROUP (6)] 17 name='组合 16' pos=(1.09,0.46) size=(3.90,0.83)
+    - [TEXT_BOX (17)] 26 name='文本框 25' pos=(1.54,0.46) size=(2.44,0.50)
+        P lvl=0 align=None sz=24.0 bold=True font=锐字真言体免费商用 color=theme:BACKGROUND_1 (14) | 数据类型
+    - [TEXT_BOX (17)] 27 name='文本框 26' pos=(1.09,0.88) size=(3.90,0.40)
+  - [TEXT_BOX (17)] 25 name='文本框 24' pos=(0.46,0.22) size=(0.93,0.71)
+      P lvl=0 align=None sz=36.0 bold=True font=锐字真言体免费商用 color=theme:BACKGROUND_1 (14) | 04
+- [FREEFORM (5)] 7 name='任意多边形: 形状 68' pos=(9.36,0.60) size=(8.68,0.61)
+- [PICTURE (13)] 9 name='图片 8' pos=(12.37,0.60) size=(0.61,0.61)
+- [TEXT_BOX (17)] 10 name='文本框 9' pos=(9.80,0.76) size=(7.61,0.30)
+    P lvl=0 align=None sz=14.0 bold=None font=None color=000000 | 哈理工A.I.R.创新实验室
+- [AUTO_SHAPE (1)] 2 name='矩形 1' pos=(5.07,4.82) size=(3.73,0.30)
+- [AUTO_SHAPE (1)] 3 name='矩形 2' pos=(1.67,4.87) size=(2.02,0.32)
+- [TABLE (19)] 8 name='表格 7' pos=(0.87,1.95) size=(11.50,3.10)
+- [TEXT_BOX (17)] 12 name='文本框 11' pos=(0.87,5.43) size=(11.50,0.91)
+    P lvl=0 align=None sz=20.0 bold=False font=Consolas color=None | 例子：
+    P lvl=0 align=CENTER (2) sz=24.0 bold=False font=Consolas color=D2A8FF | printf("%zu\n", sizeof(int));  // 输出 int 类型所占字节数
+===== SLIDE 17  layout='内页' =====
+- [AUTO_SHAPE (1)] 19 name='淘宝网chenying0907出品 24' pos=(12.84,0.86) size=(0.30,0.26)
+- [GROUP (6)] 16 name='组合 15' pos=(0.46,0.22) size=(4.89,1.07)
+  - [GROUP (6)] 17 name='组合 16' pos=(1.09,0.46) size=(4.27,0.83)
+    - [TEXT_BOX (17)] 26 name='文本框 25' pos=(1.54,0.46) size=(3.82,0.50)
+        P lvl=0 align=None sz=24.0 bold=True font=锐字真言体免费商用 color=theme:BACKGROUND_1 (14) | 变量与常量
+    - [TEXT_BOX (17)] 27 name='文本框 26' pos=(1.09,0.88) size=(3.90,0.40)
+  - [TEXT_BOX (17)] 25 name='文本框 24' pos=(0.46,0.22) size=(0.93,0.71)
+      P lvl=0 align=None sz=36.0 bold=True font=锐字真言体免费商用 color=theme:BACKGROUND_1 (14) | 04
+- [FREEFORM (5)] 7 name='任意多边形: 形状 68' pos=(9.36,0.60) size=(8.68,0.61)
+- [PICTURE (13)] 9 name='图片 8' pos=(12.37,0.60) size=(0.61,0.61)
+- [TEXT_BOX (17)] 10 name='文本框 9' pos=(9.80,0.76) size=(7.61,0.30)
+    P lvl=0 align=None sz=14.0 bold=None font=None color=000000 | 哈理工A.I.R.创新实验室
+- [TEXT_BOX (17)] 4 name='文本框 3' pos=(1.09,2.26) size=(8.10,1.72)
+    P lvl=0 align=None sz=24.0 bold=None font=None color=None | 变量是存储数据的命名空间，使用前必须先定义：
+    P lvl=0 align=None sz=24.0 bold=None font=None color=None | int age = 20;
+    P lvl=0 align=None sz=24.0 bold=None font=None color=None | float height = 1.75;
+    P lvl=0 align=None sz=24.0 bold=None font=None color=None | 变量可多次赋值，后一次赋值覆盖前一次。
+- [TEXT_BOX (17)] 8 name='文本框 7' pos=(1.09,4.31) size=(9.02,2.12)
+    P lvl=0 align=None sz=24.0 bold=None font=None color=None | 常量的值在程序运行中不能改变。
+    P lvl=0 align=None sz=24.0 bold=True font=None color=None | 方式一：使用 #define
+    P lvl=0 align=None sz=24.0 bold=None font=Courier New color=None | #define PI 3.14159
+    P lvl=0 align=None sz=24.0 bold=True font=None color=None | 方式二：使用 const
+    P lvl=0 align=None sz=24.0 bold=None font=Courier New color=None | const int MAX = 100;
+- [AUTO_SHAPE (1)] 3 name='本讲目标：独立创建工程，完成输入、计算与输出' pos=(0.99,1.55) size=(11.35,0.50)
+    P lvl=0 align=None sz=21.0 bold=True font=Noto Sans CJK SC color=084A91 | 变量和常量的存储空间：
+===== SLIDE 18  layout='内页' =====
+- [AUTO_SHAPE (1)] 2 name='淘宝网chenying0907出品 24' pos=(12.84,0.86) size=(0.30,0.26)
+- [GROUP (6)] 3 name='组合 15' pos=(0.46,0.22) size=(4.89,1.07)
+  - [GROUP (6)] 4 name='组合 16' pos=(1.09,0.46) size=(4.27,0.83)
+    - [TEXT_BOX (17)] 5 name='文本框 26' pos=(1.09,0.88) size=(3.90,0.40)
+  - [TEXT_BOX (17)] 6 name='文本框 24' pos=(0.46,0.22) size=(0.93,0.71)
+      P lvl=0 align=None sz=36.0 bold=True font=锐字真言体免费商用 color=theme:BACKGROUND_1 (14) | 04
+- [FREEFORM (5)] 7 name='任意多边形: 形状 68' pos=(9.36,0.60) size=(8.68,0.61)
+- [PICTURE (13)] 8 name='图片 8' pos=(12.37,0.60) size=(0.61,0.61)
+- [AUTO_SHAPE (1)] 9 name='环境配置：编辑器与编译器' pos=(1.56,0.44) size=(7.66,0.60)
+    P lvl=0 align=None sz=24.0 bold=True font=Noto Sans CJK SC color=084A91 | 环境配置：编辑器与编译器
+- [AUTO_SHAPE (1)] 10 name='哈理工 A.I.R. 创新实验室' pos=(9.83,0.77) size=(2.52,0.33)
+    P lvl=0 align=None sz=12.75 bold=False font=Noto Sans CJK SC color=000000 | 哈理工 A.I.R. 创新实验室
+- [AUTO_SHAPE (1)] 11 name='本讲目标：独立创建工程，完成输入、计算与输出' pos=(0.99,1.55) size=(11.35,0.50)
+    P lvl=0 align=None sz=21.0 bold=True font=Noto Sans CJK SC color=084A91 | Vscode配置：
+- [AUTO_SHAPE (1)] 12 name='1. 安装 VS Code 与 Microsoft' pos=(0.99,2.21) size=(11.35,0.50)
+    P lvl=0 align=None sz=21.0 bold=False font=Noto Sans CJK SC color=17212B | 1. 安装 VS Code 与 Microsoft C/C++ 扩展，用于编写代码。
+- [AUTO_SHAPE (1)] 13 name='2. 安装 MSYS2，在 MSYS2 终端执行工' pos=(0.99,2.85) size=(11.35,0.50)
+    P lvl=0 align=None sz=21.0 bold=False font=Noto Sans CJK SC color=17212B | 2. 安装 MSYS2，在 MSYS2 终端执行工具链安装命令：
+- [AUTO_SHAPE (1)] 14 name='pacman -S --needed base-d' pos=(1.25,3.40) size=(11.15,0.44)
+    P lvl=0 align=None sz=17.25 bold=False font=DejaVu Sans Mono color=17212B | pacman -S --needed base-devel mingw-w64-ucrt-x86_64-toolchain
+- [AUTO_SHAPE (1)] 15 name='3. 在 Windows 用户环境变量 Path ' pos=(0.99,4.04) size=(11.35,0.50)
+    P lvl=0 align=None sz=21.0 bold=False font=Noto Sans CJK SC color=17212B | 3. 在 Windows 用户环境变量 Path 中添加实际的 bin 目录：
+- [AUTO_SHAPE (1)] 16 name='C:\\msys64\\ucrt64\\bin' pos=(1.25,4.58) size=(10.94,0.42)
+    P lvl=0 align=None sz=20.25 bold=False font=DejaVu Sans Mono color=17212B | C:\msys64\ucrt64\bin
+- [AUTO_SHAPE (1)] 17 name='4. 重启 VS Code，打开新终端，执行 gc' pos=(0.99,5.21) size=(11.35,0.50)
+    P lvl=0 align=None sz=21.0 bold=False font=Noto Sans CJK SC color=17212B | 4. 重启 VS Code，打开新终端，执行 gcc --version。
+===== SLIDE 19  layout='内页' =====
+- [AUTO_SHAPE (1)] 2 name='淘宝网chenying0907出品 24' pos=(12.84,0.86) size=(0.30,0.26)
+- [GROUP (6)] 3 name='组合 15' pos=(0.46,0.22) size=(4.89,1.07)
+  - [GROUP (6)] 4 name='组合 16' pos=(1.09,0.46) size=(4.27,0.83)
+    - [TEXT_BOX (17)] 5 name='文本框 26' pos=(1.09,0.88) size=(3.90,0.40)
+  - [TEXT_BOX (17)] 6 name='文本框 24' pos=(0.46,0.22) size=(0.93,0.71)
+      P lvl=0 align=None sz=36.0 bold=True font=锐字真言体免费商用 color=theme:BACKGROUND_1 (14) | 04
+- [FREEFORM (5)] 7 name='任意多边形: 形状 68' pos=(9.36,0.60) size=(8.68,0.61)
+- [PICTURE (13)] 8 name='图片 8' pos=(12.37,0.60) size=(0.61,0.61)
+- [AUTO_SHAPE (1)] 9 name='创建工程与第一次运行' pos=(1.56,0.44) size=(7.66,0.60)
+    P lvl=0 align=None sz=24.0 bold=True font=Noto Sans CJK SC color=084A91 | 创建工程与第一次运行
+- [AUTO_SHAPE (1)] 10 name='哈理工 A.I.R. 创新实验室' pos=(9.83,0.77) size=(2.52,0.33)
+    P lvl=0 align=None sz=12.75 bold=False font=Noto Sans CJK SC color=000000 | 哈理工 A.I.R. 创新实验室
+- [AUTO_SHAPE (1)] 11 name='工程操作' pos=(0.99,1.60) size=(5.05,0.50)
+    P lvl=0 align=None sz=21.0 bold=True font=Noto Sans CJK SC color=084A91 | 工程操作
+- [AUTO_SHAPE (1)] 12 name='1. 新建文件夹 c_lesson01。\n2. 用' pos=(0.99,2.19) size=(5.47,2.42)
+    P lvl=0 align=None sz=21.0 bold=False font=Noto Sans CJK SC color=17212B | 1. 新建文件夹 c_lesson01。
+    P lvl=0 align=None sz=21.0 bold=False font=Noto Sans CJK SC color=17212B | 2. 用 VS Code 打开该文件夹。
+    P lvl=0 align=None sz=21.0 bold=False font=Noto Sans CJK SC color=17212B | 3. 新建 main.c，输入右侧代码。
+    P lvl=0 align=None sz=21.0 bold=False font=Noto Sans CJK SC color=17212B | 4. 保存文件，打开集成终端。
+- [AUTO_SHAPE (1)] 13 name='main.c' pos=(6.98,1.60) size=(5.16,0.50)
+    P lvl=0 align=None sz=21.0 bold=True font=Noto Sans CJK SC color=084A91 | main.c
+- [AUTO_SHAPE (1)] 14 name='#include <stdio.h>\nint ma' pos=(6.98,2.19) size=(5.31,2.69)
+    P lvl=0 align=None sz=20.25 bold=False font=DejaVu Sans Mono color=17212B | #include <stdio.h>
+    P lvl=0 align=None sz=20.25 bold=False font=DejaVu Sans Mono color=17212B | int main(void)
+    P lvl=0 align=None sz=20.25 bold=False font=DejaVu Sans Mono color=17212B | {
+    P lvl=0 align=None sz=20.25 bold=False font=DejaVu Sans Mono color=17212B |     printf("Hello, C!\n");
+    P lvl=0 align=None sz=20.25 bold=False font=DejaVu Sans Mono color=17212B |     return 0;
+    P lvl=0 align=None sz=20.25 bold=False font=DejaVu Sans Mono color=17212B | }
+===== SLIDE 20  layout='内页' =====
+- [AUTO_SHAPE (1)] 2 name='淘宝网chenying0907出品 24' pos=(12.84,0.86) size=(0.30,0.26)
+- [GROUP (6)] 3 name='组合 15' pos=(0.46,0.22) size=(4.89,1.07)
+  - [GROUP (6)] 4 name='组合 16' pos=(1.09,0.46) size=(4.27,0.83)
+    - [TEXT_BOX (17)] 5 name='文本框 26' pos=(1.09,0.88) size=(3.90,0.40)
+  - [TEXT_BOX (17)] 6 name='文本框 24' pos=(0.46,0.22) size=(0.93,0.71)
+      P lvl=0 align=None sz=36.0 bold=True font=锐字真言体免费商用 color=theme:BACKGROUND_1 (14) | 04
+- [FREEFORM (5)] 7 name='任意多边形: 形状 68' pos=(9.36,0.60) size=(8.68,0.61)
+- [PICTURE (13)] 8 name='图片 8' pos=(12.37,0.60) size=(0.61,0.61)
+- [AUTO_SHAPE (1)] 9 name='C 程序的编译与运行' pos=(1.56,0.44) size=(7.66,0.60)
+    P lvl=0 align=None sz=24.0 bold=True font=Noto Sans CJK SC color=084A91 | C 程序的编译与运行
+- [AUTO_SHAPE (1)] 10 name='哈理工 A.I.R. 创新实验室' pos=(9.83,0.77) size=(2.52,0.33)
+    P lvl=0 align=None sz=12.75 bold=False font=Noto Sans CJK SC color=000000 | 哈理工 A.I.R. 创新实验室
+- [TABLE (19)] 11 name='表格 10' pos=(0.99,1.65) size=(11.35,3.27)
+- [AUTO_SHAPE (1)] 12 name='编译命令通常一次完成上面四步，中间文件默认不保留。' pos=(0.99,5.16) size=(11.35,0.54)
+    P lvl=0 align=None sz=21.0 bold=False font=Noto Sans CJK SC color=17212B | 编译命令通常一次完成上面四步，中间文件默认不保留。
+- [AUTO_SHAPE (1)] 13 name='gcc main.c -o main.exe' pos=(0.99,5.75) size=(5.78,0.44)
+    P lvl=0 align=None sz=21.0 bold=False font=DejaVu Sans Mono color=17212B | gcc main.c -o main.exe
+- [AUTO_SHAPE (1)] 14 name='运行：操作系统加载程序并执行。' pos=(6.46,5.75) size=(5.89,0.52)
+    P lvl=0 align=None sz=20.25 bold=False font=Noto Sans CJK SC color=17212B | 运行：操作系统加载程序并执行。
+===== SLIDE 21  layout='内页' =====
+- [AUTO_SHAPE (1)] 2 name='淘宝网chenying0907出品 24' pos=(12.84,0.86) size=(0.30,0.26)
+- [GROUP (6)] 3 name='组合 15' pos=(0.46,0.22) size=(4.89,1.07)
+  - [GROUP (6)] 4 name='组合 16' pos=(1.09,0.46) size=(4.27,0.83)
+    - [TEXT_BOX (17)] 5 name='文本框 26' pos=(1.09,0.88) size=(3.90,0.40)
+  - [TEXT_BOX (17)] 6 name='文本框 24' pos=(0.46,0.22) size=(0.93,0.71)
+      P lvl=0 align=None sz=36.0 bold=True font=锐字真言体免费商用 color=theme:BACKGROUND_1 (14) | 04
+- [FREEFORM (5)] 7 name='任意多边形: 形状 68' pos=(9.36,0.60) size=(8.68,0.61)
+- [PICTURE (13)] 8 name='图片 8' pos=(12.37,0.60) size=(0.61,0.61)
+- [AUTO_SHAPE (1)] 9 name='算术、赋值与运算顺序' pos=(1.56,0.44) size=(7.66,0.60)
+    P lvl=0 align=None sz=24.0 bold=True font=Noto Sans CJK SC color=084A91 | 算术、赋值与运算顺序
+- [AUTO_SHAPE (1)] 10 name='哈理工 A.I.R. 创新实验室' pos=(9.83,0.77) size=(2.52,0.33)
+    P lvl=0 align=None sz=12.75 bold=False font=Noto Sans CJK SC color=000000 | 哈理工 A.I.R. 创新实验室
+- [TABLE (19)] 11 name='表格 10' pos=(0.99,1.64) size=(11.35,2.47)
+- [AUTO_SHAPE (1)] 12 name='int count = 3;\ncount = co' pos=(0.99,4.38) size=(8.02,1.38)
+    P lvl=0 align=None sz=19.5 bold=False font=DejaVu Sans Mono color=17212B | int count = 3;
+    P lvl=0 align=None sz=19.5 bold=False font=DejaVu Sans Mono color=17212B | count = count + 2;  // count is 5
+    P lvl=0 align=None sz=19.5 bold=False font=DejaVu Sans Mono color=17212B | count += 2;        // count is 7
+- [AUTO_SHAPE (1)] 13 name='= 表示赋值\n+= 表示加后再赋值' pos=(9.27,4.41) size=(3.02,1.17)
+    P lvl=0 align=None sz=20.25 bold=True font=Noto Sans CJK SC color=084A91 | = 表示赋值
+    P lvl=0 align=None sz=20.25 bold=True font=Noto Sans CJK SC color=084A91 | += 表示加后再赋值
+- [AUTO_SHAPE (1)] 14 name='先算括号，再算乘除取余，最后算加减；同级算术运算从' pos=(0.99,5.94) size=(11.35,0.52)
+    P lvl=0 align=None sz=19.5 bold=False font=Noto Sans CJK SC color=17212B | 先算括号，再算乘除取余，最后算加减；同级算术运算从左到右。
+- [AUTO_SHAPE (1)] 15 name='随堂练习：2 + 3 * 4 与 (2 + 3) ' pos=(0.99,6.49) size=(11.35,0.47)
+    P lvl=0 align=None sz=19.5 bold=False font=Noto Sans CJK SC color=084A91 | 随堂练习：2 + 3 * 4 与 (2 + 3) * 4 的结果各是多少？
+===== SLIDE 22  layout='内页' =====
+- [AUTO_SHAPE (1)] 2 name='淘宝网chenying0907出品 24' pos=(12.84,0.86) size=(0.30,0.26)
+- [GROUP (6)] 3 name='组合 15' pos=(0.46,0.22) size=(4.89,1.07)
+  - [GROUP (6)] 4 name='组合 16' pos=(1.09,0.46) size=(4.27,0.83)
+    - [TEXT_BOX (17)] 5 name='文本框 26' pos=(1.09,0.88) size=(3.90,0.40)
+  - [TEXT_BOX (17)] 6 name='文本框 24' pos=(0.46,0.22) size=(0.93,0.71)
+      P lvl=0 align=None sz=36.0 bold=True font=锐字真言体免费商用 color=theme:BACKGROUND_1 (14) | 04
+- [FREEFORM (5)] 7 name='任意多边形: 形状 68' pos=(9.36,0.60) size=(8.68,0.61)
+- [PICTURE (13)] 8 name='图片 8' pos=(12.37,0.60) size=(0.61,0.61)
+- [AUTO_SHAPE (1)] 9 name='关系与逻辑运算' pos=(1.56,0.44) size=(7.66,0.60)
+    P lvl=0 align=None sz=24.0 bold=True font=Noto Sans CJK SC color=084A91 | 关系与逻辑运算
+- [AUTO_SHAPE (1)] 10 name='哈理工 A.I.R. 创新实验室' pos=(9.83,0.77) size=(2.52,0.33)
+    P lvl=0 align=None sz=12.75 bold=False font=Noto Sans CJK SC color=000000 | 哈理工 A.I.R. 创新实验室
+- [TABLE (19)] 11 name='表格 10' pos=(0.99,1.67) size=(11.35,2.50)
+- [AUTO_SHAPE (1)] 12 name='0 表示假，非 0 表示真；关系和逻辑运算的结果为' pos=(0.99,4.39) size=(11.35,0.50)
+    P lvl=0 align=None sz=21.0 bold=True font=Noto Sans CJK SC color=084A91 | 0 表示假，非 0 表示真；关系和逻辑运算的结果为 0 或 1
+- [AUTO_SHAPE (1)] 13 name='int a = 5, b = 2;\na > b  ' pos=(0.99,5.01) size=(7.60,1.65)
+    P lvl=0 align=None sz=19.5 bold=False font=DejaVu Sans Mono color=17212B | int a = 5, b = 2;
+    P lvl=0 align=None sz=19.5 bold=False font=DejaVu Sans Mono color=17212B | a > b           // 1
+    P lvl=0 align=None sz=19.5 bold=False font=DejaVu Sans Mono color=17212B | a == b          // 0
+    P lvl=0 align=None sz=19.5 bold=False font=DejaVu Sans Mono color=17212B | (a > b) && (b > 0)  // 1
+- [AUTO_SHAPE (1)] 14 name='a = b：把 b 的值赋给 a\na == b：判' pos=(8.54,5.12) size=(3.85,1.30)
+    P lvl=0 align=None sz=20.25 bold=False font=Noto Sans CJK SC color=084A91 | a = b：把 b 的值赋给 a
+    P lvl=0 align=None sz=20.25 bold=False font=Noto Sans CJK SC color=084A91 | a == b：判断两者是否相等
+===== SLIDE 23  layout='内页' =====
+- [AUTO_SHAPE (1)] 2 name='淘宝网chenying0907出品 24' pos=(12.84,0.86) size=(0.30,0.26)
+- [GROUP (6)] 3 name='组合 15' pos=(0.46,0.22) size=(4.89,1.07)
+  - [GROUP (6)] 4 name='组合 16' pos=(1.09,0.46) size=(4.27,0.83)
+    - [TEXT_BOX (17)] 5 name='文本框 26' pos=(1.09,0.88) size=(3.90,0.40)
+  - [TEXT_BOX (17)] 6 name='文本框 24' pos=(0.46,0.22) size=(0.93,0.71)
+      P lvl=0 align=None sz=36.0 bold=True font=锐字真言体免费商用 color=theme:BACKGROUND_1 (14) | 04
+- [FREEFORM (5)] 7 name='任意多边形: 形状 68' pos=(9.36,0.60) size=(8.68,0.61)
+- [PICTURE (13)] 8 name='图片 8' pos=(12.37,0.60) size=(0.61,0.61)
+- [AUTO_SHAPE (1)] 9 name='printf：输出数据' pos=(1.56,0.44) size=(7.66,0.60)
+    P lvl=0 align=None sz=24.0 bold=True font=Noto Sans CJK SC color=084A91 | printf：输出数据
+- [AUTO_SHAPE (1)] 10 name='哈理工 A.I.R. 创新实验室' pos=(9.83,0.77) size=(2.52,0.33)
+    P lvl=0 align=None sz=12.75 bold=False font=Noto Sans CJK SC color=000000 | 哈理工 A.I.R. 创新实验室
+- [TABLE (19)] 11 name='表格 10' pos=(0.99,1.65) size=(11.35,2.52)
+- [AUTO_SHAPE (1)] 12 name='int count = 3;\ndouble vol' pos=(0.99,4.48) size=(11.35,1.45)
+    P lvl=0 align=None sz=19.5 bold=False font=DejaVu Sans Mono color=17212B | int count = 3;
+    P lvl=0 align=None sz=19.5 bold=False font=DejaVu Sans Mono color=17212B | double voltage = 12.5;
+    P lvl=0 align=None sz=19.5 bold=False font=DejaVu Sans Mono color=17212B | printf("count=%d, U=%.2f V\n", count, voltage);
+- [AUTO_SHAPE (1)] 13 name='输出：count=3, U=12.50 V' pos=(0.99,6.04) size=(8.12,0.49)
+    P lvl=0 align=None sz=21.75 bold=True font=Noto Sans CJK SC color=084A91 | 输出：count=3, U=12.50 V
+- [AUTO_SHAPE (1)] 14 name='\\n 换行；%.2f 保留两位小数显示；多个参数按' pos=(0.99,6.58) size=(11.35,0.45)
+    P lvl=0 align=None sz=18.75 bold=False font=Noto Sans CJK SC color=505A65 | \n 换行；%.2f 保留两位小数显示；多个参数按顺序对应。
+===== SLIDE 24  layout='内页' =====
+- [AUTO_SHAPE (1)] 2 name='淘宝网chenying0907出品 24' pos=(12.84,0.86) size=(0.30,0.26)
+- [GROUP (6)] 3 name='组合 15' pos=(0.46,0.22) size=(4.89,1.07)
+  - [GROUP (6)] 4 name='组合 16' pos=(1.09,0.46) size=(4.27,0.83)
+    - [TEXT_BOX (17)] 5 name='文本框 26' pos=(1.09,0.88) size=(3.90,0.40)
+  - [TEXT_BOX (17)] 6 name='文本框 24' pos=(0.46,0.22) size=(0.93,0.71)
+      P lvl=0 align=None sz=36.0 bold=True font=锐字真言体免费商用 color=theme:BACKGROUND_1 (14) | 04
+- [FREEFORM (5)] 7 name='任意多边形: 形状 68' pos=(9.36,0.60) size=(8.68,0.61)
+- [PICTURE (13)] 8 name='图片 8' pos=(12.37,0.60) size=(0.61,0.61)
+- [AUTO_SHAPE (1)] 9 name='scanf：输入数据' pos=(1.56,0.44) size=(7.66,0.60)
+    P lvl=0 align=None sz=24.0 bold=True font=Noto Sans CJK SC color=084A91 | scanf：输入数据
+- [AUTO_SHAPE (1)] 10 name='哈理工 A.I.R. 创新实验室' pos=(9.83,0.77) size=(2.52,0.33)
+    P lvl=0 align=None sz=12.75 bold=False font=Noto Sans CJK SC color=000000 | 哈理工 A.I.R. 创新实验室
+- [TABLE (19)] 11 name='表格 10' pos=(0.99,1.64) size=(11.35,2.52)
+- [AUTO_SHAPE (1)] 12 name='double voltage, current;\n' pos=(0.99,4.50) size=(11.35,1.02)
+    P lvl=0 align=None sz=20.25 bold=False font=DejaVu Sans Mono color=17212B | double voltage, current;
+    P lvl=0 align=None sz=20.25 bold=False font=DejaVu Sans Mono color=17212B | scanf("%lf %lf", &voltage, &current);
+- [AUTO_SHAPE (1)] 13 name='输入示例：12 0.5    输入两个数后按回车。' pos=(0.99,5.66) size=(11.35,0.50)
+    P lvl=0 align=None sz=21.0 bold=True font=Noto Sans CJK SC color=084A91 | 输入示例：12 0.5    输入两个数后按回车。
+- [AUTO_SHAPE (1)] 14 name='本页数值变量前要加 &，输入顺序要与变量顺序一致。' pos=(0.99,6.20) size=(11.35,0.48)
+    P lvl=0 align=None sz=20.25 bold=False font=Noto Sans CJK SC color=17212B | 本页数值变量前要加 &，输入顺序要与变量顺序一致。
+- [AUTO_SHAPE (1)] 15 name='注意：scanf 中 double 用 %lf，p' pos=(0.99,6.72) size=(11.35,0.44)
+    P lvl=0 align=None sz=18.75 bold=False font=Noto Sans CJK SC color=505A65 | 注意：scanf 中 double 用 %lf，printf 中用 %f。
+===== SLIDE 25  layout='内页' =====
+- [AUTO_SHAPE (1)] 2 name='淘宝网chenying0907出品 24' pos=(12.84,0.86) size=(0.30,0.26)
+- [GROUP (6)] 3 name='组合 15' pos=(0.46,0.22) size=(4.89,1.07)
+  - [GROUP (6)] 4 name='组合 16' pos=(1.09,0.46) size=(4.27,0.83)
+    - [TEXT_BOX (17)] 5 name='文本框 26' pos=(1.09,0.88) size=(3.90,0.40)
+  - [TEXT_BOX (17)] 6 name='文本框 24' pos=(0.46,0.22) size=(0.93,0.71)
+      P lvl=0 align=None sz=36.0 bold=True font=锐字真言体免费商用 color=theme:BACKGROUND_1 (14) | 04
+- [FREEFORM (5)] 7 name='任意多边形: 形状 68' pos=(9.36,0.60) size=(8.68,0.61)
+- [PICTURE (13)] 8 name='图片 8' pos=(12.37,0.60) size=(0.61,0.61)
+- [AUTO_SHAPE (1)] 9 name='类型转换与整数除法' pos=(1.56,0.44) size=(7.66,0.60)
+    P lvl=0 align=None sz=24.0 bold=True font=Noto Sans CJK SC color=084A91 | 类型转换与整数除法
+- [AUTO_SHAPE (1)] 10 name='哈理工 A.I.R. 创新实验室' pos=(9.83,0.77) size=(2.52,0.33)
+    P lvl=0 align=None sz=12.75 bold=False font=Noto Sans CJK SC color=000000 | 哈理工 A.I.R. 创新实验室
+- [TABLE (19)] 11 name='表格 10' pos=(0.99,1.69) size=(11.35,3.28)
+- [AUTO_SHAPE (1)] 12 name='平均值中的常见错误' pos=(0.99,5.26) size=(11.35,0.50)
+    P lvl=0 align=None sz=21.0 bold=True font=Noto Sans CJK SC color=084A91 | 平均值中的常见错误
+- [AUTO_SHAPE (1)] 13 name='int a = 5, b = 2;\ndouble ' pos=(0.99,5.83) size=(8.44,1.03)
+    P lvl=0 align=None sz=20.25 bold=False font=DejaVu Sans Mono color=17212B | int a = 5, b = 2;
+    P lvl=0 align=None sz=20.25 bold=False font=DejaVu Sans Mono color=17212B | double average = (a + b) / 2.0;
+- [AUTO_SHAPE (1)] 14 name='average = 3.5' pos=(9.22,6.02) size=(3.12,0.54)
+    P lvl=0 align=None sz=21.75 bold=True font=Noto Sans CJK SC color=084A91 | average = 3.5
+===== SLIDE 26  layout='内页' =====
+- [AUTO_SHAPE (1)] 2 name='淘宝网chenying0907出品 24' pos=(12.84,0.86) size=(0.30,0.26)
+- [GROUP (6)] 3 name='组合 15' pos=(0.46,0.22) size=(5.61,1.07)
+  - [GROUP (6)] 4 name='组合 16' pos=(1.09,0.46) size=(4.99,0.83)
+    - [TEXT_BOX (17)] 5 name='文本框 26' pos=(1.09,0.88) size=(3.90,0.40)
+  - [TEXT_BOX (17)] 6 name='文本框 24' pos=(0.46,0.22) size=(0.93,0.71)
+      P lvl=0 align=None sz=36.0 bold=True font=锐字真言体免费商用 color=theme:BACKGROUND_1 (14) | 04
+- [FREEFORM (5)] 7 name='任意多边形: 形状 68' pos=(9.36,0.60) size=(8.68,0.61)
+- [PICTURE (13)] 8 name='图片 8' pos=(12.37,0.60) size=(0.61,0.61)
+- [AUTO_SHAPE (1)] 9 name='课堂示例：电功率计算' pos=(1.56,0.44) size=(7.66,0.60)
+    P lvl=0 align=None sz=24.0 bold=True font=Noto Sans CJK SC color=084A91 | 课堂示例：电功率计算
+- [AUTO_SHAPE (1)] 10 name='哈理工 A.I.R. 创新实验室' pos=(9.83,0.77) size=(2.52,0.33)
+    P lvl=0 align=None sz=12.75 bold=False font=Noto Sans CJK SC color=000000 | 哈理工 A.I.R. 创新实验室
+- [AUTO_SHAPE (1)] 11 name='#include <stdio.h>\nint ma' pos=(0.99,1.67) size=(8.91,4.33)
+    P lvl=0 align=None sz=18.75 bold=False font=DejaVu Sans Mono color=17212B | #include <stdio.h>
+    P lvl=0 align=None sz=18.75 bold=False font=DejaVu Sans Mono color=17212B | int main(void)
+    P lvl=0 align=None sz=18.75 bold=False font=DejaVu Sans Mono color=17212B | {
+    P lvl=0 align=None sz=18.75 bold=False font=DejaVu Sans Mono color=17212B |     double voltage, current, power;
+    P lvl=0 align=None sz=18.75 bold=False font=DejaVu Sans Mono color=17212B |     printf("U(V), I(A):\n");
+    P lvl=0 align=None sz=18.75 bold=False font=DejaVu Sans Mono color=17212B |     scanf("%lf %lf", &voltage, &current);
+    P lvl=0 align=None sz=18.75 bold=False font=DejaVu Sans Mono color=17212B |     power = voltage * current;
+    P lvl=0 align=None sz=18.75 bold=False font=DejaVu Sans Mono color=17212B |     printf("P = %.2f W\n", power);
+    P lvl=0 align=None sz=18.75 bold=False font=DejaVu Sans Mono color=17212B |     return 0;
+    P lvl=0 align=None sz=18.75 bold=False font=DejaVu Sans Mono color=17212B | }
+- [AUTO_SHAPE (1)] 12 name='思路' pos=(10.31,1.68) size=(1.98,0.50)
+    P lvl=0 align=None sz=21.0 bold=True font=Noto Sans CJK SC color=084A91 | 思路
+- [AUTO_SHAPE (1)] 13 name='输入 U、I\n\n计算 P = U × I\n\n输出 ' pos=(10.31,2.31) size=(2.45,2.50)
+    P lvl=0 align=None sz=19.5 bold=False font=Noto Sans CJK SC color=17212B | 输入 U、I
+    P lvl=0 align=None sz=19.5 bold=False font=Noto Sans CJK SC color=17212B | 计算 P = U × I
+    P lvl=0 align=None sz=19.5 bold=False font=Noto Sans CJK SC color=17212B | 输出 P
+- [AUTO_SHAPE (1)] 14 name='输入：12 0.5       输出：P = 6.' pos=(0.99,6.22) size=(11.35,0.55)
+    P lvl=0 align=None sz=23.25 bold=True font=Noto Sans CJK SC color=084A91 | 输入：12 0.5       输出：P = 6.00 W
+===== SLIDE 27  layout='内页' =====
+- [AUTO_SHAPE (1)] 2 name='淘宝网chenying0907出品 24' pos=(12.84,0.86) size=(0.30,0.26)
+- [GROUP (6)] 3 name='组合 15' pos=(0.46,0.22) size=(4.89,1.07)
+  - [GROUP (6)] 4 name='组合 16' pos=(1.09,0.46) size=(4.27,0.83)
+    - [TEXT_BOX (17)] 5 name='文本框 26' pos=(1.09,0.88) size=(3.90,0.40)
+  - [TEXT_BOX (17)] 6 name='文本框 24' pos=(0.46,0.22) size=(0.93,0.71)
+      P lvl=0 align=None sz=36.0 bold=True font=锐字真言体免费商用 color=theme:BACKGROUND_1 (14) | 04
+- [FREEFORM (5)] 7 name='任意多边形: 形状 68' pos=(9.36,0.60) size=(8.68,0.61)
+- [PICTURE (13)] 8 name='图片 8' pos=(12.37,0.60) size=(0.61,0.61)
+- [AUTO_SHAPE (1)] 9 name='独立练习：圆的周长与面积' pos=(1.56,0.44) size=(7.66,0.60)
+    P lvl=0 align=None sz=24.0 bold=True font=Noto Sans CJK SC color=084A91 | 独立练习：圆的周长与面积
+- [AUTO_SHAPE (1)] 10 name='哈理工 A.I.R. 创新实验室' pos=(9.83,0.77) size=(2.52,0.33)
+    P lvl=0 align=None sz=12.75 bold=False font=Noto Sans CJK SC color=000000 | 哈理工 A.I.R. 创新实验室
+- [AUTO_SHAPE (1)] 11 name='任务：新建 circle 工程，输入半径，输出周长' pos=(0.99,1.61) size=(11.35,0.50)
+    P lvl=0 align=None sz=21.0 bold=True font=Noto Sans CJK SC color=084A91 | 任务：新建 circle 工程，输入半径，输出周长与面积
+- [AUTO_SHAPE (1)] 12 name='输入约定：半径 r 为合法正数，单位为 cm。' pos=(0.99,2.27) size=(11.35,0.51)
+    P lvl=0 align=None sz=21.75 bold=False font=Noto Sans CJK SC color=17212B | 输入约定：半径 r 为合法正数，单位为 cm。
+- [AUTO_SHAPE (1)] 13 name='const double PI = 3.14159' pos=(0.99,2.94) size=(11.35,0.47)
+    P lvl=0 align=None sz=21.75 bold=False font=DejaVu Sans Mono color=17212B | const double PI = 3.1415926;
+- [AUTO_SHAPE (1)] 14 name='公式：周长 C = 2 × PI × r    面' pos=(0.99,3.57) size=(11.35,0.59)
+    P lvl=0 align=None sz=22.5 bold=False font=Noto Sans CJK SC color=17212B | 公式：周长 C = 2 × PI × r    面积 S = PI × r × r
+- [AUTO_SHAPE (1)] 15 name='要求：使用变量与常量，读取输入，计算并输出两位小数' pos=(0.99,4.26) size=(11.35,0.54)
+    P lvl=0 align=None sz=20.25 bold=False font=Noto Sans CJK SC color=17212B | 要求：使用变量与常量，读取输入，计算并输出两位小数及单位。
+- [TABLE (19)] 16 name='表格 15' pos=(0.99,5.05) size=(11.35,1.64)
+===== SLIDE 28  layout='内页' =====
+- [AUTO_SHAPE (1)] 2 name='淘宝网chenying0907出品 24' pos=(12.84,0.86) size=(0.30,0.26)
+- [GROUP (6)] 3 name='组合 15' pos=(0.46,0.22) size=(4.89,1.07)
+  - [GROUP (6)] 4 name='组合 16' pos=(1.09,0.46) size=(4.27,0.83)
+    - [TEXT_BOX (17)] 5 name='文本框 26' pos=(1.09,0.88) size=(3.90,0.40)
+  - [TEXT_BOX (17)] 6 name='文本框 24' pos=(0.46,0.22) size=(0.93,0.71)
+      P lvl=0 align=None sz=36.0 bold=True font=锐字真言体免费商用 color=theme:BACKGROUND_1 (14) | 04
+- [FREEFORM (5)] 7 name='任意多边形: 形状 68' pos=(9.36,0.60) size=(8.68,0.61)
+- [PICTURE (13)] 8 name='图片 8' pos=(12.37,0.60) size=(0.61,0.61)
+- [AUTO_SHAPE (1)] 9 name='常见错误与完成标准' pos=(1.56,0.44) size=(7.66,0.60)
+    P lvl=0 align=None sz=24.0 bold=True font=Noto Sans CJK SC color=084A91 | 常见错误与完成标准
+- [AUTO_SHAPE (1)] 10 name='哈理工 A.I.R. 创新实验室' pos=(9.83,0.77) size=(2.52,0.33)
+    P lvl=0 align=None sz=12.75 bold=False font=Noto Sans CJK SC color=000000 | 哈理工 A.I.R. 创新实验室
+- [TABLE (19)] 11 name='表格 10' pos=(0.99,1.64) size=(11.35,3.44)
+- [AUTO_SHAPE (1)] 12 name='完成标准' pos=(0.99,5.33) size=(11.35,0.50)
+    P lvl=0 align=None sz=21.0 bold=True font=Noto Sans CJK SC color=084A91 | 完成标准
+- [AUTO_SHAPE (1)] 13 name='能独立建工程并运行；能解释输入、计算、输出各行的作' pos=(0.99,5.88) size=(11.35,0.51)
+    P lvl=0 align=None sz=21.0 bold=False font=Noto Sans CJK SC color=17212B | 能独立建工程并运行；能解释输入、计算、输出各行的作用。
+- [AUTO_SHAPE (1)] 14 name='两组测试结果正确，输出带单位；能定位并修改一处简单' pos=(0.99,6.45) size=(11.35,0.51)
+    P lvl=0 align=None sz=21.0 bold=False font=Noto Sans CJK SC color=17212B | 两组测试结果正确，输出带单位；能定位并修改一处简单错误。
+===== SLIDE 29  layout='空白' =====
+- [PICTURE (13)] 11 name='图片 10' pos=(-0.12,1.10) size=(6.95,5.03)
+- [FREEFORM (5)] 26 name='任意多边形: 形状 25' pos=(6.57,-3.43) size=(2.29,11.83)
+- [FREEFORM (5)] 16 name='任意多边形: 形状 15' pos=(7.39,3.13) size=(0.71,1.22)
+- [FREEFORM (5)] 25 name='任意多边形: 形状 24' pos=(3.51,4.34) size=(4.71,6.47)
+- [FREEFORM (5)] 10 name='任意多边形: 形状 9' pos=(11.95,1.10) size=(1.12,5.78)
+- [FREEFORM (5)] 7 name='任意多边形: 形状 68' pos=(-5.28,5.83) size=(8.68,0.61)
+- [AUTO_SHAPE (1)] 8 name='流程图: 数据 7' pos=(-0.38,6.35) size=(2.44,0.76)
+- [FREEFORM (5)] 13 name='任意多边形: 形状 68' pos=(-4.51,0.48) size=(8.68,0.61)
+- [TEXT_BOX (17)] 14 name='文本框 13' pos=(0.13,0.60) size=(7.59,0.37)
+    P lvl=0 align=None sz=20.0 bold=True font=黑体 color=000000 | 『生无所息，斗无所止』
+- [TEXT_BOX (17)] 18 name='文本框 17' pos=(5.31,1.45) size=(5.51,0.84)
+    P lvl=0 align=None sz=44.0 bold=True font=锐字真言体免费商用 color=theme:BACKGROUND_1 (14) | 下课啦！

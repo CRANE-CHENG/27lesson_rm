@@ -1,0 +1,136 @@
+<slide xmlns="https://www.larkoffice.com/sml/2.0" id="pVV">
+    <style>
+      <fill id="fVV">
+        <fillColor color="rgba(255, 255, 255, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="141.1400787401575" height="116.8567716535433" topLeftX="0" topLeftY="0" path="M0,0 L141.1401,0 L0,116.8568 Z" type="custom" id="beA">
+        <fill>
+          <fillColor color="rgba(3, 72, 149, 1)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)">
+          <p textAlign="center" lineSpacing="multiple:1.2"><span color="rgba(255, 255, 255, 1)" fontSize="18" fontFamily="思源黑体"> </span></p>
+        </content>
+      </shape>
+      <shape width="18.444094488188977" height="82.79322834645669" topLeftX="28.56897637795275" topLeftY="-3.1153543307086693" rotation="141.9454" path="M0,82.7932 L0,5.548 L18.4441,0 L18.4441,82.7932 Z" type="custom" id="beO">
+        <fill>
+          <fillColor color="rgba(0, 0, 238, 0.85)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)">
+          <p textAlign="center" lineSpacing="multiple:1.2"><span color="rgba(255, 255, 255, 1)" fontSize="18" fontFamily="思源黑体"> </span></p>
+        </content>
+      </shape>
+      <shape width="12.148346456692913" height="8.965984251968504" topLeftX="43.633858267716526" topLeftY="68.02417322834646" rotation="355.5271666666667" path="M12.1368,8.9488 L12.1483,8.966 L12.1226,8.9659 Z M6.0884,0 L12.041,8.9655 L0,8.9116 Z" type="custom" id="beo">
+        <fill>
+          <fillColor color="rgba(3, 72, 149, 1)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)">
+          <p textAlign="center" lineSpacing="multiple:1.2"><span color="rgba(255, 255, 255, 1)" fontSize="18" fontFamily="思源黑体"> </span></p>
+        </content>
+      </shape>
+      <shape width="18.444094488188977" height="82.79322834645669" topLeftX="39.52448818897639" topLeftY="-18.838346456692904" rotation="141.9454" path="M0,82.7932 L0,5.548 L18.4441,0 L18.4441,82.7932 Z" type="custom" id="beV">
+        <fill>
+          <fillColor color="rgba(0, 0, 238, 0.58)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)">
+          <p textAlign="center" lineSpacing="multiple:1.2"><span color="rgba(255, 255, 255, 1)" fontSize="18" fontFamily="思源黑体"> </span></p>
+        </content>
+      </shape>
+      <shape width="141.1400787401575" height="116.8567716535433" topLeftX="831.0015748031497" topLeftY="411.00157480314954" rotation="270" path="M0,0 L141.1401,0 L0,116.8568 Z" flipY="true" type="custom" id="beT">
+        <fill>
+          <fillColor color="rgba(240, 240, 240, 1)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)">
+          <p textAlign="center" lineSpacing="multiple:1.2"><span color="rgba(255, 255, 255, 1)" fontSize="18" fontFamily="思源黑体"> </span></p>
+        </content>
+      </shape>
+      <shape width="63.02236220472441" height="201.64354330708662" topLeftX="889.9439370078742" topLeftY="241.31811023622072" rotation="218.75768333333332" path="M63.0223,0 L0,78.5026 L0,201.6435 L63.0224,149.364 Z" flipY="true" type="custom" id="bei">
+        <fill>
+          <fillColor color="rgba(240, 240, 240, 1)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)">
+          <p textAlign="center" lineSpacing="multiple:1.2"><span color="rgba(255, 255, 255, 1)" fontSize="18" fontFamily="思源黑体"> </span></p>
+        </content>
+      </shape>
+      <shape width="21.767244094488188" height="18.764881889763778" topLeftX="924.6477952755905" topLeftY="61.562047244094515" rotation="343.3178" presetHandlers="50000" type="triangle" id="bOQ">
+        <fill>
+          <fillColor color="rgba(0, 0, 238, 1)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)">
+          <p textAlign="center" lineSpacing="multiple:1.2"><span color="rgba(255, 255, 255, 1)" fontSize="18" fontFamily="思源黑体" bold="false" italic="false" strikethrough="false" underline="false"> </span></p>
+        </content>
+      </shape>
+      <shape width="281.1290551181102" height="29" topLeftX="78.31724409448819" topLeftY="63.528031496062994" type="text" id="bOa">
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left" autoFit="shape-auto-fit">
+          <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(0, 0, 0, 1)" fontSize="18" fontFamily="思源黑体" bold="false" italic="false" strikethrough="false" underline="false"> </span></p>
+        </content>
+      </shape>
+      <shape width="66.94629921259842" height="50.8" topLeftX="33.25511811023622" topLeftY="15.769133858267715" type="text" id="bOk">
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left" autoFit="shape-auto-fit">
+          <p textAlign="left" lineSpacing="multiple:1.2"><strong><em><span color="rgba(255, 255, 255, 1)" fontSize="36" fontFamily="锐字真言体免费商用" strikethrough="false" underline="false">04</span></em></strong></p>
+        </content>
+      </shape>
+      <shape width="625.2566929133858" height="44.14787401574803" topLeftX="673.7879527559055" topLeftY="43.19409448818897" path="M33.4626,0 L625.2567,0 L625.2567,44.1479 L0,44.1479 Z" type="custom" id="bOF">
+        <fill>
+          <fillColor color="rgba(240, 240, 240, 1)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)">
+          <p textAlign="center" lineSpacing="multiple:1.2"><span color="rgba(255, 255, 255, 1)" fontSize="18" fontFamily="思源黑体" bold="false" italic="false" strikethrough="false" underline="false"> </span></p>
+        </content>
+      </shape>
+      <img id="bOE" src="OrCKbuA53o6Jlyxhe73cSAORn4e" width="44.14787401574803" height="44.14787401574803" topLeftX="890.4203937007874" topLeftY="43.1940157480315">
+        <crop leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0"/>
+      </img>
+      <shape width="551.25" height="43.5" topLeftX="112.5" topLeftY="31.5" type="rect" id="bOj">
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2"><strong><span color="rgba(8, 74, 145, 1)" fontSize="24" fontFamily="Noto Sans CJK SC" italic="false" strikethrough="false" underline="false">课堂示例：电功率计算</span></strong></p>
+        </content>
+      </shape>
+      <shape width="181.5" height="24" topLeftX="708" topLeftY="55.5" type="rect" id="bOW">
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(0, 0, 0, 1)" fontSize="12.75" fontFamily="Noto Sans CJK SC" bold="false" italic="false" strikethrough="false" underline="false">哈理工 A.I.R. 创新实验室</span></p>
+        </content>
+      </shape>
+      <shape width="641.25" height="312" topLeftX="71.25" topLeftY="120" type="rect" id="bOP">
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(23, 33, 43, 1)" fontSize="18.75" fontFamily="DejaVu Sans Mono" bold="false" italic="false" strikethrough="false" underline="false">#include &lt;stdio.h&gt;</span></p>
+          <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(23, 33, 43, 1)" fontSize="18.75" fontFamily="DejaVu Sans Mono" bold="false" italic="false" strikethrough="false" underline="false">int main(void)</span></p>
+          <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(23, 33, 43, 1)" fontSize="18.75" fontFamily="DejaVu Sans Mono" bold="false" italic="false" strikethrough="false" underline="false">{</span></p>
+          <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(23, 33, 43, 1)" fontSize="18.75" fontFamily="DejaVu Sans Mono" bold="false" italic="false" strikethrough="false" underline="false">    double voltage, current, power;</span></p>
+          <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(23, 33, 43, 1)" fontSize="18.75" fontFamily="DejaVu Sans Mono" bold="false" italic="false" strikethrough="false" underline="false">    printf("U(V), I(A):\n");</span></p>
+          <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(23, 33, 43, 1)" fontSize="18.75" fontFamily="DejaVu Sans Mono" bold="false" italic="false" strikethrough="false" underline="false">    scanf("%lf %lf", &amp;voltage, &amp;current);</span></p>
+          <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(23, 33, 43, 1)" fontSize="18.75" fontFamily="DejaVu Sans Mono" bold="false" italic="false" strikethrough="false" underline="false">    power = voltage * current;</span></p>
+          <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(23, 33, 43, 1)" fontSize="18.75" fontFamily="DejaVu Sans Mono" bold="false" italic="false" strikethrough="false" underline="false">    printf("P = %.2f W\n", power);</span></p>
+          <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(23, 33, 43, 1)" fontSize="18.75" fontFamily="DejaVu Sans Mono" bold="false" italic="false" strikethrough="false" underline="false">    return 0;</span></p>
+          <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(23, 33, 43, 1)" fontSize="18.75" fontFamily="DejaVu Sans Mono" bold="false" italic="false" strikethrough="false" underline="false">}</span></p>
+        </content>
+      </shape>
+      <shape width="142.5" height="36" topLeftX="742.5" topLeftY="120.75" type="rect" id="bOf">
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2"><strong><span color="rgba(8, 74, 145, 1)" fontSize="21" fontFamily="Noto Sans CJK SC" italic="false" strikethrough="false" underline="false">思路</span></strong></p>
+        </content>
+      </shape>
+      <shape width="176.25" height="180" topLeftX="742.5" topLeftY="166.5" type="rect" id="bOn">
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(23, 33, 43, 1)" fontSize="19.5" fontFamily="Noto Sans CJK SC" bold="false" italic="false" strikethrough="false" underline="false">输入 U、I</span></p>
+          <p textAlign="left" lineSpacing="multiple:1.2"/>
+          <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(23, 33, 43, 1)" fontSize="19.5" fontFamily="Noto Sans CJK SC" bold="false" italic="false" strikethrough="false" underline="false">计算 P = U × I</span></p>
+          <p textAlign="left" lineSpacing="multiple:1.2"/>
+          <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(23, 33, 43, 1)" fontSize="19.5" fontFamily="Noto Sans CJK SC" bold="false" italic="false" strikethrough="false" underline="false">输出 P</span></p>
+        </content>
+      </shape>
+      <shape width="817.5" height="39.75" topLeftX="71.25" topLeftY="447.75" type="rect" id="bOx">
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2"><strong><span color="rgba(8, 74, 145, 1)" fontSize="23.25" fontFamily="Noto Sans CJK SC" italic="false" strikethrough="false" underline="false">输入：12 0.5       输出：P = 6.00 W</span></strong></p>
+        </content>
+      </shape>
+    </data>
+    <note id="bOU">
+      <content>
+        <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(0, 0, 0, 1)" fontSize="12" fontFamily="等线" bold="false" italic="false" strikethrough="false" underline="false">本例用输入、变量、double、乘法、赋值、printf和scanf完成一个顺序程序。计算P=U*I，输入电压U（V）和电流I（A），输出功率P（W）。假定输入是合法的数值，并只讨论用该公式描述的直流或瞬时量。</span></p>
+        <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(0, 0, 0, 1)" fontSize="12" fontFamily="等线" bold="false" italic="false" strikethrough="false" underline="false">教学顺序：先明确输入输出及公式，再选择类型，最后写代码。让学生把12 0.5改成5 0.2，预测结果再运行。第二组输出1.00 W。</span></p>
+      </content>
+    </note>
+  </slide>
+  

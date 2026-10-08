@@ -1,0 +1,258 @@
+<slide xmlns="https://www.larkoffice.com/sml/2.0" id="pVo">
+    <style>
+      <fill id="fVo">
+        <fillColor color="rgba(255, 255, 255, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="141.1400787401575" height="116.8567716535433" topLeftX="0" topLeftY="0" path="M0,0 L141.1401,0 L0,116.8568 Z" type="custom" id="beE">
+        <fill>
+          <fillColor color="rgba(3, 72, 149, 1)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)">
+          <p textAlign="center" lineSpacing="multiple:1.2"><span color="rgba(255, 255, 255, 1)" fontSize="18" fontFamily="思源黑体"> </span></p>
+        </content>
+      </shape>
+      <shape width="18.444094488188977" height="82.79322834645669" topLeftX="28.56897637795275" topLeftY="-3.1153543307086693" rotation="141.9454" path="M0,82.7932 L0,5.548 L18.4441,0 L18.4441,82.7932 Z" type="custom" id="beI">
+        <fill>
+          <fillColor color="rgba(0, 0, 238, 0.85)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)">
+          <p textAlign="center" lineSpacing="multiple:1.2"><span color="rgba(255, 255, 255, 1)" fontSize="18" fontFamily="思源黑体"> </span></p>
+        </content>
+      </shape>
+      <shape width="12.148346456692913" height="8.965984251968504" topLeftX="43.633858267716526" topLeftY="68.02417322834646" rotation="355.5271666666667" path="M12.1368,8.9488 L12.1483,8.966 L12.1226,8.9659 Z M6.0884,0 L12.041,8.9655 L0,8.9116 Z" type="custom" id="ber">
+        <fill>
+          <fillColor color="rgba(3, 72, 149, 1)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)">
+          <p textAlign="center" lineSpacing="multiple:1.2"><span color="rgba(255, 255, 255, 1)" fontSize="18" fontFamily="思源黑体"> </span></p>
+        </content>
+      </shape>
+      <shape width="18.444094488188977" height="82.79322834645669" topLeftX="39.52448818897639" topLeftY="-18.838346456692904" rotation="141.9454" path="M0,82.7932 L0,5.548 L18.4441,0 L18.4441,82.7932 Z" type="custom" id="beQ">
+        <fill>
+          <fillColor color="rgba(0, 0, 238, 0.58)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)">
+          <p textAlign="center" lineSpacing="multiple:1.2"><span color="rgba(255, 255, 255, 1)" fontSize="18" fontFamily="思源黑体"> </span></p>
+        </content>
+      </shape>
+      <shape width="141.1400787401575" height="116.8567716535433" topLeftX="831.0015748031497" topLeftY="411.00157480314954" rotation="270" path="M0,0 L141.1401,0 L0,116.8568 Z" flipY="true" type="custom" id="beV">
+        <fill>
+          <fillColor color="rgba(240, 240, 240, 1)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)">
+          <p textAlign="center" lineSpacing="multiple:1.2"><span color="rgba(255, 255, 255, 1)" fontSize="18" fontFamily="思源黑体"> </span></p>
+        </content>
+      </shape>
+      <shape width="63.02236220472441" height="201.64354330708662" topLeftX="889.9439370078742" topLeftY="241.31811023622072" rotation="218.75768333333332" path="M63.0223,0 L0,78.5026 L0,201.6435 L63.0224,149.364 Z" flipY="true" type="custom" id="bec">
+        <fill>
+          <fillColor color="rgba(240, 240, 240, 1)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)">
+          <p textAlign="center" lineSpacing="multiple:1.2"><span color="rgba(255, 255, 255, 1)" fontSize="18" fontFamily="思源黑体"> </span></p>
+        </content>
+      </shape>
+      <shape width="21.767244094488188" height="18.764881889763778" topLeftX="924.6477952755905" topLeftY="61.562047244094515" rotation="343.3178" presetHandlers="50000" type="triangle" id="bQo">
+        <fill>
+          <fillColor color="rgba(0, 0, 238, 1)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)">
+          <p textAlign="center" lineSpacing="multiple:1.2"><span color="rgba(255, 255, 255, 1)" fontSize="18" fontFamily="思源黑体" bold="false" italic="false" strikethrough="false" underline="false"> </span></p>
+        </content>
+      </shape>
+      <shape width="256.15" height="36.25" topLeftX="110.86724409448817" topLeftY="33.10251968503937" type="text" id="bQR">
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left" autoFit="shape-auto-fit">
+          <p textAlign="left" lineSpacing="multiple:1.2"><strong><em><span color="rgba(255, 255, 255, 1)" fontSize="24" fontFamily="锐字真言体免费商用" strikethrough="false" underline="false">第一个 C 程序</span></em></strong></p>
+        </content>
+      </shape>
+      <shape width="281.1290551181102" height="29" topLeftX="78.31724409448819" topLeftY="63.528031496062994" type="text" id="bQL">
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left" autoFit="shape-auto-fit">
+          <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(0, 0, 0, 1)" fontSize="18" fontFamily="思源黑体" bold="false" italic="false" strikethrough="false" underline="false"> </span></p>
+        </content>
+      </shape>
+      <shape width="66.94629921259842" height="50.892204724409446" topLeftX="33.25511811023622" topLeftY="15.769133858267718" type="text" id="bQJ">
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left" autoFit="shape-auto-fit">
+          <p textAlign="left" lineSpacing="multiple:1.2"><strong><em><span color="rgba(255, 255, 255, 1)" fontSize="36" fontFamily="锐字真言体免费商用" strikethrough="false" underline="false">03</span></em></strong></p>
+        </content>
+      </shape>
+      <shape width="625.2566929133858" height="44.14787401574803" topLeftX="673.7879527559055" topLeftY="43.19409448818897" path="M33.4626,0 L625.2567,0 L625.2567,44.1479 L0,44.1479 Z" type="custom" id="bQt">
+        <fill>
+          <fillColor color="rgba(240, 240, 240, 1)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)">
+          <p textAlign="center" lineSpacing="multiple:1.2"><span color="rgba(255, 255, 255, 1)" fontSize="18" fontFamily="思源黑体" bold="false" italic="false" strikethrough="false" underline="false"> </span></p>
+        </content>
+      </shape>
+      <img id="bQs" src="JyhRbFj5poSrRmxqg5Hc2RDZnOg" width="44.14787401574803" height="44.14787401574803" topLeftX="890.4203937007874" topLeftY="43.1940157480315">
+        <crop leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0"/>
+      </img>
+      <shape width="548.2546456692913" height="21.560551181102362" topLeftX="705.6155118110237" topLeftY="54.487716535433066" type="text" id="bQp">
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" letterSpacing="1.1"><em><span color="rgba(0, 0, 0, 1)" fontSize="14" fontFamily="思源黑体" bold="false" strikethrough="false" underline="false" letterSpacing="1.1">哈理工A.I.R.创新实验室</span></em></p>
+        </content>
+      </shape>
+      <table id="bQd" width="477.66905511811024" height="154.03968503937008" topLeftX="397.73795275590544" topLeftY="104.1144094488189">
+        <colgroup>
+          <col span="1" width="176.3548031496063"/>
+          <col span="1" width="301.3142519685039"/>
+        </colgroup>
+        <tr height="25.076614173228347">
+          <td id="bQw">
+            <borderTop color="rgba(0, 0, 0, 1)" lineJoin="miter" miterLimit="10"/>
+            <borderRight color="rgba(0, 0, 0, 1)" width="0" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(0, 0, 0, 1)" width="0" lineJoin="miter" miterLimit="10"/>
+            <borderLeft color="rgba(0, 0, 0, 1)" lineJoin="miter" miterLimit="10"/>
+            <content paddingTop="4.1699212598425195" paddingBottom="4.1699212598425195" paddingLeft="8.33992125984252" paddingRight="8.33992125984252" fontSize="14" fontFamily="思源黑体" textAlign="left">
+              <p textAlign="left" lineSpacing="multiple:1.4"><span color="rgba(0, 0, 0, 1)" fontSize="12" fontFamily="思源黑体" bold="false" italic="false" strikethrough="false" underline="false">部分</span></p>
+            </content>
+          </td>
+          <td id="bQl">
+            <borderTop color="rgba(0, 0, 0, 1)" lineJoin="miter" miterLimit="10"/>
+            <borderRight color="rgba(0, 0, 0, 1)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(0, 0, 0, 1)" width="0" lineJoin="miter" miterLimit="10"/>
+            <content paddingTop="4.1699212598425195" paddingBottom="4.1699212598425195" paddingLeft="8.33992125984252" paddingRight="8.33992125984252" fontSize="14" fontFamily="思源黑体" textAlign="left">
+              <p textAlign="left" lineSpacing="multiple:1.4"><span color="rgba(0, 0, 0, 1)" fontSize="12" fontFamily="思源黑体" bold="false" italic="false" strikethrough="false" underline="false">说明</span></p>
+            </content>
+          </td>
+        </tr>
+        <tr height="28.444015748031497">
+          <td id="bQk">
+            <borderRight color="rgba(0, 0, 0, 1)" width="0" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(0, 0, 0, 1)" width="0" lineJoin="miter" miterLimit="10"/>
+            <borderLeft color="rgba(0, 0, 0, 1)" lineJoin="miter" miterLimit="10"/>
+            <content paddingTop="4.1699212598425195" paddingBottom="4.1699212598425195" paddingLeft="8.33992125984252" paddingRight="8.33992125984252" fontSize="14" fontFamily="思源黑体" textAlign="left">
+              <p textAlign="left" lineSpacing="multiple:1.4"><span color="rgba(0, 0, 0, 1)" fontSize="12" fontFamily="Consolas" bold="false" italic="false" strikethrough="false" underline="false">#include &lt;stdio.h&gt;</span></p>
+            </content>
+          </td>
+          <td id="bQc">
+            <borderRight color="rgba(0, 0, 0, 1)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(0, 0, 0, 1)" width="0" lineJoin="miter" miterLimit="10"/>
+            <content paddingTop="4.1699212598425195" paddingBottom="4.1699212598425195" paddingLeft="8.33992125984252" paddingRight="8.33992125984252" fontSize="14" fontFamily="思源黑体" textAlign="left">
+              <p textAlign="left" lineSpacing="multiple:1.4"><span color="rgba(0, 0, 0, 1)" fontSize="12" fontFamily="思源黑体" bold="false" italic="false" strikethrough="false" underline="false">预处理命令，引入标准输入输出库</span></p>
+            </content>
+          </td>
+        </tr>
+        <tr height="25.129763779527558">
+          <td id="bQS">
+            <borderRight color="rgba(0, 0, 0, 1)" width="0" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(0, 0, 0, 1)" width="0" lineJoin="miter" miterLimit="10"/>
+            <borderLeft color="rgba(0, 0, 0, 1)" lineJoin="miter" miterLimit="10"/>
+            <content paddingTop="4.1699212598425195" paddingBottom="4.1699212598425195" paddingLeft="8.33992125984252" paddingRight="8.33992125984252" fontSize="14" fontFamily="思源黑体" textAlign="left">
+              <p textAlign="left" lineSpacing="multiple:1.4"><span color="rgba(0, 0, 0, 1)" fontSize="12" fontFamily="Consolas" bold="false" italic="false" strikethrough="false" underline="false">int main(void)</span></p>
+            </content>
+          </td>
+          <td id="bQW">
+            <borderRight color="rgba(0, 0, 0, 1)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(0, 0, 0, 1)" width="0" lineJoin="miter" miterLimit="10"/>
+            <content paddingTop="4.1699212598425195" paddingBottom="4.1699212598425195" paddingLeft="8.33992125984252" paddingRight="8.33992125984252" fontSize="14" fontFamily="思源黑体" textAlign="left">
+              <p textAlign="left" lineSpacing="multiple:1.4"><span color="rgba(0, 0, 0, 1)" fontSize="12" fontFamily="思源黑体" bold="false" italic="false" strikethrough="false" underline="false">主函数，是程序的入口</span></p>
+            </content>
+          </td>
+        </tr>
+        <tr height="25.129763779527558">
+          <td id="bQC">
+            <borderRight color="rgba(0, 0, 0, 1)" width="0" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(0, 0, 0, 1)" width="0" lineJoin="miter" miterLimit="10"/>
+            <borderLeft color="rgba(0, 0, 0, 1)" lineJoin="miter" miterLimit="10"/>
+            <content paddingTop="4.1699212598425195" paddingBottom="4.1699212598425195" paddingLeft="8.33992125984252" paddingRight="8.33992125984252" fontSize="14" fontFamily="思源黑体" textAlign="left">
+              <p textAlign="left" lineSpacing="multiple:1.4"><span color="rgba(0, 0, 0, 1)" fontSize="12" fontFamily="Consolas" bold="false" italic="false" strikethrough="false" underline="false">{ ... }</span></p>
+            </content>
+          </td>
+          <td id="bQv">
+            <borderRight color="rgba(0, 0, 0, 1)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(0, 0, 0, 1)" width="0" lineJoin="miter" miterLimit="10"/>
+            <content paddingTop="4.1699212598425195" paddingBottom="4.1699212598425195" paddingLeft="8.33992125984252" paddingRight="8.33992125984252" fontSize="14" fontFamily="思源黑体" textAlign="left">
+              <p textAlign="left" lineSpacing="multiple:1.4"><span color="rgba(0, 0, 0, 1)" fontSize="12" fontFamily="思源黑体" bold="false" italic="false" strikethrough="false" underline="false">函数体，用于包含执行语句</span></p>
+            </content>
+          </td>
+        </tr>
+        <tr height="25.129763779527558">
+          <td id="bQx">
+            <borderRight color="rgba(0, 0, 0, 1)" width="0" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(0, 0, 0, 1)" width="0" lineJoin="miter" miterLimit="10"/>
+            <borderLeft color="rgba(0, 0, 0, 1)" lineJoin="miter" miterLimit="10"/>
+            <content paddingTop="4.1699212598425195" paddingBottom="4.1699212598425195" paddingLeft="8.33992125984252" paddingRight="8.33992125984252" fontSize="14" fontFamily="思源黑体" textAlign="left">
+              <p textAlign="left" lineSpacing="multiple:1.4"><span color="rgba(0, 0, 0, 1)" fontSize="12" fontFamily="Consolas" bold="false" italic="false" strikethrough="false" underline="false">printf()</span></p>
+            </content>
+          </td>
+          <td id="bQg">
+            <borderRight color="rgba(0, 0, 0, 1)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(0, 0, 0, 1)" width="0" lineJoin="miter" miterLimit="10"/>
+            <content paddingTop="4.1699212598425195" paddingBottom="4.1699212598425195" paddingLeft="8.33992125984252" paddingRight="8.33992125984252" fontSize="14" fontFamily="思源黑体" textAlign="left">
+              <p textAlign="left" lineSpacing="multiple:1.4"><span color="rgba(0, 0, 0, 1)" fontSize="12" fontFamily="思源黑体" bold="false" italic="false" strikethrough="false" underline="false">输出函数，用于在屏幕上显示文本</span></p>
+            </content>
+          </td>
+        </tr>
+        <tr height="25.129763779527558">
+          <td id="bQY">
+            <borderRight color="rgba(0, 0, 0, 1)" width="0" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(0, 0, 0, 1)" lineJoin="miter" miterLimit="10"/>
+            <borderLeft color="rgba(0, 0, 0, 1)" lineJoin="miter" miterLimit="10"/>
+            <content paddingTop="4.1699212598425195" paddingBottom="4.1699212598425195" paddingLeft="8.33992125984252" paddingRight="8.33992125984252" fontSize="14" fontFamily="思源黑体" textAlign="left">
+              <p textAlign="left" lineSpacing="multiple:1.4"><span color="rgba(0, 0, 0, 1)" fontSize="12" fontFamily="Consolas" bold="false" italic="false" strikethrough="false" underline="false">return 0;</span></p>
+            </content>
+          </td>
+          <td id="bQn">
+            <borderRight color="rgba(0, 0, 0, 1)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(0, 0, 0, 1)" lineJoin="miter" miterLimit="10"/>
+            <content paddingTop="4.1699212598425195" paddingBottom="4.1699212598425195" paddingLeft="8.33992125984252" paddingRight="8.33992125984252" fontSize="14" fontFamily="思源黑体" textAlign="left">
+              <p textAlign="left" lineSpacing="multiple:1.4"><span color="rgba(0, 0, 0, 1)" fontSize="12" fontFamily="思源黑体" bold="false" italic="false" strikethrough="false" underline="false">返回值，表示程序正常结束</span></p>
+            </content>
+          </td>
+        </tr>
+      </table>
+      <shape width="288.6474803149606" height="154.03976377952756" topLeftX="100.20141732283463" topLeftY="104.1807874015748" type="text" id="bQK">
+        <fill>
+          <fillColor color="rgba(64, 64, 64, 1)"/>
+        </fill>
+        <border color="rgba(0, 0, 0, 1)" lineJoin="miter" miterLimit="10"/>
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left" autoFit="shape-auto-fit">
+          <p textAlign="left"><span color="rgba(197, 134, 192, 1)" fontSize="14" fontFamily="Consolas" bold="false" italic="false" strikethrough="false" underline="false">#include</span><span color="rgba(86, 156, 214, 1)" fontSize="14" fontFamily="Consolas" bold="false" italic="false" strikethrough="false" underline="false"> </span><span color="rgba(165, 214, 255, 1)" fontSize="14" fontFamily="Consolas" bold="false" italic="false" strikethrough="false" underline="false">&lt;stdio.h&gt;</span></p>
+          <p textAlign="left"/>
+          <p textAlign="left"><span color="rgba(255, 123, 114, 1)" fontSize="14" fontFamily="Consolas" bold="false" italic="false" strikethrough="false" underline="false">int</span><span color="rgba(187, 190, 191, 1)" fontSize="14" fontFamily="Consolas" bold="false" italic="false" strikethrough="false" underline="false"> </span><span color="rgba(210, 168, 255, 1)" fontSize="14" fontFamily="Consolas" bold="false" italic="false" strikethrough="false" underline="false">main</span><span color="rgba(187, 190, 191, 1)" fontSize="14" fontFamily="Consolas" bold="false" italic="false" strikethrough="false" underline="false">(</span><span color="rgba(255, 123, 114, 1)" fontSize="14" fontFamily="Consolas" bold="false" italic="false" strikethrough="false" underline="false">void</span><span color="rgba(187, 190, 191, 1)" fontSize="14" fontFamily="Consolas" bold="false" italic="false" strikethrough="false" underline="false">)</span></p>
+          <p textAlign="left"><span color="rgba(201, 209, 217, 1)" fontSize="14" fontFamily="Consolas" bold="false" italic="false" strikethrough="false" underline="false">{</span></p>
+          <p textAlign="left"><span color="rgba(201, 209, 217, 1)" fontSize="14" fontFamily="Consolas" bold="false" italic="false" strikethrough="false" underline="false">    </span><span color="rgba(210, 168, 255, 1)" fontSize="14" fontFamily="Consolas" bold="false" italic="false" strikethrough="false" underline="false">printf</span><span color="rgba(201, 209, 217, 1)" fontSize="14" fontFamily="Consolas" bold="false" italic="false" strikethrough="false" underline="false">(</span><span color="rgba(165, 214, 255, 1)" fontSize="14" fontFamily="Consolas" bold="false" italic="false" strikethrough="false" underline="false">"Hello World!</span><span color="rgba(215, 186, 125, 1)" fontSize="14" fontFamily="Consolas" bold="false" italic="false" strikethrough="false" underline="false">\n</span><span color="rgba(165, 214, 255, 1)" fontSize="14" fontFamily="Consolas" bold="false" italic="false" strikethrough="false" underline="false">"</span><span color="rgba(201, 209, 217, 1)" fontSize="14" fontFamily="Consolas" bold="false" italic="false" strikethrough="false" underline="false">);</span></p>
+          <p textAlign="left"><span color="rgba(201, 209, 217, 1)" fontSize="14" fontFamily="Consolas" bold="false" italic="false" strikethrough="false" underline="false">    </span><span color="rgba(197, 134, 192, 1)" fontSize="14" fontFamily="Consolas" bold="false" italic="false" strikethrough="false" underline="false">return</span><span color="rgba(201, 209, 217, 1)" fontSize="14" fontFamily="Consolas" bold="false" italic="false" strikethrough="false" underline="false"> </span><span color="rgba(181, 206, 168, 1)" fontSize="14" fontFamily="Consolas" bold="false" italic="false" strikethrough="false" underline="false">0</span><span color="rgba(201, 209, 217, 1)" fontSize="14" fontFamily="Consolas" bold="false" italic="false" strikethrough="false" underline="false">;</span></p>
+          <p textAlign="left"><span color="rgba(201, 209, 217, 1)" fontSize="14" fontFamily="Consolas" bold="false" italic="false" strikethrough="false" underline="false">}</span></p>
+        </content>
+      </shape>
+      <shape width="775.2055905511811" height="113.8359842519685" topLeftX="100.20141732283463" topLeftY="389.2256692913386" type="text" id="bQI">
+        <border color="rgba(0, 0, 0, 1)" lineJoin="miter" miterLimit="10"/>
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left" autoFit="shape-auto-fit">
+          <ul listStyle="pptx-bullet">
+            <li>
+              <p textAlign="left" marginLeft="36" indent="-36"><span color="rgba(0, 0, 0, 1)" fontSize="18" fontFamily="思源黑体" bold="false" italic="false" strikethrough="false" underline="false">每个程序必须包含 main() 函数。</span></p>
+            </li>
+            <li>
+              <p textAlign="left" marginLeft="36" indent="-36"><span color="rgba(255, 0, 0, 1)" fontSize="18" fontFamily="思源黑体" bold="false" italic="false" strikethrough="false" underline="false">每条语句以 分号 ; 结束</span><span color="rgba(0, 0, 0, 1)" fontSize="18" fontFamily="思源黑体" bold="false" italic="false" strikethrough="false" underline="false">。</span></p>
+            </li>
+            <li>
+              <p textAlign="left" marginLeft="36" indent="-36"><span color="rgba(0, 0, 0, 1)" fontSize="18" fontFamily="思源黑体" bold="false" italic="false" strikethrough="false" underline="false">语句块使用 花括号 {} 括起来。</span></p>
+            </li>
+            <li>
+              <p textAlign="left" marginLeft="36" indent="-36"><span color="rgba(255, 0, 0, 1)" fontSize="18" fontFamily="思源黑体" bold="false" italic="false" strikethrough="false" underline="false">C 区分大小写（main ≠ Main）</span></p>
+            </li>
+          </ul>
+        </content>
+      </shape>
+      <shape width="775.2055905511811" height="94.51409448818897" topLeftX="100.20141732283463" topLeftY="276.466062992126" type="text" id="bQr">
+        <border color="rgba(0, 0, 0, 1)" lineJoin="miter" miterLimit="10"/>
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left" autoFit="shape-auto-fit">
+          <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(0, 0, 0, 1)" fontSize="18" fontFamily="思源黑体" bold="false" italic="false" strikethrough="false" underline="false">运行效果：</span></p>
+          <p textAlign="left" lineSpacing="multiple:1.2"/>
+          <p textAlign="left" lineSpacing="multiple:1.2"/>
+          <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(0, 0, 0, 1)" fontSize="18" fontFamily="思源黑体" bold="false" italic="false" strikethrough="false" underline="false"> </span></p>
+        </content>
+      </shape>
+      <img id="bQA" src="Co3Ob6NWAon91TxznlncvjuTnMg" width="677.073779527559" height="45.17370078740157" topLeftX="152.65173228346453" topLeftY="314.2574803149606">
+        <crop leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0"/>
+      </img>
+    </data>
+    <note id="bQZ">
+      <content>
+        <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(0, 0, 0, 1)" fontSize="12" fontFamily="等线" bold="false" italic="false" strikethrough="false" underline="false">Click to add text</span></p>
+      </content>
+    </note>
+  </slide>
+  

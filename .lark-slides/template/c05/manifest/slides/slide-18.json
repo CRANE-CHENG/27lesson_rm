@@ -1,0 +1,131 @@
+{
+  "slide_num": 18,
+  "role": "toc",
+  "slide_id": "psL",
+  "local_xml_path": "source-slides\\slide-18.xml",
+  "shell_shapes": [
+    {
+      "id": 2,
+      "type": "AUTO_SHAPE",
+      "left": 12.8423,
+      "top": 0.855,
+      "width": 0.3023,
+      "height": 0.2606,
+      "text": ""
+    },
+    {
+      "id": 8,
+      "type": "PICTURE",
+      "left": 12.3669,
+      "top": 0.5999,
+      "width": 0.6132,
+      "height": 0.6132,
+      "text": ""
+    }
+  ],
+  "content_shapes": [
+    {
+      "id": 3,
+      "type": "GROUP",
+      "left": 0.4619,
+      "top": 0.219,
+      "width": 4.8946,
+      "height": 1.0661,
+      "text": ""
+    },
+    {
+      "id": 7,
+      "type": "FREEFORM",
+      "left": 9.3582,
+      "top": 0.5999,
+      "width": 8.6841,
+      "height": 0.6132,
+      "text": ""
+    },
+    {
+      "id": 9,
+      "type": "AUTO_SHAPE",
+      "left": 1.5625,
+      "top": 0.4375,
+      "width": 7.6562,
+      "height": 0.6042,
+      "text": "环境配置：编辑器与编译器"
+    },
+    {
+      "id": 10,
+      "type": "AUTO_SHAPE",
+      "left": 9.8333,
+      "top": 0.7708,
+      "width": 2.5208,
+      "height": 0.3333,
+      "text": "哈理工 A.I.R. 创新实验室"
+    },
+    {
+      "id": 11,
+      "type": "AUTO_SHAPE",
+      "left": 0.9896,
+      "top": 1.5521,
+      "width": 11.3542,
+      "height": 0.5,
+      "text": "Vscode配置："
+    },
+    {
+      "id": 12,
+      "type": "AUTO_SHAPE",
+      "left": 0.9896,
+      "top": 2.2083,
+      "width": 11.3542,
+      "height": 0.5,
+      "text": "1. 安装 VS Code 与 Microsoft C/C++ 扩展，用于编写代码。"
+    },
+    {
+      "id": 13,
+      "type": "AUTO_SHAPE",
+      "left": 0.9896,
+      "top": 2.8542,
+      "width": 11.3542,
+      "height": 0.5,
+      "text": "2. 安装 MSYS2，在 MSYS2 终端执行工具链安装命令："
+    },
+    {
+      "id": 14,
+      "type": "AUTO_SHAPE",
+      "left": 1.25,
+      "top": 3.3958,
+      "width": 11.1458,
+      "height": 0.4375,
+      "text": "pacman -S --needed base-devel mingw-w64-ucrt-x86_64-toolchain"
+    },
+    {
+      "id": 15,
+      "type": "AUTO_SHAPE",
+      "left": 0.9896,
+      "top": 4.0417,
+      "width": 11.3542,
+      "height": 0.5,
+      "text": "3. 在 Windows 用户环境变量 Path 中添加实际的 bin 目录："
+    },
+    {
+      "id": 16,
+      "type": "AUTO_SHAPE",
+      "left": 1.25,
+      "top": 4.5833,
+      "width": 10.9375,
+      "height": 0.4167,
+      "text": "C:\\msys64\\ucrt64\\bin"
+    },
+    {
+      "id": 17,
+      "type": "AUTO_SHAPE",
+      "left": 0.9896,
+      "top": 5.2083,
+      "width": 11.3542,
+      "height": 0.5,
+      "text": "4. 重启 VS Code，打开新终端，执行 gcc --version。"
+    }
+  ],
+  "available_regions": [],
+  "images_used": [
+    "image2.png"
+  ]
+}

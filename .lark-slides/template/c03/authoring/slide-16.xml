@@ -1,0 +1,120 @@
+<slide xmlns="https://www.larkoffice.com/sml/2.0">
+    <data>
+      <shape width="141.1400787401575" height="116.8567716535433" topLeftX="0" topLeftY="0" path="M0,0 L141.1401,0 L0,116.8568 Z" type="custom">
+        <fill>
+          <fillColor color="rgba(3, 72, 149, 1)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)">
+          <p textAlign="center" lineSpacing="multiple:1.2"><span color="rgba(255, 255, 255, 1)" fontSize="18" fontFamily="思源黑体"> </span></p>
+        </content>
+      </shape>
+      <shape width="18.444094488188977" height="82.79322834645669" topLeftX="28.56897637795275" topLeftY="-3.1153543307086693" rotation="141.9454" path="M0,82.7932 L0,5.548 L18.4441,0 L18.4441,82.7932 Z" type="custom">
+        <fill>
+          <fillColor color="rgba(0, 0, 238, 0.85)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)">
+          <p textAlign="center" lineSpacing="multiple:1.2"><span color="rgba(255, 255, 255, 1)" fontSize="18" fontFamily="思源黑体"> </span></p>
+        </content>
+      </shape>
+      <shape width="18.444094488188977" height="82.79322834645669" topLeftX="39.52448818897639" topLeftY="-18.838346456692904" rotation="141.9454" path="M0,82.7932 L0,5.548 L18.4441,0 L18.4441,82.7932 Z" type="custom">
+        <fill>
+          <fillColor color="rgba(0, 0, 238, 0.58)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)">
+          <p textAlign="center" lineSpacing="multiple:1.2"><span color="rgba(255, 255, 255, 1)" fontSize="18" fontFamily="思源黑体"> </span></p>
+        </content>
+      </shape>
+      <shape width="141.1400787401575" height="116.8567716535433" topLeftX="831.0015748031497" topLeftY="411.00157480314954" rotation="270" path="M0,0 L141.1401,0 L0,116.8568 Z" flipY="true" type="custom">
+        <fill>
+          <fillColor color="rgba(240, 240, 240, 1)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)">
+          <p textAlign="center" lineSpacing="multiple:1.2"><span color="rgba(255, 255, 255, 1)" fontSize="18" fontFamily="思源黑体"> </span></p>
+        </content>
+      </shape>
+      <shape width="63.02236220472441" height="201.64354330708662" topLeftX="889.9439370078742" topLeftY="241.31811023622072" rotation="218.75768333333332" path="M63.0223,0 L0,78.5026 L0,201.6435 L63.0224,149.364 Z" flipY="true" type="custom">
+        <fill>
+          <fillColor color="rgba(240, 240, 240, 1)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)">
+          <p textAlign="center" lineSpacing="multiple:1.2"><span color="rgba(255, 255, 255, 1)" fontSize="18" fontFamily="思源黑体"> </span></p>
+        </content>
+      </shape>
+      <shape width="21.767244094488188" height="18.764881889763778" topLeftX="924.6477952755905" topLeftY="61.562047244094515" rotation="343.3178" presetHandlers="50000" type="triangle">
+        <fill>
+          <fillColor color="rgba(0, 0, 238, 1)"/>
+        </fill>
+      </shape>
+      <shape width="625.2566929133858" height="44.14787401574803" topLeftX="673.7879527559055" topLeftY="43.19409448818897" path="M33.4626,0 L625.2567,0 L625.2567,44.1479 L0,44.1479 Z" type="custom">
+        <fill>
+          <fillColor color="rgba(240, 240, 240, 1)"/>
+        </fill>
+      </shape>
+      <img src="OrCKbuA53o6Jlyxhe73cSAORn4e" width="44.14787401574803" height="44.14787401574803" topLeftX="890.4203937007874" topLeftY="43.1940157480315">
+        <crop leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0"/>
+      </img>
+      <shape width="160" height="32" topLeftX="705.6155118110237" topLeftY="54.487716535433066" type="text">
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left" wrap="false">
+          <p textAlign="left" lineSpacing="multiple:1.2" letterSpacing="1.1"><em><span color="rgba(0, 0, 0, 1)" fontSize="14" fontFamily="思源黑体" bold="false" strikethrough="false" underline="false" letterSpacing="1.1">哈理工A.I.R.创新实验室</span></em></p>
+        </content>
+      </shape>
+      <shape width="66.94629921259842" height="50.8" topLeftX="33.25511811023622" topLeftY="15.769133858267715" type="text">
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left" autoFit="shape-auto-fit">
+          <p textAlign="left" lineSpacing="multiple:1.2"><strong><em><span color="rgba(255, 255, 255, 1)" fontSize="36" fontFamily="锐字真言体免费商用" strikethrough="false" underline="false">04</span></em></strong></p>
+        </content>
+      </shape>
+      <shape width="560" height="36.25" topLeftX="110.86724409448817" topLeftY="33.10251968503937" type="text">
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left" autoFit="shape-auto-fit">
+          <p textAlign="left" lineSpacing="multiple:1.2"><strong><em><span color="rgba(3, 72, 149, 1)" fontSize="24" fontFamily="思源黑体" strikethrough="false" underline="false">EXTI 怎么配，中断函数写在哪？</span></em></strong></p>
+        </content>
+      </shape>
+      <shape width="430" height="66" topLeftX="62.42" topLeftY="124" type="text">
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left" autoFit="shape-auto-fit">
+          <p textAlign="left" lineSpacing="multiple:1.2"><strong><span color="rgba(3, 72, 149, 1)" fontSize="17" fontFamily="思源黑体" strikethrough="false" underline="false">① 定触发边沿</span></strong></p>
+          <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(31, 35, 41, 1)" fontSize="15" fontFamily="思源黑体" bold="false" strikethrough="false" underline="false">PB1 在 CubeMX 里选 GPIO_EXTI1，按键接地配下降沿：松手是 1，按下瞬间跳成 0 就触发。</span></p>
+        </content>
+      </shape>
+      <shape width="430" height="66" topLeftX="62.42" topLeftY="194" type="text">
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left" autoFit="shape-auto-fit">
+          <p textAlign="left" lineSpacing="multiple:1.2"><strong><span color="rgba(3, 72, 149, 1)" fontSize="17" fontFamily="思源黑体" strikethrough="false" underline="false">② NVIC 里使能中断</span></strong></p>
+          <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(31, 35, 41, 1)" fontSize="15" fontFamily="思源黑体" bold="false" strikethrough="false" underline="false">光配引脚不勾 NVIC，中断永远不会进——报错没有，只是没反应，这个坑非常常见。</span></p>
+        </content>
+      </shape>
+      <shape width="430" height="66" topLeftX="62.42" topLeftY="264" type="text">
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left" autoFit="shape-auto-fit">
+          <p textAlign="left" lineSpacing="multiple:1.2"><strong><span color="rgba(3, 72, 149, 1)" fontSize="17" fontFamily="思源黑体" strikethrough="false" underline="false">③ 逻辑写进回调</span></strong></p>
+          <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(31, 35, 41, 1)" fontSize="15" fontFamily="思源黑体" bold="false" strikethrough="false" underline="false">所有 EXTI 共用一个回调，先用 GPIO_Pin 判断是谁触发的，再决定做什么。</span></p>
+        </content>
+      </shape>
+      <shape width="378" height="230" topLeftX="510" topLeftY="112" type="rect">
+        <fill>
+          <fillColor color="rgba(240, 240, 240, 1)"/>
+        </fill>
+        <border color="rgba(3, 72, 149, 1)" width="1" lineJoin="miter" miterLimit="10"/>
+      </shape>
+      <shape width="354" height="212" topLeftX="522" topLeftY="120" type="text">
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="Consolas" color="rgba(31, 35, 41, 1)" textAlign="left" autoFit="no-auto-fit">
+          <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(86, 86, 86, 1)" fontSize="15" fontFamily="Consolas" bold="false" strikethrough="false" underline="false">// USER CODE 区里自己写</span></p>
+          <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(140, 70, 190, 1)" fontSize="15" fontFamily="Consolas" bold="false" strikethrough="false" underline="false">void HAL_GPIO_EXTI_Callback(uint16_t GPIO_Pin)</span></p>
+          <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(31, 35, 41, 1)" fontSize="15" fontFamily="Consolas" bold="false" strikethrough="false" underline="false">{</span></p>
+          <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(31, 35, 41, 1)" fontSize="15" fontFamily="Consolas" bold="false" strikethrough="false" underline="false">  if (GPIO_Pin == GPIO_PIN_1) {</span></p>
+          <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(140, 70, 190, 1)" fontSize="15" fontFamily="Consolas" bold="false" strikethrough="false" underline="false">    HAL_GPIO_TogglePin(GPIOC, GPIO_PIN_13);</span></p>
+          <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(31, 35, 41, 1)" fontSize="15" fontFamily="Consolas" bold="false" strikethrough="false" underline="false">  }</span></p>
+          <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(31, 35, 41, 1)" fontSize="15" fontFamily="Consolas" bold="false" strikethrough="false" underline="false">}</span></p>
+        </content>
+      </shape>
+      <shape width="817.58" height="34" topLeftX="62.42" topLeftY="372" type="rect">
+        <fill>
+          <fillColor color="rgba(3, 72, 149, 1)"/>
+        </fill>
+        <content verticalAlign="middle" paddingTop="3.6" paddingBottom="3.6" paddingLeft="14" paddingRight="14" fontSize="16" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" textAlign="left" autoFit="shape-auto-fit">
+          <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(255, 255, 255, 1)" fontSize="15" fontFamily="思源黑体" bold="false" strikethrough="false" underline="false">配置在 CubeMX 里做完，处理逻辑写进回调——回调里只做最短的事，长活儿交回主循环。</span></p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content>
+        <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(0, 0, 0, 1)" fontSize="12" fontFamily="等线" bold="false" italic="false" strikethrough="false" underline="false">中断的配置只在 CubeMX 里做三件事：把引脚模式选成 GPIO_EXTI 并定好触发边沿、勾上 NVIC 里的中断使能、确认优先级。这三步做完再生成代码。第二步特别要提醒，光配了引脚不勾 NVIC，程序编译通过、运行也没报错，就是按下去没反应，这是新手最常见的「没反应」原因。生成的代码里，HAL 已经把中断入口写好了，我们要写的是回调函数，所有 EXTI 线共用这一个回调，所以第一句一定要判断 GPIO_Pin，不判断就会出现按键 A 触发却动了灯 B。最后一句要记住：回调要短。</span></p>
+      </content>
+    </note>
+  </slide>

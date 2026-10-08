@@ -1,0 +1,175 @@
+{
+  "slide_num": 6,
+  "role": "content",
+  "slide_id": "pVx",
+  "local_xml_path": "source-slides\\slide-06.xml",
+  "shell_shapes": [
+    {
+      "id": 19,
+      "type": "AUTO_SHAPE",
+      "left": 12.8423,
+      "top": 0.855,
+      "width": 0.3023,
+      "height": 0.2606,
+      "text": ""
+    },
+    {
+      "id": 9,
+      "type": "PICTURE",
+      "left": 12.3669,
+      "top": 0.5999,
+      "width": 0.6132,
+      "height": 0.6132,
+      "text": ""
+    },
+    {
+      "id": 6,
+      "type": "AUTO_SHAPE",
+      "left": 1.5452,
+      "top": 2.156,
+      "width": 0.8448,
+      "height": 0.4483,
+      "text": ""
+    },
+    {
+      "id": 11,
+      "type": "AUTO_SHAPE",
+      "left": 6.2435,
+      "top": 2.1623,
+      "width": 0.8448,
+      "height": 0.4483,
+      "text": ""
+    },
+    {
+      "id": 20,
+      "type": "AUTO_SHAPE",
+      "left": 9.5318,
+      "top": 1.7293,
+      "width": 0.945,
+      "height": 0.5035,
+      "text": ""
+    },
+    {
+      "id": 22,
+      "type": "AUTO_SHAPE",
+      "left": 9.532,
+      "top": 2.4363,
+      "width": 0.945,
+      "height": 0.5035,
+      "text": ""
+    },
+    {
+      "id": 28,
+      "type": "PICTURE",
+      "left": 0.8397,
+      "top": 2.815,
+      "width": 7.9126,
+      "height": 4.5747,
+      "text": ""
+    }
+  ],
+  "content_shapes": [
+    {
+      "id": 16,
+      "type": "GROUP",
+      "left": 0.4619,
+      "top": 0.219,
+      "width": 6.6078,
+      "height": 1.0661,
+      "text": ""
+    },
+    {
+      "id": 7,
+      "type": "FREEFORM",
+      "left": 9.3582,
+      "top": 0.5999,
+      "width": 8.6841,
+      "height": 0.6132,
+      "text": ""
+    },
+    {
+      "id": 10,
+      "type": "TEXT_BOX",
+      "left": 9.8002,
+      "top": 0.7568,
+      "width": 7.6146,
+      "height": 0.2995,
+      "text": "哈理工A.I.R.创新实验室"
+    },
+    {
+      "id": 2,
+      "type": "TEXT_BOX",
+      "left": 1.5298,
+      "top": 0.9765,
+      "width": 4.0313,
+      "height": 0.6395,
+      "text": "电控职责"
+    },
+    {
+      "id": 4,
+      "type": "TEXT_BOX",
+      "left": 0.6897,
+      "top": 2.1293,
+      "width": 1.7414,
+      "height": 0.5049,
+      "text": "机械"
+    },
+    {
+      "id": 5,
+      "type": "TEXT_BOX",
+      "left": 5.347,
+      "top": 2.134,
+      "width": 1.0776,
+      "height": 0.5049,
+      "text": "电控"
+    },
+    {
+      "id": 12,
+      "type": "TEXT_BOX",
+      "left": 2.3901,
+      "top": 2.1003,
+      "width": 2.1121,
+      "height": 0.5049,
+      "text": "骨骼"
+    },
+    {
+      "id": 13,
+      "type": "TEXT_BOX",
+      "left": 7.0861,
+      "top": 2.1003,
+      "width": 2.5581,
+      "height": 0.5049,
+      "text": "大脑和神经系统"
+    },
+    {
+      "id": 14,
+      "type": "TEXT_BOX",
+      "left": 10.4488,
+      "top": 1.5073,
+      "width": 0.8751,
+      "height": 0.5049,
+      "text": "软件"
+    },
+    {
+      "id": 15,
+      "type": "TEXT_BOX",
+      "left": 10.4488,
+      "top": 2.6881,
+      "width": 0.8751,
+      "height": 0.5049,
+      "text": "硬件"
+    }
+  ],
+  "available_regions": [
+    {
+      "left": 10.0,
+      "top": 5.0,
+      "width": 3.33,
+      "height": 2.5
+    }
+  ],
+  "images_used": [
+    "image2.png",
+    "image7.png"
+  ]
+}

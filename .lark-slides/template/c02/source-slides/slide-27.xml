@@ -1,0 +1,237 @@
+<slide xmlns="https://www.larkoffice.com/sml/2.0" id="pfG">
+    <style>
+      <fill id="ffG">
+        <fillColor color="rgba(255, 255, 255, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="141.1400787401575" height="116.8567716535433" topLeftX="0" topLeftY="0" path="M0,0 L141.1401,0 L0,116.8568 Z" type="custom" id="bUs">
+        <fill>
+          <fillColor color="rgba(3, 72, 149, 1)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)">
+          <p textAlign="center" lineSpacing="multiple:1.2"><span color="rgba(255, 255, 255, 1)" fontSize="18" fontFamily="思源黑体"> </span></p>
+        </content>
+      </shape>
+      <shape width="18.444094488188977" height="82.79322834645669" topLeftX="28.56897637795275" topLeftY="-3.1153543307086693" rotation="141.9454" path="M0,82.7932 L0,5.548 L18.4441,0 L18.4441,82.7932 Z" type="custom" id="bUg">
+        <fill>
+          <fillColor color="rgba(0, 0, 238, 0.85)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)">
+          <p textAlign="center" lineSpacing="multiple:1.2"><span color="rgba(255, 255, 255, 1)" fontSize="18" fontFamily="思源黑体"> </span></p>
+        </content>
+      </shape>
+      <shape width="12.148346456692913" height="8.965984251968504" topLeftX="43.633858267716526" topLeftY="68.02417322834646" rotation="355.5271666666667" path="M12.1368,8.9488 L12.1483,8.966 L12.1226,8.9659 Z M6.0884,0 L12.041,8.9655 L0,8.9116 Z" type="custom" id="bUG">
+        <fill>
+          <fillColor color="rgba(3, 72, 149, 1)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)">
+          <p textAlign="center" lineSpacing="multiple:1.2"><span color="rgba(255, 255, 255, 1)" fontSize="18" fontFamily="思源黑体"> </span></p>
+        </content>
+      </shape>
+      <shape width="18.444094488188977" height="82.79322834645669" topLeftX="39.52448818897639" topLeftY="-18.838346456692904" rotation="141.9454" path="M0,82.7932 L0,5.548 L18.4441,0 L18.4441,82.7932 Z" type="custom" id="bUr">
+        <fill>
+          <fillColor color="rgba(0, 0, 238, 0.58)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)">
+          <p textAlign="center" lineSpacing="multiple:1.2"><span color="rgba(255, 255, 255, 1)" fontSize="18" fontFamily="思源黑体"> </span></p>
+        </content>
+      </shape>
+      <shape width="141.1400787401575" height="116.8567716535433" topLeftX="831.0015748031497" topLeftY="411.00157480314954" rotation="270" path="M0,0 L141.1401,0 L0,116.8568 Z" flipY="true" type="custom" id="bUx">
+        <fill>
+          <fillColor color="rgba(240, 240, 240, 1)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)">
+          <p textAlign="center" lineSpacing="multiple:1.2"><span color="rgba(255, 255, 255, 1)" fontSize="18" fontFamily="思源黑体"> </span></p>
+        </content>
+      </shape>
+      <shape width="63.02236220472441" height="201.64354330708662" topLeftX="889.9439370078742" topLeftY="241.31811023622072" rotation="218.75768333333332" path="M63.0223,0 L0,78.5026 L0,201.6435 L63.0224,149.364 Z" flipY="true" type="custom" id="bUM">
+        <fill>
+          <fillColor color="rgba(240, 240, 240, 1)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)">
+          <p textAlign="center" lineSpacing="multiple:1.2"><span color="rgba(255, 255, 255, 1)" fontSize="18" fontFamily="思源黑体"> </span></p>
+        </content>
+      </shape>
+      <shape width="21.767244094488188" height="18.764881889763778" topLeftX="924.6477952755905" topLeftY="61.562047244094515" rotation="343.3178" presetHandlers="50000" type="triangle" id="bgV">
+        <fill>
+          <fillColor color="rgba(0, 0, 238, 1)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)">
+          <p textAlign="center" lineSpacing="multiple:1.2"><span color="rgba(255, 255, 255, 1)" fontSize="18" fontFamily="思源黑体" bold="false" italic="false" strikethrough="false" underline="false"> </span></p>
+        </content>
+      </shape>
+      <shape width="281.1290551181102" height="29" topLeftX="78.31724409448819" topLeftY="63.528031496062994" type="text" id="bgN">
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left" autoFit="shape-auto-fit">
+          <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(0, 0, 0, 1)" fontSize="18" fontFamily="思源黑体" bold="false" italic="false" strikethrough="false" underline="false"> </span></p>
+        </content>
+      </shape>
+      <shape width="66.94629921259842" height="50.8" topLeftX="33.25511811023622" topLeftY="15.769133858267715" type="text" id="bgl">
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left" autoFit="shape-auto-fit">
+          <p textAlign="left" lineSpacing="multiple:1.2"><strong><em><span color="rgba(255, 255, 255, 1)" fontSize="36" fontFamily="锐字真言体免费商用" strikethrough="false" underline="false">04</span></em></strong></p>
+        </content>
+      </shape>
+      <shape width="625.2566929133858" height="44.14787401574803" topLeftX="673.7879527559055" topLeftY="43.19409448818897" path="M33.4626,0 L625.2567,0 L625.2567,44.1479 L0,44.1479 Z" type="custom" id="bgi">
+        <fill>
+          <fillColor color="rgba(240, 240, 240, 1)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)">
+          <p textAlign="center" lineSpacing="multiple:1.2"><span color="rgba(255, 255, 255, 1)" fontSize="18" fontFamily="思源黑体" bold="false" italic="false" strikethrough="false" underline="false"> </span></p>
+        </content>
+      </shape>
+      <img id="bgj" src="FXxtbcXEEoSYIMxTW8ecn6wgnPf" width="44.14787401574803" height="44.14787401574803" topLeftX="890.4203937007874" topLeftY="43.1940157480315">
+        <crop leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0"/>
+      </img>
+      <shape width="551.25" height="43.5" topLeftX="112.5" topLeftY="31.5" type="rect" id="bgw">
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2"><strong><span color="rgba(8, 74, 145, 1)" fontSize="24" fontFamily="Noto Sans CJK SC" italic="false" strikethrough="false" underline="false">独立练习：圆的周长与面积</span></strong></p>
+        </content>
+      </shape>
+      <shape width="181.5" height="24" topLeftX="708" topLeftY="55.5" type="rect" id="bgz">
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(0, 0, 0, 1)" fontSize="12.75" fontFamily="Noto Sans CJK SC" bold="false" italic="false" strikethrough="false" underline="false">哈理工 A.I.R. 创新实验室</span></p>
+        </content>
+      </shape>
+      <shape width="817.5" height="36" topLeftX="71.25" topLeftY="116.25" type="rect" id="bgb">
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2"><strong><span color="rgba(8, 74, 145, 1)" fontSize="21" fontFamily="Noto Sans CJK SC" italic="false" strikethrough="false" underline="false">任务：新建 circle 工程，输入半径，输出周长与面积</span></strong></p>
+        </content>
+      </shape>
+      <shape width="817.5" height="36.75" topLeftX="71.25" topLeftY="163.5" type="rect" id="bgk">
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(23, 33, 43, 1)" fontSize="21.75" fontFamily="Noto Sans CJK SC" bold="false" italic="false" strikethrough="false" underline="false">输入约定：半径 r 为合法正数，单位为 cm。</span></p>
+        </content>
+      </shape>
+      <shape width="817.5" height="33.75" topLeftX="71.25" topLeftY="211.5" type="rect" id="bgY">
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(23, 33, 43, 1)" fontSize="21.75" fontFamily="DejaVu Sans Mono" bold="false" italic="false" strikethrough="false" underline="false">const double PI = 3.1415926;</span></p>
+        </content>
+      </shape>
+      <shape width="817.5" height="42.75" topLeftX="71.25" topLeftY="257.25" type="rect" id="bgA">
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(23, 33, 43, 1)" fontSize="22.5" fontFamily="Noto Sans CJK SC" bold="false" italic="false" strikethrough="false" underline="false">公式：周长 C = 2 × PI × r    面积 S = PI × r × r</span></p>
+        </content>
+      </shape>
+      <shape width="817.5" height="39" topLeftX="71.25" topLeftY="306.75" type="rect" id="bgT">
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(23, 33, 43, 1)" fontSize="20.25" fontFamily="Noto Sans CJK SC" bold="false" italic="false" strikethrough="false" underline="false">要求：使用变量与常量，读取输入，计算并输出两位小数及单位。</span></p>
+        </content>
+      </shape>
+      <table id="bgO" width="817.5" height="117.75" topLeftX="71.25" topLeftY="363.75">
+        <colgroup>
+          <col span="1" width="262.5"/>
+          <col span="2" width="277.5"/>
+        </colgroup>
+        <tr height="39.25">
+          <td id="bgd">
+            <borderTop color="rgba(0, 0, 0, 1)" lineJoin="miter" miterLimit="10"/>
+            <borderRight color="rgba(0, 0, 0, 1)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(0, 0, 0, 1)" lineJoin="miter" miterLimit="10"/>
+            <borderLeft color="rgba(0, 0, 0, 1)" lineJoin="miter" miterLimit="10"/>
+            <fill>
+              <fillColor color="rgba(8, 74, 145, 1)"/>
+            </fill>
+            <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="14" fontFamily="思源黑体" textAlign="left">
+              <p textAlign="left" lineSpacing="multiple:1.2"><strong><span color="rgba(255, 255, 255, 1)" fontSize="20.25" fontFamily="Noto Sans CJK SC" italic="false" strikethrough="false" underline="false">输入半径</span></strong></p>
+            </content>
+          </td>
+          <td id="bgC">
+            <borderTop color="rgba(0, 0, 0, 1)" lineJoin="miter" miterLimit="10"/>
+            <borderRight color="rgba(0, 0, 0, 1)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(0, 0, 0, 1)" lineJoin="miter" miterLimit="10"/>
+            <fill>
+              <fillColor color="rgba(8, 74, 145, 1)"/>
+            </fill>
+            <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="14" fontFamily="思源黑体" textAlign="left">
+              <p textAlign="left" lineSpacing="multiple:1.2"><strong><span color="rgba(255, 255, 255, 1)" fontSize="20.25" fontFamily="Noto Sans CJK SC" italic="false" strikethrough="false" underline="false">预期周长 / cm</span></strong></p>
+            </content>
+          </td>
+          <td id="bgu">
+            <borderTop color="rgba(0, 0, 0, 1)" lineJoin="miter" miterLimit="10"/>
+            <borderRight color="rgba(0, 0, 0, 1)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(0, 0, 0, 1)" lineJoin="miter" miterLimit="10"/>
+            <fill>
+              <fillColor color="rgba(8, 74, 145, 1)"/>
+            </fill>
+            <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="14" fontFamily="思源黑体" textAlign="left">
+              <p textAlign="left" lineSpacing="multiple:1.2"><strong><span color="rgba(255, 255, 255, 1)" fontSize="20.25" fontFamily="Noto Sans CJK SC" italic="false" strikethrough="false" underline="false">预期面积 / cm²</span></strong></p>
+            </content>
+          </td>
+        </tr>
+        <tr height="39.25">
+          <td id="bgW">
+            <borderRight color="rgba(0, 0, 0, 1)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(0, 0, 0, 1)" lineJoin="miter" miterLimit="10"/>
+            <borderLeft color="rgba(0, 0, 0, 1)" lineJoin="miter" miterLimit="10"/>
+            <fill>
+              <fillColor/>
+            </fill>
+            <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="14" fontFamily="思源黑体" textAlign="left">
+              <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(23, 33, 43, 1)" fontSize="20.25" fontFamily="Noto Sans CJK SC" bold="false" italic="false" strikethrough="false" underline="false">1</span></p>
+            </content>
+          </td>
+          <td id="bgm">
+            <borderRight color="rgba(0, 0, 0, 1)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(0, 0, 0, 1)" lineJoin="miter" miterLimit="10"/>
+            <fill>
+              <fillColor/>
+            </fill>
+            <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="14" fontFamily="思源黑体" textAlign="left">
+              <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(23, 33, 43, 1)" fontSize="20.25" fontFamily="Noto Sans CJK SC" bold="false" italic="false" strikethrough="false" underline="false">6.28</span></p>
+            </content>
+          </td>
+          <td id="bgf">
+            <borderRight color="rgba(0, 0, 0, 1)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(0, 0, 0, 1)" lineJoin="miter" miterLimit="10"/>
+            <fill>
+              <fillColor/>
+            </fill>
+            <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="14" fontFamily="思源黑体" textAlign="left">
+              <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(23, 33, 43, 1)" fontSize="20.25" fontFamily="Noto Sans CJK SC" bold="false" italic="false" strikethrough="false" underline="false">3.14</span></p>
+            </content>
+          </td>
+        </tr>
+        <tr height="39.25">
+          <td id="bgc">
+            <borderRight color="rgba(0, 0, 0, 1)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(0, 0, 0, 1)" lineJoin="miter" miterLimit="10"/>
+            <borderLeft color="rgba(0, 0, 0, 1)" lineJoin="miter" miterLimit="10"/>
+            <fill>
+              <fillColor/>
+            </fill>
+            <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="14" fontFamily="思源黑体" textAlign="left">
+              <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(23, 33, 43, 1)" fontSize="20.25" fontFamily="Noto Sans CJK SC" bold="false" italic="false" strikethrough="false" underline="false">2.5</span></p>
+            </content>
+          </td>
+          <td id="bgy">
+            <borderRight color="rgba(0, 0, 0, 1)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(0, 0, 0, 1)" lineJoin="miter" miterLimit="10"/>
+            <fill>
+              <fillColor/>
+            </fill>
+            <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="14" fontFamily="思源黑体" textAlign="left">
+              <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(23, 33, 43, 1)" fontSize="20.25" fontFamily="Noto Sans CJK SC" bold="false" italic="false" strikethrough="false" underline="false">15.71</span></p>
+            </content>
+          </td>
+          <td id="bgo">
+            <borderRight color="rgba(0, 0, 0, 1)" lineJoin="miter" miterLimit="10"/>
+            <borderBottom color="rgba(0, 0, 0, 1)" lineJoin="miter" miterLimit="10"/>
+            <fill>
+              <fillColor/>
+            </fill>
+            <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="14" fontFamily="思源黑体" textAlign="left">
+              <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(23, 33, 43, 1)" fontSize="20.25" fontFamily="Noto Sans CJK SC" bold="false" italic="false" strikethrough="false" underline="false">19.63</span></p>
+            </content>
+          </td>
+        </tr>
+      </table>
+    </data>
+    <note id="bgJ">
+      <content>
+        <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(0, 0, 0, 1)" fontSize="12" fontFamily="等线" bold="false" italic="false" strikethrough="false" underline="false">本页用于独立完成能力检查，不先展示完整答案。输入限定为合法正数，不要求写输入校验。要求学生新建工程，不能仅修改课堂示例。变量建议 double radius, perimeter, area; 常量 const double PI = 3.1415926; 也可正确使用 #define。</span></p>
+        <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(0, 0, 0, 1)" fontSize="12" fontFamily="等线" bold="false" italic="false" strikethrough="false" underline="false">参考代码核心：scanf("%lf", &amp;radius); perimeter = 2 * PI * radius; area = PI * radius * radius; printf("C = %.2f\nS = %.2f\n", perimeter, area);</span></p>
+        <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(0, 0, 0, 1)" fontSize="12" fontFamily="等线" bold="false" italic="false" strikethrough="false" underline="false">课堂检查数据：r=1输出6.28、3.14；r=2.5输出15.71、19.63。检查类型、格式符、取地址、公式、文件保存、重新编译和结果。</span></p>
+      </content>
+    </note>
+  </slide>
+  

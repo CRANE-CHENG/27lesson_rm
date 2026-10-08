@@ -1,0 +1,146 @@
+<slide xmlns="https://www.larkoffice.com/sml/2.0" id="pfs"><style>
+      <fill id="ffs">
+        <fillColor color="rgba(255, 255, 255, 1)" />
+      </fill>
+    </style>
+    <data>
+      <shape width="141.1400787401575" height="116.8567716535433" topLeftX="0" topLeftY="0" path="M0,0 L141.1401,0 L0,116.8568 Z" type="custom" id="bQg">
+        <fill>
+          <fillColor color="rgba(3, 72, 149, 1)" />
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" lineSpacing="multiple:1.2">
+          <p textAlign="center" lineSpacing="multiple:1.2" />
+        </content>
+      </shape>
+      <shape width="18.444094488188977" height="82.79322834645669" topLeftX="28.568976377952744" topLeftY="-3.1153543307086977" rotation="141.9454" path="M0,82.7932 L0,5.548 L18.4441,0 L18.4441,82.7932 Z" type="custom" id="bQG">
+        <fill>
+          <fillColor color="rgba(0, 0, 238, 0.85)" />
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" lineSpacing="multiple:1.2">
+          <p textAlign="center" lineSpacing="multiple:1.2" />
+        </content>
+      </shape>
+      <shape width="18.444094488188977" height="82.79322834645669" topLeftX="39.524488188976385" topLeftY="-18.838346456692904" rotation="141.9454" path="M0,82.7932 L0,5.548 L18.4441,0 L18.4441,82.7932 Z" type="custom" id="bQD">
+        <fill>
+          <fillColor color="rgba(0, 0, 238, 0.58)" />
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" lineSpacing="multiple:1.2">
+          <p textAlign="center" lineSpacing="multiple:1.2" />
+        </content>
+      </shape>
+      <shape width="141.1400787401575" height="116.8567716535433" topLeftX="831.0015748031499" topLeftY="411.00157480314954" rotation="270" path="M0,0 L141.1401,0 L0,116.8568 Z" flipY="true" type="custom" id="bQX">
+        <fill>
+          <fillColor color="rgba(240, 240, 240, 1)" />
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" lineSpacing="multiple:1.2">
+          <p textAlign="center" lineSpacing="multiple:1.2" />
+        </content>
+      </shape>
+      <shape width="63.02236220472441" height="201.64354330708662" topLeftX="889.9439370078744" topLeftY="241.31811023622072" rotation="218.7576833333333" path="M63.0223,0 L0,78.5026 L0,201.6435 L63.0224,149.364 Z" flipY="true" type="custom" id="bQy">
+        <fill>
+          <fillColor color="rgba(240, 240, 240, 1)" />
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" lineSpacing="multiple:1.2">
+          <p textAlign="center" lineSpacing="multiple:1.2" />
+        </content>
+      </shape>
+      <shape width="21.767244094488188" height="18.764881889763778" topLeftX="924.6477952755905" topLeftY="61.56204724409457" rotation="343.3178" presetHandlers="50000" type="triangle" id="bQr">
+        <fill>
+          <fillColor color="rgba(0, 0, 238, 1)" />
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" lineSpacing="multiple:1.2">
+          <p textAlign="center" lineSpacing="multiple:1.2" />
+        </content>
+      </shape>
+      <shape width="625.2566929133858" height="44.14787401574803" topLeftX="673.7879527559055" topLeftY="43.19409448818897" path="M33.4626,0 L625.2567,0 L625.2567,44.1479 L0,44.1479 Z" type="custom" id="bQx">
+        <fill>
+          <fillColor color="rgba(240, 240, 240, 1)" />
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" lineSpacing="multiple:1.2">
+          <p textAlign="center" lineSpacing="multiple:1.2" />
+        </content>
+      </shape>
+      <img id="bQM" src="FXxtbcXEEoSYIMxTW8ecn6wgnPf" width="44.14787401574803" height="44.14787401574803" topLeftX="890.4203937007874" topLeftY="43.1940157480315">
+        <crop leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0" />
+      </img>
+      <shape width="548.2546456692913" height="21.560551181102362" topLeftX="705.6155118110237" topLeftY="54.487716535433066" type="text" id="bQP">
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="14" fontFamily="思源黑体" color="rgba(0, 0, 0, 1)" bold="false" italic="true" underline="false" strikethrough="false" lineSpacing="multiple:1.2" letterSpacing="1.1" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" letterSpacing="1.1"><em><span color="rgba(0, 0, 0, 1)" fontSize="14" fontFamily="思源黑体" bold="false" strikethrough="false" underline="false" letterSpacing="1.1">哈理工A.I.R.创新实验室</span></em></p>
+        </content>
+      </shape>
+      <shape width="66.94629921259842" height="50.8" topLeftX="33.25511811023622" topLeftY="15.769133858267715" type="text" id="bQa">
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="36" fontFamily="锐字真言体免费商用" color="rgba(255, 255, 255, 1)" bold="true" italic="true" underline="false" strikethrough="false" lineSpacing="multiple:1.2" textAlign="left" autoFit="shape-auto-fit">
+          <p textAlign="left" lineSpacing="multiple:1.2"><strong><em><span color="rgba(255, 255, 255, 1)" fontSize="36" fontFamily="锐字真言体免费商用" strikethrough="false" underline="false">04</span></em></strong></p>
+        </content>
+      </shape>
+      <shape width="560" height="36.25" topLeftX="110.86724409448817" topLeftY="33.10251968503937" type="text" id="bQZ">
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="24" fontFamily="思源黑体" color="rgba(3, 72, 149, 1)" bold="true" italic="true" underline="false" strikethrough="false" lineSpacing="multiple:1.2" textAlign="left" autoFit="shape-auto-fit">
+          <p textAlign="left" lineSpacing="multiple:1.2"><strong><em><span color="rgba(3, 72, 149, 1)" fontSize="24" fontFamily="思源黑体" strikethrough="false" underline="false">指针就是一个装地址的变量</span></em></strong></p>
+        </content>
+      </shape>
+      <shape width="4" height="40" topLeftX="56.42" topLeftY="100.0" presetHandlers="0" type="rect"><fill><fillColor color="rgba(3, 72, 149, 1)" /></fill><content /></shape><shape width="56" height="40" topLeftX="62.42" topLeftY="100" type="text" id="bQF">
+        <content verticalAlign="top" paddingTop="1" paddingBottom="1" paddingRight="1" fontSize="28" fontFamily="锐字真言体免费商用" color="rgba(3, 72, 149, 1)" bold="true" italic="true" underline="false" strikethrough="false" lineSpacing="multiple:1.2" textAlign="left" autoFit="shape-auto-fit">
+          <p textAlign="left" lineSpacing="multiple:1.2"><strong><em><span color="rgba(3, 72, 149, 1)" fontSize="28" fontFamily="锐字真言体免费商用" strikethrough="false" underline="false">01</span></em></strong></p>
+        </content>
+      </shape>
+      <shape width="752" height="48" topLeftX="128" topLeftY="100" type="text" id="bQB">
+        <content verticalAlign="top" paddingTop="1" paddingBottom="1" paddingRight="1" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" lineSpacing="multiple:1.3" textAlign="left" autoFit="shape-auto-fit">
+          <p textAlign="left" lineSpacing="multiple:1.3"><strong><span color="rgba(3, 72, 149, 1)" fontSize="18" fontFamily="思源黑体">指针里装的是地址</span></strong></p>
+          <p textAlign="left" lineSpacing="multiple:1.3"><span color="rgba(31, 35, 41, 1)" fontSize="16" fontFamily="思源黑体">int *p = &amp;a; 里，p 装的是 a 的内存位置，不是 10。</span></p>
+        </content>
+      </shape>
+      <shape width="4" height="40" topLeftX="56.42" topLeftY="156.0" presetHandlers="0" type="rect"><fill><fillColor color="rgba(3, 72, 149, 1)" /></fill><content /></shape><shape width="56" height="40" topLeftX="62.42" topLeftY="156" type="text" id="bQR">
+        <content verticalAlign="top" paddingTop="1" paddingBottom="1" paddingRight="1" fontSize="28" fontFamily="锐字真言体免费商用" color="rgba(3, 72, 149, 1)" bold="true" italic="true" underline="false" strikethrough="false" lineSpacing="multiple:1.2" textAlign="left" autoFit="shape-auto-fit">
+          <p textAlign="left" lineSpacing="multiple:1.2"><strong><em><span color="rgba(3, 72, 149, 1)" fontSize="28" fontFamily="锐字真言体免费商用" strikethrough="false" underline="false">02</span></em></strong></p>
+        </content>
+      </shape>
+      <shape width="752" height="48" topLeftX="128" topLeftY="156" type="text" id="bQK">
+        <content verticalAlign="top" paddingTop="1" paddingBottom="1" paddingRight="1" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" lineSpacing="multiple:1.3" textAlign="left" autoFit="shape-auto-fit">
+          <p textAlign="left" lineSpacing="multiple:1.3"><strong><span color="rgba(3, 72, 149, 1)" fontSize="18" fontFamily="思源黑体">&amp; 取地址，* 去取东西</span></strong></p>
+          <p textAlign="left" lineSpacing="multiple:1.3"><span color="rgba(31, 35, 41, 1)" fontSize="16" fontFamily="思源黑体">*p 的意思是「到 p 指的那个地址去」，可以读，也可以写。</span></p>
+        </content>
+      </shape>
+      <shape width="4" height="40" topLeftX="56.42" topLeftY="212.0" presetHandlers="0" type="rect"><fill><fillColor color="rgba(3, 72, 149, 1)" /></fill><content /></shape><shape width="56" height="40" topLeftX="62.42" topLeftY="212" type="text" id="bQQ">
+        <content verticalAlign="top" paddingTop="1" paddingBottom="1" paddingRight="1" fontSize="28" fontFamily="锐字真言体免费商用" color="rgba(3, 72, 149, 1)" bold="true" italic="true" underline="false" strikethrough="false" lineSpacing="multiple:1.2" textAlign="left" autoFit="shape-auto-fit">
+          <p textAlign="left" lineSpacing="multiple:1.2"><strong><em><span color="rgba(3, 72, 149, 1)" fontSize="28" fontFamily="锐字真言体免费商用" strikethrough="false" underline="false">03</span></em></strong></p>
+        </content>
+      </shape>
+      <shape width="752" height="48" topLeftX="128" topLeftY="212" type="text" id="bQe">
+        <content verticalAlign="top" paddingTop="1" paddingBottom="1" paddingRight="1" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" lineSpacing="multiple:1.3" textAlign="left" autoFit="shape-auto-fit">
+          <p textAlign="left" lineSpacing="multiple:1.3"><strong><span color="rgba(3, 72, 149, 1)" fontSize="18" fontFamily="思源黑体">指针的类型决定走多大一步</span></strong></p>
+          <p textAlign="left" lineSpacing="multiple:1.3"><span color="rgba(31, 35, 41, 1)" fontSize="16" fontFamily="思源黑体">int * 走一步 4 字节，char * 走一步 1 字节；数组名就是首元素地址。</span></p>
+        </content>
+      </shape>
+      <shape width="817.58" height="112" topLeftX="62.42" topLeftY="272" presetHandlers="0" type="rect" id="bQt">
+        <fill>
+          <fillColor color="rgba(240, 240, 240, 1)" />
+        </fill>
+        <border color="rgba(3, 72, 149, 1)" width="1" lineJoin="miter" miterLimit="10" />
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="817.58" height="104" topLeftX="62.42" topLeftY="276" type="text" id="bQn">
+        <content verticalAlign="top" paddingTop="1" paddingLeft="1" paddingRight="1" fontSize="16" fontFamily="Consolas" color="rgba(31, 35, 41, 1)" lineSpacing="multiple:1.35" textAlign="left" autoFit="shape-auto-fit">
+          <p textAlign="left" lineSpacing="multiple:1.35"><strong><span color="rgba(86, 156, 214, 1)" fontSize="16" fontFamily="Consolas">int</span></strong><span color="rgba(31, 35, 41, 1)" fontSize="16" fontFamily="Consolas"> a = </span><span color="rgba(4, 96, 199, 1)" fontSize="16" fontFamily="Consolas">10</span><span color="rgba(31, 35, 41, 1)" fontSize="16" fontFamily="Consolas">;</span></p>
+          <p textAlign="left" lineSpacing="multiple:1.35"><strong><span color="rgba(86, 156, 214, 1)" fontSize="16" fontFamily="Consolas">int</span></strong><span color="rgba(31, 35, 41, 1)" fontSize="16" fontFamily="Consolas"> *p = &amp;a; </span><span color="rgba(86, 86, 86, 1)" fontSize="16" fontFamily="Consolas">/* p 里装的是 a 的地址 */</span></p>
+          <p textAlign="left" lineSpacing="multiple:1.35"><span color="rgba(31, 35, 41, 1)" fontSize="16" fontFamily="Consolas">*p = </span><span color="rgba(4, 96, 199, 1)" fontSize="16" fontFamily="Consolas">20</span><span color="rgba(31, 35, 41, 1)" fontSize="16" fontFamily="Consolas">; </span><span color="rgba(86, 86, 86, 1)" fontSize="16" fontFamily="Consolas">/* 解引用：改的就是 a 本身 */</span></p>
+          <p textAlign="left" lineSpacing="multiple:1.35"><strong><span color="rgba(86, 156, 214, 1)" fontSize="16" fontFamily="Consolas">int</span></strong><span color="rgba(31, 35, 41, 1)" fontSize="16" fontFamily="Consolas"> *q = arr; </span><span color="rgba(86, 86, 86, 1)" fontSize="16" fontFamily="Consolas">/* 数组名 arr 就是首元素地址 */</span></p>
+        </content>
+      </shape>
+      <shape width="817.58" height="32" topLeftX="62.42" topLeftY="396" presetHandlers="0" type="rect" id="bQv">
+        <fill>
+          <fillColor color="rgba(3, 72, 149, 1)" />
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" />
+      </shape>
+      <shape width="817.58" height="32" topLeftX="62.42" topLeftY="396" type="text" id="bQS">
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="12" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" lineSpacing="multiple:1.2" textAlign="left" autoFit="shape-auto-fit">
+          <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(255, 255, 255, 1)" fontSize="16" fontFamily="思源黑体">本页判断：指针是装地址的变量；&amp; 取地址，* 到那个地址取东西。</span></p>
+        </content>
+      </shape>
+    </data>
+    <note id="bQs">
+      <content>
+        <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(0, 0, 0, 1)" fontSize="12" fontFamily="等线" bold="false" italic="false" strikethrough="false" underline="false">指针是 C 语言的分水岭，其实一句话就能说清：指针就是一个装地址的变量。普通变量装的是数，指针装的是「数在哪儿」。两个符号要分清：&amp; 是取地址，写 &amp;a 得到 a 的地址；* 是解引用，写 *p 表示「到 p 指的地方去」，既可以读也可以写。所以 *p = 20 这行代码，改的就是外面那个 a。第三点是指针的类型：int * 往前挪一步跨 4 个字节，char * 跨 1 个字节，这解释了为什么指针要有类型。顺带一个知识点，数组名本身就可以当指针用，int *q = arr 是合法的，因为数组名就是首元素的地址。</span></p>
+      </content>
+    </note>
+  </slide>

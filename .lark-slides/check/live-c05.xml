@@ -1,0 +1,2128 @@
+<presentation id="XkQks7nELlQe2SdEWK1cgkIDndd" xmlns="https://www.larkoffice.com/sml/2.0" width="960" height="540">
+  <title>电控组c语言培训第一讲</title>
+  <theme>
+    <textStyles>
+      <headline fontColor="rgba(31, 35, 41, 1)"/>
+      <sub-headline fontColor="rgba(31, 35, 41, 1)"/>
+      <body fontColor="rgba(31, 35, 41, 1)"/>
+      <caption fontColor="rgba(155, 158, 162, 1)" fontSize="14"/>
+    </textStyles>
+  </theme>
+  <slide id="psC">
+    <style>
+      <fill id="fsC">
+        <fillColor color="rgba(255, 255, 255, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="141.1400787401575" height="116.8567716535433" topLeftX="0" topLeftY="0" path="M0,0 L141.1401,0 L0,116.8568 Z" type="custom" id="bEg">
+        <fill>
+          <fillColor color="rgba(3, 72, 149, 1)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" lineSpacing="multiple:1.2">
+          <p textAlign="center" lineSpacing="multiple:1.2"/>
+        </content>
+      </shape>
+      <shape width="18.444094488188977" height="82.79322834645669" topLeftX="28.568976377952744" topLeftY="-3.1153543307086977" rotation="141.9454" path="M0,82.7932 L0,5.548 L18.4441,0 L18.4441,82.7932 Z" type="custom" id="bEZ">
+        <fill>
+          <fillColor color="rgba(0, 0, 238, 0.85)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" lineSpacing="multiple:1.2">
+          <p textAlign="center" lineSpacing="multiple:1.2"/>
+        </content>
+      </shape>
+      <shape width="12.148346456692913" height="8.965984251968504" topLeftX="43.633858267716526" topLeftY="68.02417322834646" rotation="355.5271666666667" path="M12.1368,8.9488 L12.1483,8.966 L12.1226,8.9659 Z M6.0884,0 L12.041,8.9655 L0,8.9116 Z" type="custom" id="bEq">
+        <fill>
+          <fillColor color="rgba(3, 72, 149, 1)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" lineSpacing="multiple:1.2">
+          <p textAlign="center" lineSpacing="multiple:1.2"/>
+        </content>
+      </shape>
+      <shape width="18.444094488188977" height="82.79322834645669" topLeftX="39.524488188976385" topLeftY="-18.838346456692904" rotation="141.9454" path="M0,82.7932 L0,5.548 L18.4441,0 L18.4441,82.7932 Z" type="custom" id="bET">
+        <fill>
+          <fillColor color="rgba(0, 0, 238, 0.58)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" lineSpacing="multiple:1.2">
+          <p textAlign="center" lineSpacing="multiple:1.2"/>
+        </content>
+      </shape>
+      <shape width="141.1400787401575" height="116.8567716535433" topLeftX="831.0015748031499" topLeftY="411.00157480314954" rotation="270" path="M0,0 L141.1401,0 L0,116.8568 Z" flipY="true" type="custom" id="bEB">
+        <fill>
+          <fillColor color="rgba(240, 240, 240, 1)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" lineSpacing="multiple:1.2">
+          <p textAlign="center" lineSpacing="multiple:1.2"/>
+        </content>
+      </shape>
+      <shape width="63.02236220472441" height="201.64354330708662" topLeftX="889.9439370078744" topLeftY="241.31811023622072" rotation="218.7576833333333" path="M63.0223,0 L0,78.5026 L0,201.6435 L63.0224,149.364 Z" flipY="true" type="custom" id="bEu">
+        <fill>
+          <fillColor color="rgba(240, 240, 240, 1)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" lineSpacing="multiple:1.2">
+          <p textAlign="center" lineSpacing="multiple:1.2"/>
+        </content>
+      </shape>
+      <shape width="960" height="540" topLeftX="0" topLeftY="0" presetHandlers="0" type="rect" id="bEA">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" lineSpacing="multiple:1.2">
+          <p textAlign="center" lineSpacing="multiple:1.2"/>
+        </content>
+      </shape>
+      <img id="bEX" src="Hcg2brSTUohK5kxUpMmchnfcnqc" width="504.64283464566927" height="365.35716535433073" topLeftX="-15" topLeftY="107.14283464566932">
+        <crop leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0"/>
+      </img>
+      <shape width="660.702125984252" height="60.33433070866142" topLeftX="-324.5574803149606" topLeftY="143.5714173228346" rotation="180" path="M658.6687,0 L660.7021,0 L660.7021,60.3343 L0,60.3343 L26.4707,15.1672 L658.6687,15.1672 Z" type="custom" id="bEx">
+        <fill>
+          <fillColor color="rgba(240, 240, 240, 0.62)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" lineSpacing="multiple:1.2">
+          <p textAlign="center" lineSpacing="multiple:1.2"/>
+        </content>
+      </shape>
+      <shape width="255.53212598425196" height="297.38795275590553" topLeftX="666.6492913385824" topLeftY="164.53944881889754" rotation="49.618383333333334" presetHandlers="25000" type="parallelogram" id="bEK">
+        <fill>
+          <fillColor color="rgba(0, 0, 179, 1)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" lineSpacing="multiple:1.2">
+          <p textAlign="center" lineSpacing="multiple:1.2"/>
+        </content>
+      </shape>
+      <shape width="773.1285826771654" height="182.45811023622048" topLeftX="220.7687401574803" topLeftY="162.54188976377952" path="M106.9313,0 L773.1286,0 L773.1286,182.4581 L0,182.4581 Z" type="custom" id="bEe">
+        <fill>
+          <fillColor color="rgba(0, 0, 238, 1)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" lineSpacing="multiple:1.2">
+          <p textAlign="center" lineSpacing="multiple:1.2"/>
+        </content>
+      </shape>
+      <shape width="625.2566929133858" height="44.14787401574803" topLeftX="-324.56732283464567" topLeftY="34.818110236220505" rotation="180" path="M33.4626,0 L625.2567,0 L625.2567,44.1479 L0,44.1479 Z" flipY="true" type="custom" id="bEE">
+        <fill>
+          <fillColor color="rgba(240, 240, 240, 1)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" lineSpacing="multiple:1.2">
+          <p textAlign="center" lineSpacing="multiple:1.2"/>
+        </content>
+      </shape>
+      <shape width="495.221811023622" height="45.22291338582677" topLeftX="-212.2296062992126" topLeftY="442.45244094488197" rotation="180" path="M493.6977,0 L495.2218,0 L495.2218,45.2229 L0,45.2229 L19.8408,11.3684 L493.6977,11.3684 Z" type="custom" id="bEv">
+        <fill>
+          <fillColor color="rgba(217, 217, 217, 1)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" lineSpacing="multiple:1.2">
+          <p textAlign="center" lineSpacing="multiple:1.2"/>
+        </content>
+      </shape>
+      <shape width="407.9511811023622" height="37.25346456692913" topLeftX="-30.175039370078764" topLeftY="487.6753543307087" rotation="180" path="M406.6956,0 L407.9512,0 L407.9512,37.2535 L0,37.2535 L16.3444,9.365 L406.6956,9.365 Z" type="custom" id="bEr">
+        <fill>
+          <fillColor color="rgba(217, 217, 217, 1)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" lineSpacing="multiple:1.2">
+          <p textAlign="center" lineSpacing="multiple:1.2"/>
+        </content>
+      </shape>
+      <shape width="222.38125984251968" height="352.5016535433071" topLeftX="728.2319685039371" topLeftY="271.6414960629921" rotation="299.0079666666667" path="M0,204.2541 L74.2041,0 L222.3813,352.5017 L0,204.2541 Z" type="custom" id="bEC">
+        <fill>
+          <fillColor color="rgba(4, 96, 199, 1)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" lineSpacing="multiple:1.2">
+          <p textAlign="center" lineSpacing="multiple:1.2"/>
+        </content>
+      </shape>
+      <shape width="89.09244094488189" height="37.98842519685039" topLeftX="435.45377952755905" topLeftY="105.66976377952756" presetHandlers="62784" type="parallelogram" id="bEN">
+        <fill>
+          <fillColor color="rgba(4, 96, 199, 1)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" lineSpacing="multiple:1.2">
+          <p textAlign="center" lineSpacing="multiple:1.2"/>
+        </content>
+      </shape>
+      <shape width="47.79377952755905" height="20.378976377952757" topLeftX="556.4617322834646" topLeftY="87.1684251968504" presetHandlers="62784" type="parallelogram" id="bEp">
+        <fill>
+          <fillColor color="rgba(4, 96, 199, 1)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" lineSpacing="multiple:1.2">
+          <p textAlign="center" lineSpacing="multiple:1.2"/>
+        </content>
+      </shape>
+      <shape width="371.36661417322836" height="26.65779527559055" topLeftX="377.77614173228346" topLeftY="482.91551181102363" presetHandlers="0" type="rect" id="bEw">
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(86, 86, 86, 1)" bold="false" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.2" autoFit="shape-auto-fit" wrap="false">
+          <p textAlign="center" lineSpacing="multiple:1.2"><span color="rgba(86, 86, 86, 1)" fontSize="16" fontFamily="思源黑体" bold="false" italic="false" strikethrough="false" underline="false">培训时间：第10周 11.7　主讲人：＿＿＿＿＿</span></p>
+        </content>
+      </shape>
+      <shape width="700.8500787401575" height="121.87496062992126" topLeftX="336.1446456692914" topLeftY="217.76637795275593" type="text" id="bES">
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="54" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" bold="false" italic="true" underline="false" strikethrough="false" lineSpacing="multiple:1.1" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.1"><em><span color="rgba(255, 255, 255, 1)" fontSize="54" fontFamily="思源黑体" bold="false" strikethrough="false" underline="false">电控组第五讲</span></em></p>
+        </content>
+      </shape>
+      <shape width="546.4285826771653" height="26.785748031496063" topLeftX="9.642834645669268" topLeftY="42.857165354330746" rotation="180" flipY="true" type="text" id="bEf">
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="20" fontFamily="黑体" color="rgba(0, 0, 0, 1)" bold="true" italic="true" underline="false" strikethrough="false" lineSpacing="multiple:1.2" letterSpacing="1.1" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" letterSpacing="1.1"><strong><em><span color="rgba(0, 0, 0, 1)" fontSize="20" fontFamily="黑体" strikethrough="false" underline="false" letterSpacing="1.1">『生无所息，斗无所止』</span></em></strong></p>
+        </content>
+      </shape>
+    </data>
+    <note id="bHJ">
+      <content>
+        <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(0, 0, 0, 1)" fontSize="12" fontFamily="等线" bold="false" italic="false" strikethrough="false" underline="false">这是本阶段最后一讲：让单片机开口说话。前四讲它一直在自己干活，这一节我们给它加上串口和一块小小的 OLED，之后你就能从电脑上发命令改参数，屏幕上也能看到系统现在什么状态。</span></p>
+      </content>
+    </note>
+  </slide>
+  <slide id="psT">
+    <style/>
+    <data>
+      <shape width="141.1400787401575" height="116.8567716535433" topLeftX="0" topLeftY="0" path="M0,0 L141.1401,0 L0,116.8568 Z" type="custom" id="bAM">
+        <fill>
+          <fillColor color="rgba(3, 72, 149, 1)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" lineSpacing="multiple:1.2">
+          <p textAlign="center" lineSpacing="multiple:1.2"/>
+        </content>
+      </shape>
+      <shape width="18.444094488188977" height="82.79322834645669" topLeftX="28.568976377952744" topLeftY="-3.1153543307086977" rotation="141.9454" path="M0,82.7932 L0,5.548 L18.4441,0 L18.4441,82.7932 Z" type="custom" id="bAa">
+        <fill>
+          <fillColor color="rgba(0, 0, 238, 0.85)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" lineSpacing="multiple:1.2">
+          <p textAlign="center" lineSpacing="multiple:1.2"/>
+        </content>
+      </shape>
+      <shape width="18.444094488188977" height="82.79322834645669" topLeftX="39.524488188976385" topLeftY="-18.838346456692904" rotation="141.9454" path="M0,82.7932 L0,5.548 L18.4441,0 L18.4441,82.7932 Z" type="custom" id="bAE">
+        <fill>
+          <fillColor color="rgba(0, 0, 238, 0.58)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" lineSpacing="multiple:1.2">
+          <p textAlign="center" lineSpacing="multiple:1.2"/>
+        </content>
+      </shape>
+      <shape width="141.1400787401575" height="116.8567716535433" topLeftX="831.0015748031499" topLeftY="411.00157480314954" rotation="270" path="M0,0 L141.1401,0 L0,116.8568 Z" flipY="true" type="custom" id="bAZ">
+        <fill>
+          <fillColor color="rgba(240, 240, 240, 1)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" lineSpacing="multiple:1.2">
+          <p textAlign="center" lineSpacing="multiple:1.2"/>
+        </content>
+      </shape>
+      <shape width="63.02236220472441" height="201.64354330708662" topLeftX="889.9439370078744" topLeftY="241.31811023622072" rotation="218.7576833333333" path="M63.0223,0 L0,78.5026 L0,201.6435 L63.0224,149.364 Z" flipY="true" type="custom" id="bAv">
+        <fill>
+          <fillColor color="rgba(240, 240, 240, 1)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" lineSpacing="multiple:1.2">
+          <p textAlign="center" lineSpacing="multiple:1.2"/>
+        </content>
+      </shape>
+      <shape width="21.767244094488188" height="18.764881889763778" topLeftX="924.6477952755905" topLeftY="61.56204724409457" rotation="343.3178" presetHandlers="50000" type="triangle" id="bAw">
+        <fill>
+          <fillColor color="rgba(0, 0, 238, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="625.2566929133858" height="44.14787401574803" topLeftX="673.7879527559055" topLeftY="43.19409448818897" path="M33.4626,0 L625.2567,0 L625.2567,44.1479 L0,44.1479 Z" type="custom" id="bAo">
+        <fill>
+          <fillColor color="rgba(240, 240, 240, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <img id="bAl" src="Cw90brZa4onf5uxgsvOc5vj0ncf" width="44.14787401574803" height="44.14787401574803" topLeftX="890.4203937007874" topLeftY="43.1940157480315">
+        <crop leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0"/>
+      </img>
+      <shape width="160" height="32" topLeftX="705.6155118110237" topLeftY="48" type="text" id="bAQ">
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="14" fontFamily="思源黑体" color="rgba(0, 0, 0, 1)" bold="false" italic="true" underline="false" strikethrough="false" lineSpacing="multiple:1.2" letterSpacing="1.1" textAlign="left" wrap="false">
+          <p textAlign="left" lineSpacing="multiple:1.2" letterSpacing="1.1"><em><span color="rgba(0, 0, 0, 1)" fontSize="14" fontFamily="思源黑体" bold="false" strikethrough="false" underline="false" letterSpacing="1.1">哈理工A.I.R.创新实验室</span></em></p>
+        </content>
+      </shape>
+      <shape width="66.94629921259842" height="50.8" topLeftX="33.25511811023622" topLeftY="15.769133858267715" type="text" id="bAA">
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="36" fontFamily="锐字真言体免费商用" color="rgba(255, 255, 255, 1)" bold="true" italic="true" underline="false" strikethrough="false" lineSpacing="multiple:1.2" textAlign="left" autoFit="shape-auto-fit">
+          <p textAlign="left" lineSpacing="multiple:1.2"><strong><em><span color="rgba(255, 255, 255, 1)" fontSize="36" fontFamily="锐字真言体免费商用" strikethrough="false" underline="false">00</span></em></strong></p>
+        </content>
+      </shape>
+      <shape width="398.15" height="36.25" topLeftX="110.86724409448817" topLeftY="33.10251968503937" type="text" id="bAp">
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="24" fontFamily="思源黑体" color="rgba(3, 72, 149, 1)" bold="true" italic="true" underline="false" strikethrough="false" lineSpacing="multiple:1.2" textAlign="left" autoFit="shape-auto-fit">
+          <p textAlign="left" lineSpacing="multiple:1.2"><strong><em><span color="rgba(3, 72, 149, 1)" fontSize="24" fontFamily="思源黑体" strikethrough="false" underline="false">关于时间安排:</span></em></strong></p>
+        </content>
+      </shape>
+      <img id="bAX" src="WHgdb2G57oBrY2xdgPPchXZenDg" width="601.9929133858268" height="383.93858267716536" topLeftX="110.86724409448817" topLeftY="87.3418897637795">
+        <crop leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0"/>
+      </img>
+    </data>
+    <note id="bAs">
+      <content>
+        <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(0, 0, 0, 1)" fontSize="12" fontFamily="等线" bold="false" italic="false" strikethrough="false" underline="false">时间安排过一遍。第十周的任务是串口与 OLED，做完这一讲，你的系统就能自己报数、自己报状态；第十一周是转入梯队考核，大家在十一月之内把五次作业交齐。</span></p>
+      </content>
+    </note>
+  </slide>
+  <slide id="psY">
+    <style>
+      <fill id="fsY">
+        <fillColor color="rgba(255, 255, 255, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="141.1400787401575" height="116.8567716535433" topLeftX="0" topLeftY="0" path="M0,0 L141.1401,0 L0,116.8568 Z" type="custom" id="bAD">
+        <fill>
+          <fillColor color="rgba(3, 72, 149, 1)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" lineSpacing="multiple:1.2">
+          <p textAlign="center" lineSpacing="multiple:1.2"/>
+        </content>
+      </shape>
+      <shape width="18.444094488188977" height="82.79322834645669" topLeftX="28.568976377952744" topLeftY="-3.1153543307086977" rotation="141.9454" path="M0,82.7932 L0,5.548 L18.4441,0 L18.4441,82.7932 Z" type="custom" id="bEH">
+        <fill>
+          <fillColor color="rgba(0, 0, 238, 0.85)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" lineSpacing="multiple:1.2">
+          <p textAlign="center" lineSpacing="multiple:1.2"/>
+        </content>
+      </shape>
+      <shape width="12.148346456692913" height="8.965984251968504" topLeftX="43.633858267716526" topLeftY="68.02417322834646" rotation="355.5271666666667" path="M12.1368,8.9488 L12.1483,8.966 L12.1226,8.9659 Z M6.0884,0 L12.041,8.9655 L0,8.9116 Z" type="custom" id="bEo">
+        <fill>
+          <fillColor color="rgba(3, 72, 149, 1)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" lineSpacing="multiple:1.2">
+          <p textAlign="center" lineSpacing="multiple:1.2"/>
+        </content>
+      </shape>
+      <shape width="18.444094488188977" height="82.79322834645669" topLeftX="39.524488188976385" topLeftY="-18.838346456692904" rotation="141.9454" path="M0,82.7932 L0,5.548 L18.4441,0 L18.4441,82.7932 Z" type="custom" id="bEa">
+        <fill>
+          <fillColor color="rgba(0, 0, 238, 0.58)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" lineSpacing="multiple:1.2">
+          <p textAlign="center" lineSpacing="multiple:1.2"/>
+        </content>
+      </shape>
+      <shape width="141.1400787401575" height="116.8567716535433" topLeftX="831.0015748031499" topLeftY="411.00157480314954" rotation="270" path="M0,0 L141.1401,0 L0,116.8568 Z" flipY="true" type="custom" id="bAd">
+        <fill>
+          <fillColor color="rgba(240, 240, 240, 1)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" lineSpacing="multiple:1.2">
+          <p textAlign="center" lineSpacing="multiple:1.2"/>
+        </content>
+      </shape>
+      <shape width="63.02236220472441" height="201.64354330708662" topLeftX="889.9439370078744" topLeftY="241.31811023622072" rotation="218.7576833333333" path="M63.0223,0 L0,78.5026 L0,201.6435 L63.0224,149.364 Z" flipY="true" type="custom" id="bAy">
+        <fill>
+          <fillColor color="rgba(240, 240, 240, 1)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" lineSpacing="multiple:1.2">
+          <p textAlign="center" lineSpacing="multiple:1.2"/>
+        </content>
+      </shape>
+      <shape width="960" height="540" topLeftX="0" topLeftY="0" presetHandlers="0" type="rect" id="bAU">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" lineSpacing="multiple:1.2">
+          <p textAlign="center" lineSpacing="multiple:1.2"/>
+        </content>
+      </shape>
+      <shape width="54.10716535433071" height="411.46023622047244" topLeftX="907.7780314960628" topLeftY="-30.116220472441228" rotation="39.67705" path="M0,44.884 L54.1072,0 L54.1072,366.576 L0,411.4602 Z" type="custom" id="bAY">
+        <fill>
+          <fillColor color="rgba(240, 240, 240, 1)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" lineSpacing="multiple:1.2">
+          <p textAlign="center" lineSpacing="multiple:1.2"/>
+        </content>
+      </shape>
+      <img id="bEW" src="OmLNbrhiHokw3gxTnsgc7tF3nBb" width="171.18173228346456" height="348.3596062992126" topLeftX="-40.259527559055115" topLeftY="-94.76771653543304" rotation="39.67705">
+        <crop leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0"/>
+      </img>
+      <shape width="77.27362204724409" height="686.1320472440945" topLeftX="114.33149606299213" topLeftY="-203.86913385826773" rotation="39.67705" presetHandlers="0" type="rect" id="bEs">
+        <fill>
+          <fillColor color="rgba(0, 171, 249, 1)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" lineSpacing="multiple:1.2">
+          <p textAlign="center" lineSpacing="multiple:1.2"/>
+        </content>
+      </shape>
+      <shape width="63.64700787401575" height="285.7029921259842" topLeftX="-37.51826771653545" topLeftY="-26.20622047244092" rotation="146.41823333333335" path="M0,285.703 L0,19.1449 L63.647,0 L63.647,285.703 Z" type="custom" id="bEQ">
+        <fill>
+          <fillColor color="rgba(0, 0, 238, 0.85)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" lineSpacing="multiple:1.2">
+          <p textAlign="center" lineSpacing="multiple:1.2"/>
+        </content>
+      </shape>
+      <shape width="41.92141732283464" height="30.93992125984252" topLeftX="5.131574803149604" topLeftY="222.12944881889763" path="M41.8814,30.8806 L41.9214,30.9399 L41.8325,30.9395 Z M21.0097,0 L41.5509,30.9383 L0,30.7524 Z" type="custom" id="bAc">
+        <fill>
+          <fillColor color="rgba(3, 72, 149, 1)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" lineSpacing="multiple:1.2">
+          <p textAlign="center" lineSpacing="multiple:1.2"/>
+        </content>
+      </shape>
+      <shape width="63.64700787401575" height="285.7029921259842" topLeftX="4.403149606299209" topLeftY="-77.34984251968507" rotation="146.41823333333335" path="M0,285.703 L0,19.1449 L63.647,0 L63.647,285.703 Z" type="custom" id="bAm">
+        <fill>
+          <fillColor color="rgba(0, 0, 238, 0.58)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" lineSpacing="multiple:1.2">
+          <p textAlign="center" lineSpacing="multiple:1.2"/>
+        </content>
+      </shape>
+      <shape width="54.10716535433071" height="411.46023622047244" topLeftX="125.09385826771666" topLeftY="79.19031496062989" rotation="39.67705" path="M0,44.884 L54.1072,0 L54.1072,366.576 L0,411.4602 Z" type="custom" id="bAj">
+        <fill>
+          <fillColor color="rgba(240, 240, 240, 1)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" lineSpacing="multiple:1.2">
+          <p textAlign="center" lineSpacing="multiple:1.2"/>
+        </content>
+      </shape>
+      <shape width="94.8" height="55.65" topLeftX="157.17299212598425" topLeftY="166.39031496062992" presetHandlers="0" type="rect" id="bAh">
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="40" fontFamily="思源黑体" color="rgba(4, 96, 199, 1)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.2" textAlign="left" autoFit="shape-auto-fit" wrap="false">
+          <p textAlign="left" lineSpacing="multiple:1.2"><strong><span color="rgba(4, 96, 199, 1)" fontSize="40" fontFamily="思源黑体" italic="false" strikethrough="false" underline="false">目录</span></strong></p>
+        </content>
+      </shape>
+      <shape width="53.8" height="53.8" topLeftX="396.1" topLeftY="228.84330708661417" presetHandlers="0" type="rect" id="bEV">
+        <border color="rgba(0, 0, 0, 1)" width="1" lineJoin="miter" miterLimit="10"/>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="28" fontFamily="思源黑体" color="rgba(0, 0, 0, 1)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.2">
+          <p textAlign="center" lineSpacing="multiple:1.2"><strong><span color="rgba(0, 0, 0, 1)" fontSize="28" fontFamily="思源黑体" italic="false" strikethrough="false" underline="false">02</span></strong></p>
+        </content>
+      </shape>
+      <shape width="417.45" height="50.8" topLeftX="465.06291338582673" topLeftY="231.84330708661415" type="text" id="bEl">
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="36" fontFamily="锐字真言体免费商用" color="rgba(0, 0, 119, 1)" bold="true" italic="true" underline="false" strikethrough="false" lineSpacing="multiple:1.2" textAlign="left" autoFit="shape-auto-fit">
+          <p textAlign="left" lineSpacing="multiple:1.2"><outline color="rgba(255, 255, 255, 1)" width="0.75" dashArray="solid" compound="single" lineCap="butt" lineJoin="round" miterLimit="8"><shadow offset="3" blur="1" color="rgba(20, 20, 255, 1)"><strong><em><span color="rgba(0, 0, 119, 1)" fontSize="36" fontFamily="锐字真言体免费商用" strikethrough="false" underline="false">串口收发与中断</span></em></strong></shadow></outline></p>
+        </content>
+      </shape>
+      <shape width="53.8" height="53.8" topLeftX="395.65" topLeftY="310.92614173228344" presetHandlers="0" type="rect" id="bAR">
+        <border color="rgba(0, 0, 0, 1)" width="1" lineJoin="miter" miterLimit="10"/>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="28" fontFamily="思源黑体" color="rgba(0, 0, 0, 1)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.2">
+          <p textAlign="center" lineSpacing="multiple:1.2"><strong><span color="rgba(0, 0, 0, 1)" fontSize="28" fontFamily="思源黑体" italic="false" strikethrough="false" underline="false">03</span></strong></p>
+        </content>
+      </shape>
+      <shape width="417.45" height="50.892204724409446" topLeftX="463.25" topLeftY="310.1261417322835" type="text" id="bAP">
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="36" fontFamily="锐字真言体免费商用" color="rgba(0, 0, 119, 1)" bold="true" italic="true" underline="false" strikethrough="false" lineSpacing="multiple:1.2" textAlign="left" autoFit="shape-auto-fit">
+          <p textAlign="left" lineSpacing="multiple:1.2"><outline color="rgba(255, 255, 255, 1)" width="0.75" dashArray="solid" compound="single" lineCap="butt" lineJoin="round" miterLimit="8"><shadow offset="3" blur="1" color="rgba(20, 20, 255, 1)"><strong><em><span color="rgba(0, 0, 119, 1)" fontSize="36" fontFamily="锐字真言体免费商用" strikethrough="false" underline="false">命令解析</span></em></strong></shadow></outline></p>
+        </content>
+      </shape>
+      <shape width="625.2566929133858" height="44.14787401574803" topLeftX="673.7879527559055" topLeftY="43.19409448818897" path="M33.4626,0 L625.2567,0 L625.2567,44.1479 L0,44.1479 Z" type="custom" id="bAt">
+        <fill>
+          <fillColor color="rgba(240, 240, 240, 1)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" lineSpacing="multiple:1.2">
+          <p textAlign="center" lineSpacing="multiple:1.2"/>
+        </content>
+      </shape>
+      <img id="bAO" src="Cw90brZa4onf5uxgsvOc5vj0ncf" width="44.14787401574803" height="44.14787401574803" topLeftX="890.4203937007874" topLeftY="43.1940157480315">
+        <crop leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0"/>
+      </img>
+      <shape width="548.2546456692913" height="21.560551181102362" topLeftX="705.6155118110237" topLeftY="54.487716535433066" type="text" id="bEz">
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="14" fontFamily="思源黑体" color="rgba(0, 0, 0, 1)" bold="false" italic="true" underline="false" strikethrough="false" lineSpacing="multiple:1.2" letterSpacing="1.1" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" letterSpacing="1.1"><em><span color="rgba(0, 0, 0, 1)" fontSize="14" fontFamily="思源黑体" bold="false" strikethrough="false" underline="false" letterSpacing="1.1">哈理工A.I.R.创新实验室</span></em></p>
+        </content>
+      </shape>
+      <shape width="53.8" height="53.8" topLeftX="394.75" topLeftY="146.19102362204725" presetHandlers="0" type="rect" id="bEM">
+        <border color="rgba(0, 0, 0, 1)" width="1" lineJoin="miter" miterLimit="10"/>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="28" fontFamily="思源黑体" color="rgba(0, 0, 0, 1)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.2">
+          <p textAlign="center" lineSpacing="multiple:1.2"><strong><span color="rgba(0, 0, 0, 1)" fontSize="28" fontFamily="思源黑体" italic="false" strikethrough="false" underline="false">01</span></strong></p>
+        </content>
+      </shape>
+      <shape width="452.0603149606299" height="50.892204724409446" topLeftX="463.25" topLeftY="149.19102362204725" type="text" id="bAF">
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="36" fontFamily="锐字真言体免费商用" color="rgba(0, 0, 119, 1)" bold="false" italic="true" underline="false" strikethrough="false" lineSpacing="multiple:1.2" textAlign="left" autoFit="shape-auto-fit">
+          <p textAlign="left" lineSpacing="multiple:1.2"><outline color="rgba(255, 255, 255, 1)" width="0.75" dashArray="solid" compound="single" lineCap="butt" lineJoin="round" miterLimit="8"><shadow offset="3" blur="1" color="rgba(20, 20, 255, 1)"><em><span color="rgba(0, 0, 119, 1)" fontSize="36" fontFamily="锐字真言体免费商用" bold="false" strikethrough="false" underline="false">串口基础</span></em></shadow></outline></p>
+        </content>
+      </shape>
+      <shape width="53.8" height="53.8" topLeftX="394.75" topLeftY="393.8089763779528" presetHandlers="0" type="rect" id="bAJ">
+        <border color="rgba(0, 0, 0, 1)" width="1" lineJoin="miter" miterLimit="10"/>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="28" fontFamily="思源黑体" color="rgba(0, 0, 0, 1)" bold="true" italic="false" underline="false" strikethrough="false" lineSpacing="multiple:1.2">
+          <p textAlign="center" lineSpacing="multiple:1.2"><strong><span color="rgba(0, 0, 0, 1)" fontSize="28" fontFamily="思源黑体" italic="false" strikethrough="false" underline="false">04</span></strong></p>
+        </content>
+      </shape>
+      <shape width="417.45" height="50.892204724409446" topLeftX="462.35" topLeftY="393.00897637795276" type="text" id="bAL">
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="36" fontFamily="锐字真言体免费商用" color="rgba(0, 0, 119, 1)" bold="true" italic="true" underline="false" strikethrough="false" lineSpacing="multiple:1.2" textAlign="left" autoFit="shape-auto-fit">
+          <p textAlign="left" lineSpacing="multiple:1.2"><outline color="rgba(255, 255, 255, 1)" width="0.75" dashArray="solid" compound="single" lineCap="butt" lineJoin="round" miterLimit="8"><shadow offset="3" blur="1" color="rgba(20, 20, 255, 1)"><strong><em><span color="rgba(0, 0, 119, 1)" fontSize="36" fontFamily="锐字真言体免费商用" strikethrough="false" underline="false">OLED 显示</span></em></strong></shadow></outline></p>
+        </content>
+      </shape>
+    </data>
+    <note id="bAi">
+      <content>
+        <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(0, 0, 0, 1)" fontSize="12" fontFamily="等线" bold="false" italic="false" strikethrough="false" underline="false">这一讲四块内容：先认识串口的三根线和波特率，再学怎么发、怎么收，然后是把收到的字符变成能用的数字和命令，最后用 OLED 把系统状态显示出来。作业五的四个小题就分布在这四块里。</span></p>
+      </content>
+    </note>
+  </slide>
+  <slide id="pst">
+    <style>
+      <fill id="fst">
+        <fillColor color="rgba(255, 255, 255, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="141.1400787401575" height="116.8567716535433" topLeftX="0" topLeftY="0" path="M0,0 L141.1401,0 L0,116.8568 Z" type="custom" id="bAK">
+        <fill>
+          <fillColor color="rgba(3, 72, 149, 1)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" lineSpacing="multiple:1.2">
+          <p textAlign="center" lineSpacing="multiple:1.2"/>
+        </content>
+      </shape>
+      <shape width="18.444094488188977" height="82.79322834645669" topLeftX="28.568976377952744" topLeftY="-3.1153543307086977" rotation="141.9454" path="M0,82.7932 L0,5.548 L18.4441,0 L18.4441,82.7932 Z" type="custom" id="bAu">
+        <fill>
+          <fillColor color="rgba(0, 0, 238, 0.85)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" lineSpacing="multiple:1.2">
+          <p textAlign="center" lineSpacing="multiple:1.2"/>
+        </content>
+      </shape>
+      <shape width="12.148346456692913" height="8.965984251968504" topLeftX="43.633858267716526" topLeftY="68.02417322834646" rotation="355.5271666666667" path="M12.1368,8.9488 L12.1483,8.966 L12.1226,8.9659 Z M6.0884,0 L12.041,8.9655 L0,8.9116 Z" type="custom" id="bAb">
+        <fill>
+          <fillColor color="rgba(3, 72, 149, 1)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" lineSpacing="multiple:1.2">
+          <p textAlign="center" lineSpacing="multiple:1.2"/>
+        </content>
+      </shape>
+      <shape width="18.444094488188977" height="82.79322834645669" topLeftX="39.524488188976385" topLeftY="-18.838346456692904" rotation="141.9454" path="M0,82.7932 L0,5.548 L18.4441,0 L18.4441,82.7932 Z" type="custom" id="bAI">
+        <fill>
+          <fillColor color="rgba(0, 0, 238, 0.58)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" lineSpacing="multiple:1.2">
+          <p textAlign="center" lineSpacing="multiple:1.2"/>
+        </content>
+      </shape>
+      <shape width="141.1400787401575" height="116.8567716535433" topLeftX="831.0015748031499" topLeftY="411.00157480314954" rotation="270" path="M0,0 L141.1401,0 L0,116.8568 Z" flipY="true" type="custom" id="bAr">
+        <fill>
+          <fillColor color="rgba(240, 240, 240, 1)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" lineSpacing="multiple:1.2">
+          <p textAlign="center" lineSpacing="multiple:1.2"/>
+        </content>
+      </shape>
+      <shape width="63.02236220472441" height="201.64354330708662" topLeftX="889.9439370078744" topLeftY="241.31811023622072" rotation="218.7576833333333" path="M63.0223,0 L0,78.5026 L0,201.6435 L63.0224,149.364 Z" flipY="true" type="custom" id="bAC">
+        <fill>
+          <fillColor color="rgba(240, 240, 240, 1)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" lineSpacing="multiple:1.2">
+          <p textAlign="center" lineSpacing="multiple:1.2"/>
+        </content>
+      </shape>
+      <shape width="960" height="540" topLeftX="0" topLeftY="0" presetHandlers="0" type="rect" id="bAe">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" lineSpacing="multiple:1.2">
+          <p textAlign="center" lineSpacing="multiple:1.2"/>
+        </content>
+      </shape>
+      <img id="bAG" src="Hcg2brSTUohK5kxUpMmchnfcnqc" width="500.35716535433073" height="362.14283464566927" topLeftX="-13.928582677165366" topLeftY="78.94283464566928">
+        <crop leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0"/>
+      </img>
+      <shape width="165.23787401574802" height="851.5506299212599" topLeftX="473.352125984252" topLeftY="-247.114330708661" rotation="233.03654999999998" path="M165.2378,219.5693 L0,0 L0,851.5506 L165.2379,714.4792 Z" flipY="true" type="custom" id="bAS">
+        <fill>
+          <fillColor color="rgba(0, 171, 249, 1)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" lineSpacing="multiple:1.2">
+          <p textAlign="center" lineSpacing="multiple:1.2"/>
+        </content>
+      </shape>
+      <shape width="50.90850393700787" height="88.04307086614173" topLeftX="532.0896062992126" topLeftY="225.58086614173232" rotation="63.42366666666667" path="M34.77,0 L50.9085,88.0431 L0,88.0431 Z" type="custom" id="bAf">
+        <fill>
+          <fillColor color="rgba(3, 72, 149, 1)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" lineSpacing="multiple:1.2">
+          <p textAlign="center" lineSpacing="multiple:1.2"/>
+        </content>
+      </shape>
+      <shape width="338.83574803149605" height="466.18204724409446" topLeftX="252.7880314960629" topLeftY="312.1374803149606" rotation="53.98916666666668" path="M0,0 L338.8357,0.0001 L0,466.182 Z" type="custom" id="bAN">
+        <fill>
+          <fillColor color="rgba(4, 96, 199, 1)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" lineSpacing="multiple:1.2">
+          <p textAlign="center" lineSpacing="multiple:1.2"/>
+        </content>
+      </shape>
+      <shape width="80.78259842519685" height="416.3116535433071" topLeftX="860.5872440944879" topLeftY="79.19866141732314" rotation="233.03654999999998" path="M80.7826,107.3445 L0,0 L0,416.3117 L80.7826,349.2993 Z" flipY="true" type="custom" id="bAn">
+        <fill>
+          <fillColor color="rgba(240, 240, 240, 1)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" lineSpacing="multiple:1.2">
+          <p textAlign="center" lineSpacing="multiple:1.2"/>
+        </content>
+      </shape>
+      <shape width="625.2566929133858" height="44.14787401574803" topLeftX="-379.9244094488189" topLeftY="419.81811023622055" rotation="180" path="M33.4626,0 L625.2567,0 L625.2567,44.1479 L0,44.1479 Z" flipY="true" type="custom" id="bAq">
+        <fill>
+          <fillColor color="rgba(240, 240, 240, 1)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" lineSpacing="multiple:1.2">
+          <p textAlign="center" lineSpacing="multiple:1.2"/>
+        </content>
+      </shape>
+      <shape width="175.71425196850393" height="54.64283464566929" topLeftX="-27.321417322834648" topLeftY="457.28574803149604" type="flow-chart-input-output" id="bAT">
+        <fill>
+          <fillColor color="rgba(0, 0, 0, 1)"/>
+        </fill>
+        <border width="1" lineJoin="miter"/>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" lineSpacing="multiple:1.2">
+          <p textAlign="center" lineSpacing="multiple:1.2"/>
+        </content>
+      </shape>
+      <shape width="625.2566929133858" height="44.14787401574803" topLeftX="-324.56732283464567" topLeftY="34.818110236220505" rotation="180" path="M33.4626,0 L625.2567,0 L625.2567,44.1479 L0,44.1479 Z" flipY="true" type="custom" id="bAB">
+        <fill>
+          <fillColor color="rgba(240, 240, 240, 1)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" lineSpacing="multiple:1.2">
+          <p textAlign="center" lineSpacing="multiple:1.2"/>
+        </content>
+      </shape>
+      <shape width="546.4285826771653" height="26.785748031496063" topLeftX="9.642834645669268" topLeftY="42.857165354330746" rotation="180" flipY="true" type="text" id="bAg">
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="20" fontFamily="黑体" color="rgba(0, 0, 0, 1)" bold="true" italic="true" underline="false" strikethrough="false" lineSpacing="multiple:1.2" letterSpacing="1.1" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" letterSpacing="1.1"><strong><em><span color="rgba(0, 0, 0, 1)" fontSize="20" fontFamily="黑体" strikethrough="false" underline="false" letterSpacing="1.1">『生无所息，斗无所止』</span></em></strong></p>
+        </content>
+      </shape>
+      <shape width="473.2" height="193.87503937007875" topLeftX="328.2166141732283" topLeftY="112.63984251968498" rotation="322.25576666666666" type="text" id="bAk">
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="锐字真言体免费商用" color="rgba(255, 255, 255, 1)" bold="true" italic="true" underline="false" strikethrough="false" lineSpacing="multiple:1.2" textAlign="left" autoFit="shape-auto-fit">
+          <p textAlign="left" lineSpacing="multiple:1.2"><strong><em><span color="rgba(255, 255, 255, 1)" fontSize="66" fontFamily="锐字真言体免费商用" strikethrough="false" underline="false">01</span></em></strong><strong><em><span color="rgba(255, 255, 255, 1)" fontSize="36" fontFamily="锐字真言体免费商用" strikethrough="false" underline="false">串口基础</span></em></strong></p>
+          <p textAlign="left" lineSpacing="multiple:1.2"/>
+          <p textAlign="left" lineSpacing="multiple:1.2"/>
+        </content>
+      </shape>
+    </data>
+    <note id="bAx">
+      <content>
+        <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(0, 0, 0, 1)" fontSize="12" fontFamily="等线" bold="false" italic="false" strikethrough="false" underline="false">第一部分先把串口认清楚。串口就三根线，收、发、地，两边约定同一个波特率就能说话。接线要交叉：我方发接对方收。CubeMX 里选好模式、设好波特率，代码里才有可用的串口对象。</span></p>
+      </content>
+    </note>
+  </slide>
+  <slide id="psM">
+    <style/>
+    <data>
+      <shape width="141.1400787401575" height="116.8567716535433" topLeftX="0" topLeftY="0" path="M0,0 L141.1401,0 L0,116.8568 Z" type="custom" id="bEP">
+        <fill>
+          <fillColor color="rgba(3, 72, 149, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="18.444094488188977" height="82.79322834645669" topLeftX="28.568976377952744" topLeftY="-3.1153543307086977" rotation="141.9454" path="M0,82.7932 L0,5.548 L18.4441,0 L18.4441,82.7932 Z" type="custom" id="bEL">
+        <fill>
+          <fillColor color="rgba(0, 0, 238, 0.85)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="18.444094488188977" height="82.79322834645669" topLeftX="39.524488188976385" topLeftY="-18.838346456692904" rotation="141.9454" path="M0,82.7932 L0,5.548 L18.4441,0 L18.4441,82.7932 Z" type="custom" id="bEk">
+        <fill>
+          <fillColor color="rgba(0, 0, 238, 0.58)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="141.1400787401575" height="116.8567716535433" topLeftX="831.0015748031499" topLeftY="411.00157480314954" rotation="270" path="M0,0 L141.1401,0 L0,116.8568 Z" flipY="true" type="custom" id="bEI">
+        <fill>
+          <fillColor color="rgba(240, 240, 240, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="63.02236220472441" height="201.64354330708662" topLeftX="889.9439370078744" topLeftY="241.31811023622072" rotation="218.7576833333333" path="M63.0223,0 L0,78.5026 L0,201.6435 L63.0224,149.364 Z" flipY="true" type="custom" id="bEc">
+        <fill>
+          <fillColor color="rgba(240, 240, 240, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="21.767244094488188" height="18.764881889763778" topLeftX="924.6477952755905" topLeftY="61.56204724409457" rotation="343.3178" presetHandlers="50000" type="triangle" id="bEm">
+        <fill>
+          <fillColor color="rgba(0, 0, 238, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="625.2566929133858" height="44.14787401574803" topLeftX="673.7879527559055" topLeftY="43.19409448818897" path="M33.4626,0 L625.2567,0 L625.2567,44.1479 L0,44.1479 Z" type="custom" id="bEt">
+        <fill>
+          <fillColor color="rgba(240, 240, 240, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <img id="bEb" src="Cw90brZa4onf5uxgsvOc5vj0ncf" width="44.14787401574803" height="44.14787401574803" topLeftX="890.4203937007874" topLeftY="43.1940157480315">
+        <crop leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0"/>
+      </img>
+      <shape width="160" height="32" topLeftX="705.6155118110237" topLeftY="48" type="text" id="bEd">
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="14" fontFamily="思源黑体" color="rgba(0, 0, 0, 1)" bold="false" italic="true" underline="false" strikethrough="false" lineSpacing="multiple:1.2" letterSpacing="1.1" textAlign="left" wrap="false">
+          <p textAlign="left" lineSpacing="multiple:1.2" letterSpacing="1.1"><em><span color="rgba(0, 0, 0, 1)" fontSize="14" fontFamily="思源黑体" bold="false" strikethrough="false" underline="false" letterSpacing="1.1">哈理工A.I.R.创新实验室</span></em></p>
+        </content>
+      </shape>
+      <shape width="66.94629921259842" height="50.8" topLeftX="33.25511811023622" topLeftY="15.769133858267715" type="text" id="bEy">
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="36" fontFamily="锐字真言体免费商用" color="rgba(255, 255, 255, 1)" bold="true" italic="true" underline="false" strikethrough="false" lineSpacing="multiple:1.2" textAlign="left" autoFit="shape-auto-fit">
+          <p textAlign="left" lineSpacing="multiple:1.2"><strong><em><span color="rgba(255, 255, 255, 1)" fontSize="36" fontFamily="锐字真言体免费商用" strikethrough="false" underline="false">05</span></em></strong></p>
+        </content>
+      </shape>
+      <shape width="560" height="36.25" topLeftX="110.86724409448817" topLeftY="33.10251968503937" type="text" id="bEU">
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="24" fontFamily="思源黑体" color="rgba(3, 72, 149, 1)" bold="true" italic="true" underline="false" strikethrough="false" lineSpacing="multiple:1.2" textAlign="left" autoFit="shape-auto-fit">
+          <p textAlign="left" lineSpacing="multiple:1.2"><strong><em><span color="rgba(3, 72, 149, 1)" fontSize="24" fontFamily="思源黑体" strikethrough="false" underline="false">串口是什么：三根线加一个约定</span></em></strong></p>
+        </content>
+      </shape>
+      <shape width="430" height="66" topLeftX="62.42" topLeftY="124" type="text" id="bEj">
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" underline="false" strikethrough="false" lineSpacing="multiple:1.2" textAlign="left" autoFit="shape-auto-fit">
+          <p textAlign="left" lineSpacing="multiple:1.2"><strong><span color="rgba(3, 72, 149, 1)" fontSize="17" fontFamily="思源黑体" strikethrough="false" underline="false">① 三根线：TX、RX、GND</span></strong></p>
+          <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(31, 35, 41, 1)" fontSize="15" fontFamily="思源黑体" bold="false" strikethrough="false" underline="false">我方的发（TX）接对方的收（RX），交叉接线；地线必须共在一起，否则收到的全是乱码。</span></p>
+        </content>
+      </shape>
+      <shape width="430" height="66" topLeftX="62.42" topLeftY="194" type="text" id="bEG">
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" underline="false" strikethrough="false" lineSpacing="multiple:1.2" textAlign="left" autoFit="shape-auto-fit">
+          <p textAlign="left" lineSpacing="multiple:1.2"><strong><span color="rgba(3, 72, 149, 1)" fontSize="17" fontFamily="思源黑体" strikethrough="false" underline="false">② 波特率：两边必须一样</span></strong></p>
+          <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(31, 35, 41, 1)" fontSize="15" fontFamily="思源黑体" bold="false" strikethrough="false" underline="false">常用 115200。串口没有时钟线，全靠两边约定同一个速度，差一点就是满屏乱码。</span></p>
+        </content>
+      </shape>
+      <shape width="430" height="66" topLeftX="62.42" topLeftY="264" type="text" id="bEF">
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" underline="false" strikethrough="false" lineSpacing="multiple:1.2" textAlign="left" autoFit="shape-auto-fit">
+          <p textAlign="left" lineSpacing="multiple:1.2"><strong><span color="rgba(3, 72, 149, 1)" fontSize="17" fontFamily="思源黑体" strikethrough="false" underline="false">③ CubeMX 里怎么配</span></strong></p>
+          <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(31, 35, 41, 1)" fontSize="15" fontFamily="思源黑体" bold="false" strikethrough="false" underline="false">选 Asynchronous 模式，8 位数据、无校验、1 位停止位；引脚会自动分配好。</span></p>
+        </content>
+      </shape>
+      <shape width="378" height="230" topLeftX="510" topLeftY="112" presetHandlers="0" type="rect" id="bEJ">
+        <fill>
+          <fillColor color="rgba(240, 240, 240, 1)"/>
+        </fill>
+        <border color="rgba(3, 72, 149, 1)" width="1" lineJoin="miter" miterLimit="10"/>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="354" height="212" topLeftX="522" topLeftY="120" type="text" id="bEi">
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="15" fontFamily="Consolas" color="rgba(31, 35, 41, 1)" bold="false" underline="false" strikethrough="false" lineSpacing="multiple:1.2" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(86, 86, 86, 1)" fontSize="15" fontFamily="Consolas" bold="false" strikethrough="false" underline="false">// CubeMX 里 USART1 的配置</span></p>
+          <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(86, 86, 86, 1)" fontSize="15" fontFamily="Consolas" bold="false" strikethrough="false" underline="false">// Mode : Asynchronous</span></p>
+          <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(31, 35, 41, 1)" fontSize="15" fontFamily="Consolas" bold="false" strikethrough="false" underline="false">// Baud Rate : 115200</span></p>
+          <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(31, 35, 41, 1)" fontSize="15" fontFamily="Consolas" bold="false" strikethrough="false" underline="false">// Word Length : 8 Bits</span></p>
+          <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(31, 35, 41, 1)" fontSize="15" fontFamily="Consolas" bold="false" strikethrough="false" underline="false">// Parity : None</span></p>
+          <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(31, 35, 41, 1)" fontSize="15" fontFamily="Consolas" bold="false" strikethrough="false" underline="false">// Stop Bits : 1</span></p>
+          <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(86, 86, 86, 1)" fontSize="15" fontFamily="Consolas" bold="false" strikethrough="false" underline="false">// 引脚自动分配 PA9 / PA10</span></p>
+        </content>
+      </shape>
+      <shape width="817.58" height="34" topLeftX="62.42" topLeftY="372" presetHandlers="0" type="rect" id="bEn">
+        <fill>
+          <fillColor color="rgba(3, 72, 149, 1)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="14" paddingRight="14" fontSize="15" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" bold="false" underline="false" strikethrough="false" lineSpacing="multiple:1.2" textAlign="left" autoFit="shape-auto-fit">
+          <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(255, 255, 255, 1)" fontSize="15" fontFamily="思源黑体" bold="false" strikethrough="false" underline="false">串口没有时钟线，两边全靠约定：线要交叉、地要共、波特率必须一致。</span></p>
+        </content>
+      </shape>
+    </data>
+    <note id="bER">
+      <content>
+        <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(0, 0, 0, 1)" fontSize="12" fontFamily="等线" bold="false" italic="false" strikethrough="false" underline="false">串口是最便宜的通信方式：两根信号线加一根地，不需要时钟线，所以两端必须事先约好速度，这就是波特率。115200 意思是每秒 115200 个位，两边不一致时收到的就是乱码。接线口诀是交叉：单片机 PA9 是发送，要接 USB 转串口模块的接收脚。调试时最常见的三个问题：波特率不匹配、线没交叉、忘了共地。另外，用 USB 转串口模块时注意它是 3.3 伏还是 5 伏电平，接错可能损坏引脚。</span></p>
+      </content>
+    </note>
+  </slide>
+  <slide id="psP">
+    <style/>
+    <data>
+      <shape width="141.1400787401575" height="116.8567716535433" topLeftX="0" topLeftY="0" path="M0,0 L141.1401,0 L0,116.8568 Z" type="custom" id="bpV">
+        <fill>
+          <fillColor color="rgba(3, 72, 149, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="18.444094488188977" height="82.79322834645669" topLeftX="28.568976377952744" topLeftY="-3.1153543307086977" rotation="141.9454" path="M0,82.7932 L0,5.548 L18.4441,0 L18.4441,82.7932 Z" type="custom" id="bpM">
+        <fill>
+          <fillColor color="rgba(0, 0, 238, 0.85)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="18.444094488188977" height="82.79322834645669" topLeftX="39.524488188976385" topLeftY="-18.838346456692904" rotation="141.9454" path="M0,82.7932 L0,5.548 L18.4441,0 L18.4441,82.7932 Z" type="custom" id="bpA">
+        <fill>
+          <fillColor color="rgba(0, 0, 238, 0.58)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="141.1400787401575" height="116.8567716535433" topLeftX="831.0015748031499" topLeftY="411.00157480314954" rotation="270" path="M0,0 L141.1401,0 L0,116.8568 Z" flipY="true" type="custom" id="bEO">
+        <fill>
+          <fillColor color="rgba(240, 240, 240, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="63.02236220472441" height="201.64354330708662" topLeftX="889.9439370078744" topLeftY="241.31811023622072" rotation="218.7576833333333" path="M63.0223,0 L0,78.5026 L0,201.6435 L63.0224,149.364 Z" flipY="true" type="custom" id="bpz">
+        <fill>
+          <fillColor color="rgba(240, 240, 240, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="21.767244094488188" height="18.764881889763778" topLeftX="924.6477952755905" topLeftY="61.56204724409457" rotation="343.3178" presetHandlers="50000" type="triangle" id="bpo">
+        <fill>
+          <fillColor color="rgba(0, 0, 238, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="625.2566929133858" height="44.14787401574803" topLeftX="673.7879527559055" topLeftY="43.19409448818897" path="M33.4626,0 L625.2567,0 L625.2567,44.1479 L0,44.1479 Z" type="custom" id="bpa">
+        <fill>
+          <fillColor color="rgba(240, 240, 240, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <img id="bpZ" src="Cw90brZa4onf5uxgsvOc5vj0ncf" width="44.14787401574803" height="44.14787401574803" topLeftX="890.4203937007874" topLeftY="43.1940157480315">
+        <crop leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0"/>
+      </img>
+      <shape width="160" height="32" topLeftX="705.6155118110237" topLeftY="48" type="text" id="bED">
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="14" fontFamily="思源黑体" color="rgba(0, 0, 0, 1)" bold="false" italic="true" underline="false" strikethrough="false" lineSpacing="multiple:1.2" letterSpacing="1.1" textAlign="left" wrap="false">
+          <p textAlign="left" lineSpacing="multiple:1.2" letterSpacing="1.1"><em><span color="rgba(0, 0, 0, 1)" fontSize="14" fontFamily="思源黑体" bold="false" strikethrough="false" underline="false" letterSpacing="1.1">哈理工A.I.R.创新实验室</span></em></p>
+        </content>
+      </shape>
+      <shape width="66.94629921259842" height="50.8" topLeftX="33.25511811023622" topLeftY="15.769133858267715" type="text" id="bpH">
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="36" fontFamily="锐字真言体免费商用" color="rgba(255, 255, 255, 1)" bold="true" italic="true" underline="false" strikethrough="false" lineSpacing="multiple:1.2" textAlign="left" autoFit="shape-auto-fit">
+          <p textAlign="left" lineSpacing="multiple:1.2"><strong><em><span color="rgba(255, 255, 255, 1)" fontSize="36" fontFamily="锐字真言体免费商用" strikethrough="false" underline="false">06</span></em></strong></p>
+        </content>
+      </shape>
+      <shape width="560" height="36.25" topLeftX="110.86724409448817" topLeftY="33.10251968503937" type="text" id="bps">
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="24" fontFamily="思源黑体" color="rgba(3, 72, 149, 1)" bold="true" italic="true" underline="false" strikethrough="false" lineSpacing="multiple:1.2" textAlign="left" autoFit="shape-auto-fit">
+          <p textAlign="left" lineSpacing="multiple:1.2"><strong><em><span color="rgba(3, 72, 149, 1)" fontSize="24" fontFamily="思源黑体" strikethrough="false" underline="false">串口发送：怎么把数字发出去？</span></em></strong></p>
+        </content>
+      </shape>
+      <shape width="430" height="66" topLeftX="62.42" topLeftY="124" type="text" id="bpQ">
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" underline="false" strikethrough="false" lineSpacing="multiple:1.2" textAlign="left" autoFit="shape-auto-fit">
+          <p textAlign="left" lineSpacing="multiple:1.2"><strong><span color="rgba(3, 72, 149, 1)" fontSize="17" fontFamily="思源黑体" strikethrough="false" underline="false">① 发送就是一句调用</span></strong></p>
+          <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(31, 35, 41, 1)" fontSize="15" fontFamily="思源黑体" bold="false" strikethrough="false" underline="false">HAL_UART_Transmit 把一段字节发出去，长度和超时要自己写清楚，发完才返回。</span></p>
+        </content>
+      </shape>
+      <shape width="430" height="66" topLeftX="62.42" topLeftY="194" type="text" id="bpp">
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" underline="false" strikethrough="false" lineSpacing="multiple:1.2" textAlign="left" autoFit="shape-auto-fit">
+          <p textAlign="left" lineSpacing="multiple:1.2"><strong><span color="rgba(3, 72, 149, 1)" fontSize="17" fontFamily="思源黑体" strikethrough="false" underline="false">② 数字要先变成字符</span></strong></p>
+          <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(31, 35, 41, 1)" fontSize="15" fontFamily="思源黑体" bold="false" strikethrough="false" underline="false">串口只能发字节，直接发一个 int 会得到乱码。用 sprintf 拼成字符串再发。</span></p>
+        </content>
+      </shape>
+      <shape width="430" height="66" topLeftX="62.42" topLeftY="264" type="text" id="bEY">
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" underline="false" strikethrough="false" lineSpacing="multiple:1.2" textAlign="left" autoFit="shape-auto-fit">
+          <p textAlign="left" lineSpacing="multiple:1.2"><strong><span color="rgba(3, 72, 149, 1)" fontSize="17" fontFamily="思源黑体" strikethrough="false" underline="false">③ 换行别忘</span></strong></p>
+          <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(31, 35, 41, 1)" fontSize="15" fontFamily="思源黑体" bold="false" strikethrough="false" underline="false">字符串结尾加上回车换行，串口助手才一行一行显示，看着才清楚。</span></p>
+        </content>
+      </shape>
+      <shape width="378" height="230" topLeftX="510" topLeftY="112" presetHandlers="0" type="rect" id="bpW">
+        <fill>
+          <fillColor color="rgba(240, 240, 240, 1)"/>
+        </fill>
+        <border color="rgba(3, 72, 149, 1)" width="1" lineJoin="miter" miterLimit="10"/>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="354" height="212" topLeftX="522" topLeftY="120" type="text" id="bpl">
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="15" fontFamily="Consolas" color="rgba(31, 35, 41, 1)" bold="false" underline="false" strikethrough="false" lineSpacing="multiple:1.2" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(31, 35, 41, 1)" fontSize="15" fontFamily="Consolas" bold="false" strikethrough="false" underline="false">char buf[32];</span></p>
+          <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(140, 70, 190, 1)" fontSize="15" fontFamily="Consolas" bold="false" strikethrough="false" underline="false">sprintf(buf, &quot;duty=%d\r\n&quot;, duty);</span></p>
+          <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(140, 70, 190, 1)" fontSize="15" fontFamily="Consolas" bold="false" strikethrough="false" underline="false">HAL_UART_Transmit(&amp;huart1,</span></p>
+          <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(140, 70, 190, 1)" fontSize="15" fontFamily="Consolas" bold="false" strikethrough="false" underline="false">(uint8_t *)buf, strlen(buf), 100);</span></p>
+          <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(86, 86, 86, 1)" fontSize="15" fontFamily="Consolas" bold="false" strikethrough="false" underline="false">// 长度用 strlen，别写死</span></p>
+          <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(86, 86, 86, 1)" fontSize="15" fontFamily="Consolas" bold="false" strikethrough="false" underline="false">// 超时 100ms，够用了</span></p>
+        </content>
+      </shape>
+      <shape width="817.58" height="34" topLeftX="62.42" topLeftY="372" presetHandlers="0" type="rect" id="bpE">
+        <fill>
+          <fillColor color="rgba(3, 72, 149, 1)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="14" paddingRight="14" fontSize="15" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" bold="false" underline="false" strikethrough="false" lineSpacing="multiple:1.2" textAlign="left" autoFit="shape-auto-fit">
+          <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(255, 255, 255, 1)" fontSize="15" fontFamily="思源黑体" bold="false" strikethrough="false" underline="false">发送是主动的、阻塞的：先转成字符，再写清长度，最后记得换行。</span></p>
+        </content>
+      </shape>
+    </data>
+    <note id="bEh">
+      <content>
+        <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(0, 0, 0, 1)" fontSize="12" fontFamily="等线" bold="false" italic="false" strikethrough="false" underline="false">发送比接收简单得多。HAL_UART_Transmit 的四个参数分别是串口对象、数据地址、字节数、超时时间，数据必须先转成 uint8_t 指针。这里有一个高频错误：直接把一个整数变量的地址传进去、长度写 4，串口助手上就会出现四个奇怪的字符，因为那四个字节是二进制而不是文字。要发数字，先用 sprintf 转成字符串。长度也可以用 strlen 自动算。另外别忘了字符串末尾的\r\n，它是串口助手的换行符，不加的话所有输出会连成一行。</span></p>
+      </content>
+    </note>
+  </slide>
+  <slide id="psr">
+    <style>
+      <fill id="fsr">
+        <fillColor color="rgba(255, 255, 255, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="141.1400787401575" height="116.8567716535433" topLeftX="0" topLeftY="0" path="M0,0 L141.1401,0 L0,116.8568 Z" type="custom" id="bpK">
+        <fill>
+          <fillColor color="rgba(3, 72, 149, 1)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" lineSpacing="multiple:1.2">
+          <p textAlign="center" lineSpacing="multiple:1.2"/>
+        </content>
+      </shape>
+      <shape width="18.444094488188977" height="82.79322834645669" topLeftX="28.568976377952744" topLeftY="-3.1153543307086977" rotation="141.9454" path="M0,82.7932 L0,5.548 L18.4441,0 L18.4441,82.7932 Z" type="custom" id="bpu">
+        <fill>
+          <fillColor color="rgba(0, 0, 238, 0.85)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" lineSpacing="multiple:1.2">
+          <p textAlign="center" lineSpacing="multiple:1.2"/>
+        </content>
+      </shape>
+      <shape width="12.148346456692913" height="8.965984251968504" topLeftX="43.633858267716526" topLeftY="68.02417322834646" rotation="355.5271666666667" path="M12.1368,8.9488 L12.1483,8.966 L12.1226,8.9659 Z M6.0884,0 L12.041,8.9655 L0,8.9116 Z" type="custom" id="bpb">
+        <fill>
+          <fillColor color="rgba(3, 72, 149, 1)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" lineSpacing="multiple:1.2">
+          <p textAlign="center" lineSpacing="multiple:1.2"/>
+        </content>
+      </shape>
+      <shape width="18.444094488188977" height="82.79322834645669" topLeftX="39.524488188976385" topLeftY="-18.838346456692904" rotation="141.9454" path="M0,82.7932 L0,5.548 L18.4441,0 L18.4441,82.7932 Z" type="custom" id="bpq">
+        <fill>
+          <fillColor color="rgba(0, 0, 238, 0.58)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" lineSpacing="multiple:1.2">
+          <p textAlign="center" lineSpacing="multiple:1.2"/>
+        </content>
+      </shape>
+      <shape width="141.1400787401575" height="116.8567716535433" topLeftX="831.0015748031499" topLeftY="411.00157480314954" rotation="270" path="M0,0 L141.1401,0 L0,116.8568 Z" flipY="true" type="custom" id="bpT">
+        <fill>
+          <fillColor color="rgba(240, 240, 240, 1)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" lineSpacing="multiple:1.2">
+          <p textAlign="center" lineSpacing="multiple:1.2"/>
+        </content>
+      </shape>
+      <shape width="63.02236220472441" height="201.64354330708662" topLeftX="889.9439370078744" topLeftY="241.31811023622072" rotation="218.7576833333333" path="M63.0223,0 L0,78.5026 L0,201.6435 L63.0224,149.364 Z" flipY="true" type="custom" id="bpB">
+        <fill>
+          <fillColor color="rgba(240, 240, 240, 1)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" lineSpacing="multiple:1.2">
+          <p textAlign="center" lineSpacing="multiple:1.2"/>
+        </content>
+      </shape>
+      <shape width="960" height="540" topLeftX="0" topLeftY="0" presetHandlers="0" type="rect" id="bpg">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" lineSpacing="multiple:1.2">
+          <p textAlign="center" lineSpacing="multiple:1.2"/>
+        </content>
+      </shape>
+      <img id="bpv" src="Hcg2brSTUohK5kxUpMmchnfcnqc" width="500.35716535433073" height="362.14283464566927" topLeftX="-13.928582677165366" topLeftY="78.94283464566928">
+        <crop leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0"/>
+      </img>
+      <shape width="165.23787401574802" height="851.5506299212599" topLeftX="473.352125984252" topLeftY="-247.114330708661" rotation="233.03654999999998" path="M165.2378,219.5693 L0,0 L0,851.5506 L165.2379,714.4792 Z" flipY="true" type="custom" id="bpw">
+        <fill>
+          <fillColor color="rgba(0, 171, 249, 1)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" lineSpacing="multiple:1.2">
+          <p textAlign="center" lineSpacing="multiple:1.2"/>
+        </content>
+      </shape>
+      <shape width="50.90850393700787" height="88.04307086614173" topLeftX="532.0896062992126" topLeftY="225.58086614173232" rotation="63.42366666666667" path="M34.77,0 L50.9085,88.0431 L0,88.0431 Z" type="custom" id="bpS">
+        <fill>
+          <fillColor color="rgba(3, 72, 149, 1)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" lineSpacing="multiple:1.2">
+          <p textAlign="center" lineSpacing="multiple:1.2"/>
+        </content>
+      </shape>
+      <shape width="338.83574803149605" height="466.18204724409446" topLeftX="252.7880314960629" topLeftY="312.1374803149606" rotation="53.98916666666668" path="M0,0 L338.8357,0.0001 L0,466.182 Z" type="custom" id="bpf">
+        <fill>
+          <fillColor color="rgba(4, 96, 199, 1)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" lineSpacing="multiple:1.2">
+          <p textAlign="center" lineSpacing="multiple:1.2"/>
+        </content>
+      </shape>
+      <shape width="80.78259842519685" height="416.3116535433071" topLeftX="860.5872440944879" topLeftY="79.19866141732314" rotation="233.03654999999998" path="M80.7826,107.3445 L0,0 L0,416.3117 L80.7826,349.2993 Z" flipY="true" type="custom" id="bpN">
+        <fill>
+          <fillColor color="rgba(240, 240, 240, 1)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" lineSpacing="multiple:1.2">
+          <p textAlign="center" lineSpacing="multiple:1.2"/>
+        </content>
+      </shape>
+      <shape width="625.2566929133858" height="44.14787401574803" topLeftX="-379.9244094488189" topLeftY="419.81811023622055" rotation="180" path="M33.4626,0 L625.2567,0 L625.2567,44.1479 L0,44.1479 Z" flipY="true" type="custom" id="bpX">
+        <fill>
+          <fillColor color="rgba(240, 240, 240, 1)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" lineSpacing="multiple:1.2">
+          <p textAlign="center" lineSpacing="multiple:1.2"/>
+        </content>
+      </shape>
+      <shape width="175.71425196850393" height="54.64283464566929" topLeftX="-27.321417322834648" topLeftY="457.28574803149604" type="flow-chart-input-output" id="bpr">
+        <fill>
+          <fillColor color="rgba(0, 0, 0, 1)"/>
+        </fill>
+        <border width="1" lineJoin="miter"/>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" lineSpacing="multiple:1.2">
+          <p textAlign="center" lineSpacing="multiple:1.2"/>
+        </content>
+      </shape>
+      <shape width="625.2566929133858" height="44.14787401574803" topLeftX="-324.56732283464567" topLeftY="34.818110236220505" rotation="180" path="M33.4626,0 L625.2567,0 L625.2567,44.1479 L0,44.1479 Z" flipY="true" type="custom" id="bpC">
+        <fill>
+          <fillColor color="rgba(240, 240, 240, 1)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" lineSpacing="multiple:1.2">
+          <p textAlign="center" lineSpacing="multiple:1.2"/>
+        </content>
+      </shape>
+      <shape width="546.4285826771653" height="26.785748031496063" topLeftX="9.642834645669268" topLeftY="42.857165354330746" rotation="180" flipY="true" type="text" id="bpe">
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="20" fontFamily="黑体" color="rgba(0, 0, 0, 1)" bold="true" italic="true" underline="false" strikethrough="false" lineSpacing="multiple:1.2" letterSpacing="1.1" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" letterSpacing="1.1"><strong><em><span color="rgba(0, 0, 0, 1)" fontSize="20" fontFamily="黑体" strikethrough="false" underline="false" letterSpacing="1.1">『生无所息，斗无所止』</span></em></strong></p>
+        </content>
+      </shape>
+      <shape width="473.2" height="193.87503937007875" topLeftX="328.2166141732283" topLeftY="112.63984251968498" rotation="322.25576666666666" type="text" id="bpG">
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="锐字真言体免费商用" color="rgba(255, 255, 255, 1)" bold="true" italic="true" underline="false" strikethrough="false" lineSpacing="multiple:1.2" textAlign="left" autoFit="shape-auto-fit">
+          <p textAlign="left" lineSpacing="multiple:1.2"><strong><em><span color="rgba(255, 255, 255, 1)" fontSize="66" fontFamily="锐字真言体免费商用" strikethrough="false" underline="false">02</span></em></strong><strong><em><span color="rgba(255, 255, 255, 1)" fontSize="36" fontFamily="锐字真言体免费商用" strikethrough="false" underline="false">串口收发与中断</span></em></strong></p>
+          <p textAlign="left" lineSpacing="multiple:1.2"/>
+          <p textAlign="left" lineSpacing="multiple:1.2"/>
+        </content>
+      </shape>
+    </data>
+    <note id="bpx">
+      <content>
+        <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(0, 0, 0, 1)" fontSize="12" fontFamily="等线" bold="false" italic="false" strikethrough="false" underline="false">第二部分讲收发。发送一句话很简单，一个 HAL_UART_Transmit 就行；难的是接收，你不知道对方什么时候发、发几个字节。用接收中断一个字一个字收，再自己拼成一句话，这就是作业第二题要练的东西。</span></p>
+      </content>
+    </note>
+  </slide>
+  <slide id="psW">
+    <style/>
+    <data>
+      <shape width="141.1400787401575" height="116.8567716535433" topLeftX="0" topLeftY="0" path="M0,0 L141.1401,0 L0,116.8568 Z" type="custom" id="bpy">
+        <fill>
+          <fillColor color="rgba(3, 72, 149, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="18.444094488188977" height="82.79322834645669" topLeftX="28.568976377952744" topLeftY="-3.1153543307086977" rotation="141.9454" path="M0,82.7932 L0,5.548 L18.4441,0 L18.4441,82.7932 Z" type="custom" id="bpU">
+        <fill>
+          <fillColor color="rgba(0, 0, 238, 0.85)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="18.444094488188977" height="82.79322834645669" topLeftX="39.524488188976385" topLeftY="-18.838346456692904" rotation="141.9454" path="M0,82.7932 L0,5.548 L18.4441,0 L18.4441,82.7932 Z" type="custom" id="bpj">
+        <fill>
+          <fillColor color="rgba(0, 0, 238, 0.58)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="141.1400787401575" height="116.8567716535433" topLeftX="831.0015748031499" topLeftY="411.00157480314954" rotation="270" path="M0,0 L141.1401,0 L0,116.8568 Z" flipY="true" type="custom" id="bpn">
+        <fill>
+          <fillColor color="rgba(240, 240, 240, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="63.02236220472441" height="201.64354330708662" topLeftX="889.9439370078744" topLeftY="241.31811023622072" rotation="218.7576833333333" path="M63.0223,0 L0,78.5026 L0,201.6435 L63.0224,149.364 Z" flipY="true" type="custom" id="bpF">
+        <fill>
+          <fillColor color="rgba(240, 240, 240, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="21.767244094488188" height="18.764881889763778" topLeftX="924.6477952755905" topLeftY="61.56204724409457" rotation="343.3178" presetHandlers="50000" type="triangle" id="bpJ">
+        <fill>
+          <fillColor color="rgba(0, 0, 238, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="625.2566929133858" height="44.14787401574803" topLeftX="673.7879527559055" topLeftY="43.19409448818897" path="M33.4626,0 L625.2567,0 L625.2567,44.1479 L0,44.1479 Z" type="custom" id="bpi">
+        <fill>
+          <fillColor color="rgba(240, 240, 240, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <img id="bpk" src="Cw90brZa4onf5uxgsvOc5vj0ncf" width="44.14787401574803" height="44.14787401574803" topLeftX="890.4203937007874" topLeftY="43.1940157480315">
+        <crop leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0"/>
+      </img>
+      <shape width="160" height="32" topLeftX="705.6155118110237" topLeftY="48" type="text" id="bpR">
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="14" fontFamily="思源黑体" color="rgba(0, 0, 0, 1)" bold="false" italic="true" underline="false" strikethrough="false" lineSpacing="multiple:1.2" letterSpacing="1.1" textAlign="left" wrap="false">
+          <p textAlign="left" lineSpacing="multiple:1.2" letterSpacing="1.1"><em><span color="rgba(0, 0, 0, 1)" fontSize="14" fontFamily="思源黑体" bold="false" strikethrough="false" underline="false" letterSpacing="1.1">哈理工A.I.R.创新实验室</span></em></p>
+        </content>
+      </shape>
+      <shape width="66.94629921259842" height="50.8" topLeftX="33.25511811023622" topLeftY="15.769133858267715" type="text" id="bpP">
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="36" fontFamily="锐字真言体免费商用" color="rgba(255, 255, 255, 1)" bold="true" italic="true" underline="false" strikethrough="false" lineSpacing="multiple:1.2" textAlign="left" autoFit="shape-auto-fit">
+          <p textAlign="left" lineSpacing="multiple:1.2"><strong><em><span color="rgba(255, 255, 255, 1)" fontSize="36" fontFamily="锐字真言体免费商用" strikethrough="false" underline="false">08</span></em></strong></p>
+        </content>
+      </shape>
+      <shape width="560" height="36.25" topLeftX="110.86724409448817" topLeftY="33.10251968503937" type="text" id="bpL">
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="24" fontFamily="思源黑体" color="rgba(3, 72, 149, 1)" bold="true" italic="true" underline="false" strikethrough="false" lineSpacing="multiple:1.2" textAlign="left" autoFit="shape-auto-fit">
+          <p textAlign="left" lineSpacing="multiple:1.2"><strong><em><span color="rgba(3, 72, 149, 1)" fontSize="24" fontFamily="思源黑体" strikethrough="false" underline="false">接收：怎么把一句话收全？</span></em></strong></p>
+        </content>
+      </shape>
+      <shape width="430" height="66" topLeftX="62.42" topLeftY="124" type="text" id="bpD">
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" underline="false" strikethrough="false" lineSpacing="multiple:1.2" textAlign="left" autoFit="shape-auto-fit">
+          <p textAlign="left" lineSpacing="multiple:1.2"><strong><span color="rgba(3, 72, 149, 1)" fontSize="17" fontFamily="思源黑体" strikethrough="false" underline="false">① 别在主循环里等</span></strong></p>
+          <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(31, 35, 41, 1)" fontSize="15" fontFamily="思源黑体" bold="false" strikethrough="false" underline="false">用接收中断：开一个字节的接收，收到就进回调，主循环完全不用守着串口。</span></p>
+        </content>
+      </shape>
+      <shape width="430" height="66" topLeftX="62.42" topLeftY="194" type="text" id="bpI">
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" underline="false" strikethrough="false" lineSpacing="multiple:1.2" textAlign="left" autoFit="shape-auto-fit">
+          <p textAlign="left" lineSpacing="multiple:1.2"><strong><span color="rgba(3, 72, 149, 1)" fontSize="17" fontFamily="思源黑体" strikethrough="false" underline="false">② 一个字节一个字节攒</span></strong></p>
+          <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(31, 35, 41, 1)" fontSize="15" fontFamily="思源黑体" bold="false" strikethrough="false" underline="false">回调里把字节存进缓冲区，遇到换行就认为一句话结束，再加一个结束符。</span></p>
+        </content>
+      </shape>
+      <shape width="430" height="66" topLeftX="62.42" topLeftY="264" type="text" id="bpc">
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" underline="false" strikethrough="false" lineSpacing="multiple:1.2" textAlign="left" autoFit="shape-auto-fit">
+          <p textAlign="left" lineSpacing="multiple:1.2"><strong><span color="rgba(3, 72, 149, 1)" fontSize="17" fontFamily="思源黑体" strikethrough="false" underline="false">③ 收完必须再开一次</span></strong></p>
+          <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(31, 35, 41, 1)" fontSize="15" fontFamily="思源黑体" bold="false" strikethrough="false" underline="false">回调末尾要重新调用接收函数，不然只收得到第一个字节，后面全部丢失。</span></p>
+        </content>
+      </shape>
+      <shape width="378" height="230" topLeftX="510" topLeftY="112" presetHandlers="0" type="rect" id="bpm">
+        <fill>
+          <fillColor color="rgba(240, 240, 240, 1)"/>
+        </fill>
+        <border color="rgba(3, 72, 149, 1)" width="1" lineJoin="miter" miterLimit="10"/>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="354" height="212" topLeftX="522" topLeftY="120" type="text" id="bpt">
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="15" fontFamily="Consolas" color="rgba(31, 35, 41, 1)" bold="false" underline="false" strikethrough="false" lineSpacing="multiple:1.2" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(31, 35, 41, 1)" fontSize="15" fontFamily="Consolas" bold="false" strikethrough="false" underline="false">uint8_t rb, buf[64], len = 0;</span></p>
+          <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(140, 70, 190, 1)" fontSize="15" fontFamily="Consolas" bold="false" strikethrough="false" underline="false">void HAL_UART_RxCpltCallback(UART_HandleTypeDef *h)</span></p>
+          <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(31, 35, 41, 1)" fontSize="15" fontFamily="Consolas" bold="false" strikethrough="false" underline="false">{</span></p>
+          <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(31, 35, 41, 1)" fontSize="15" fontFamily="Consolas" bold="false" strikethrough="false" underline="false">buf[len++] = rb;</span></p>
+          <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(31, 35, 41, 1)" fontSize="15" fontFamily="Consolas" bold="false" strikethrough="false" underline="false">if (rb == &apos;\n&apos;) { buf[len - 1] = 0; len = 0; }</span></p>
+          <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(140, 70, 190, 1)" fontSize="15" fontFamily="Consolas" bold="false" strikethrough="false" underline="false">HAL_UART_Receive_IT(&amp;huart1, &amp;rb, 1);</span></p>
+          <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(31, 35, 41, 1)" fontSize="15" fontFamily="Consolas" bold="false" strikethrough="false" underline="false">}</span></p>
+          <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(86, 86, 86, 1)" fontSize="15" fontFamily="Consolas" bold="false" strikethrough="false" underline="false">// main 里先开一次</span></p>
+        </content>
+      </shape>
+      <shape width="817.58" height="34" topLeftX="62.42" topLeftY="372" presetHandlers="0" type="rect" id="bpO">
+        <fill>
+          <fillColor color="rgba(3, 72, 149, 1)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="14" paddingRight="14" fontSize="15" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" bold="false" underline="false" strikethrough="false" lineSpacing="multiple:1.2" textAlign="left" autoFit="shape-auto-fit">
+          <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(255, 255, 255, 1)" fontSize="15" fontFamily="思源黑体" bold="false" strikethrough="false" underline="false">接收靠中断：开一个字节、收一个攒一个、遇到换行算一句、收完再开下一次。</span></p>
+        </content>
+      </shape>
+    </data>
+    <note id="bpd">
+      <content>
+        <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(0, 0, 0, 1)" fontSize="12" fontFamily="等线" bold="false" italic="false" strikethrough="false" underline="false">接收比发送难，因为发送时机你说了算，接收时机是对方说了算。第一种写法是在主循环里用一个很大的超时去读，缺点是没数据时 CPU 一直等。更好的写法是用接收中断：先调用一次接收函数，告诉 HAL 帮我盯着这一个字节，收到就进回调。回调里做三件事：存字节、判断这一句是否结束、再开下一次接收。第三步最容易漏，漏了就只能收到第一个字节。缓冲区要够大（64 字节足够命令用），并且要做长度保护，防止对方一直发把数组写爆，这也是作业第二题会检查的点。</span></p>
+      </content>
+    </note>
+  </slide>
+  <slide id="psu">
+    <style/>
+    <data>
+      <shape width="141.1400787401575" height="116.8567716535433" topLeftX="0" topLeftY="0" path="M0,0 L141.1401,0 L0,116.8568 Z" type="custom" id="bZV">
+        <fill>
+          <fillColor color="rgba(3, 72, 149, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="18.444094488188977" height="82.79322834645669" topLeftX="28.568976377952744" topLeftY="-3.1153543307086977" rotation="141.9454" path="M0,82.7932 L0,5.548 L18.4441,0 L18.4441,82.7932 Z" type="custom" id="bZM">
+        <fill>
+          <fillColor color="rgba(0, 0, 238, 0.85)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="18.444094488188977" height="82.79322834645669" topLeftX="39.524488188976385" topLeftY="-18.838346456692904" rotation="141.9454" path="M0,82.7932 L0,5.548 L18.4441,0 L18.4441,82.7932 Z" type="custom" id="bZA">
+        <fill>
+          <fillColor color="rgba(0, 0, 238, 0.58)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="141.1400787401575" height="116.8567716535433" topLeftX="831.0015748031499" topLeftY="411.00157480314954" rotation="270" path="M0,0 L141.1401,0 L0,116.8568 Z" flipY="true" type="custom" id="bZX">
+        <fill>
+          <fillColor color="rgba(240, 240, 240, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="63.02236220472441" height="201.64354330708662" topLeftX="889.9439370078744" topLeftY="241.31811023622072" rotation="218.7576833333333" path="M63.0223,0 L0,78.5026 L0,201.6435 L63.0224,149.364 Z" flipY="true" type="custom" id="bZz">
+        <fill>
+          <fillColor color="rgba(240, 240, 240, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="21.767244094488188" height="18.764881889763778" topLeftX="924.6477952755905" topLeftY="61.56204724409457" rotation="343.3178" presetHandlers="50000" type="triangle" id="bZo">
+        <fill>
+          <fillColor color="rgba(0, 0, 238, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="625.2566929133858" height="44.14787401574803" topLeftX="673.7879527559055" topLeftY="43.19409448818897" path="M33.4626,0 L625.2567,0 L625.2567,44.1479 L0,44.1479 Z" type="custom" id="bZa">
+        <fill>
+          <fillColor color="rgba(240, 240, 240, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <img id="bZZ" src="Cw90brZa4onf5uxgsvOc5vj0ncf" width="44.14787401574803" height="44.14787401574803" topLeftX="890.4203937007874" topLeftY="43.1940157480315">
+        <crop leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0"/>
+      </img>
+      <shape width="160" height="32" topLeftX="705.6155118110237" topLeftY="48" type="text" id="bZH">
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="14" fontFamily="思源黑体" color="rgba(0, 0, 0, 1)" bold="false" italic="true" underline="false" strikethrough="false" lineSpacing="multiple:1.2" letterSpacing="1.1" textAlign="left" wrap="false">
+          <p textAlign="left" lineSpacing="multiple:1.2" letterSpacing="1.1"><em><span color="rgba(0, 0, 0, 1)" fontSize="14" fontFamily="思源黑体" bold="false" strikethrough="false" underline="false" letterSpacing="1.1">哈理工A.I.R.创新实验室</span></em></p>
+        </content>
+      </shape>
+      <shape width="66.94629921259842" height="50.8" topLeftX="33.25511811023622" topLeftY="15.769133858267715" type="text" id="bZs">
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="36" fontFamily="锐字真言体免费商用" color="rgba(255, 255, 255, 1)" bold="true" italic="true" underline="false" strikethrough="false" lineSpacing="multiple:1.2" textAlign="left" autoFit="shape-auto-fit">
+          <p textAlign="left" lineSpacing="multiple:1.2"><strong><em><span color="rgba(255, 255, 255, 1)" fontSize="36" fontFamily="锐字真言体免费商用" strikethrough="false" underline="false">09</span></em></strong></p>
+        </content>
+      </shape>
+      <shape width="560" height="36.25" topLeftX="110.86724409448817" topLeftY="33.10251968503937" type="text" id="bZQ">
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="24" fontFamily="思源黑体" color="rgba(3, 72, 149, 1)" bold="true" italic="true" underline="false" strikethrough="false" lineSpacing="multiple:1.2" textAlign="left" autoFit="shape-auto-fit">
+          <p textAlign="left" lineSpacing="multiple:1.2"><strong><em><span color="rgba(3, 72, 149, 1)" fontSize="24" fontFamily="思源黑体" strikethrough="false" underline="false">收到的是字符，怎么变成数字？</span></em></strong></p>
+        </content>
+      </shape>
+      <shape width="430" height="66" topLeftX="62.42" topLeftY="124" type="text" id="bZp">
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" underline="false" strikethrough="false" lineSpacing="multiple:1.2" textAlign="left" autoFit="shape-auto-fit">
+          <p textAlign="left" lineSpacing="multiple:1.2"><strong><span color="rgba(3, 72, 149, 1)" fontSize="17" fontFamily="思源黑体" strikethrough="false" underline="false">① 字符和数字不是一回事</span></strong></p>
+          <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(31, 35, 41, 1)" fontSize="15" fontFamily="思源黑体" bold="false" strikethrough="false" underline="false">收到的是 &apos;5&apos; 这个字符，它的值是 53。要参与计算，必须先转成真正的数字 5。</span></p>
+        </content>
+      </shape>
+      <shape width="430" height="66" topLeftX="62.42" topLeftY="194" type="text" id="bpY">
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" underline="false" strikethrough="false" lineSpacing="multiple:1.2" textAlign="left" autoFit="shape-auto-fit">
+          <p textAlign="left" lineSpacing="multiple:1.2"><strong><span color="rgba(3, 72, 149, 1)" fontSize="17" fontFamily="思源黑体" strikethrough="false" underline="false">② 用 atoi 或 sscanf</span></strong></p>
+          <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(31, 35, 41, 1)" fontSize="15" fontFamily="思源黑体" bold="false" strikethrough="false" underline="false">atoi(&quot;500&quot;) 直接得到 500；sscanf 还能按格式一次拆出多个数字。</span></p>
+        </content>
+      </shape>
+      <shape width="430" height="66" topLeftX="62.42" topLeftY="264" type="text" id="bZW">
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" underline="false" strikethrough="false" lineSpacing="multiple:1.2" textAlign="left" autoFit="shape-auto-fit">
+          <p textAlign="left" lineSpacing="multiple:1.2"><strong><span color="rgba(3, 72, 149, 1)" fontSize="17" fontFamily="思源黑体" strikethrough="false" underline="false">③ 先看命令头，再取值</span></strong></p>
+          <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(31, 35, 41, 1)" fontSize="15" fontFamily="思源黑体" bold="false" strikethrough="false" underline="false">命令是「字母 + 数字」的格式，第一个字符决定做什么，后面的部分才是参数。</span></p>
+        </content>
+      </shape>
+      <shape width="378" height="230" topLeftX="510" topLeftY="112" presetHandlers="0" type="rect" id="bZl">
+        <fill>
+          <fillColor color="rgba(240, 240, 240, 1)"/>
+        </fill>
+        <border color="rgba(3, 72, 149, 1)" width="1" lineJoin="miter" miterLimit="10"/>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="354" height="212" topLeftX="522" topLeftY="120" type="text" id="bZE">
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="15" fontFamily="Consolas" color="rgba(31, 35, 41, 1)" bold="false" underline="false" strikethrough="false" lineSpacing="multiple:1.2" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(86, 86, 86, 1)" fontSize="15" fontFamily="Consolas" bold="false" strikethrough="false" underline="false">// 收到 &quot;P500&quot;</span></p>
+          <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(31, 35, 41, 1)" fontSize="15" fontFamily="Consolas" bold="false" strikethrough="false" underline="false">if (buf[0] == &apos;P&apos;) {</span></p>
+          <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(31, 35, 41, 1)" fontSize="15" fontFamily="Consolas" bold="false" strikethrough="false" underline="false">int v = atoi((char *)&amp;buf[1]); // 500</span></p>
+          <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(31, 35, 41, 1)" fontSize="15" fontFamily="Consolas" bold="false" strikethrough="false" underline="false">if (v &lt;= 999) {</span></p>
+          <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(140, 70, 190, 1)" fontSize="15" fontFamily="Consolas" bold="false" strikethrough="false" underline="false">__HAL_TIM_SET_COMPARE(&amp;htim1, TIM_CHANNEL_2, v);</span></p>
+          <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(31, 35, 41, 1)" fontSize="15" fontFamily="Consolas" bold="false" strikethrough="false" underline="false">}</span></p>
+          <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(31, 35, 41, 1)" fontSize="15" fontFamily="Consolas" bold="false" strikethrough="false" underline="false">}</span></p>
+        </content>
+      </shape>
+      <shape width="817.58" height="34" topLeftX="62.42" topLeftY="372" presetHandlers="0" type="rect" id="bZv">
+        <fill>
+          <fillColor color="rgba(3, 72, 149, 1)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="14" paddingRight="14" fontSize="15" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" bold="false" underline="false" strikethrough="false" lineSpacing="multiple:1.2" textAlign="left" autoFit="shape-auto-fit">
+          <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(255, 255, 255, 1)" fontSize="15" fontFamily="思源黑体" bold="false" strikethrough="false" underline="false">串口里只有字符没有数字：先转换、再限幅，最后才交给硬件用。</span></p>
+        </content>
+      </shape>
+    </data>
+    <note id="bph">
+      <content>
+        <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(0, 0, 0, 1)" fontSize="12" fontFamily="等线" bold="false" italic="false" strikethrough="false" underline="false">这一页是串口和之前内容真正连起来的地方。串口上跑的全是字符，你想用它改占空比，就一定要做字符到数字的转换，atoi 是最省事的做法：给它一个字符串的地址，它回头给你一个整数。取参数的时候注意两点：一是从第二个字符开始取，因为第一个字符是命令头；二是要限幅，用户可能在串口助手里敲一个 99999，直接写进比较寄存器就会出问题。这也是考核评分里会看的一条：命令要处理，异常输入也不能让系统跑飞。</span></p>
+      </content>
+    </note>
+  </slide>
+  <slide id="psi">
+    <style>
+      <fill id="fsi">
+        <fillColor color="rgba(255, 255, 255, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="141.1400787401575" height="116.8567716535433" topLeftX="0" topLeftY="0" path="M0,0 L141.1401,0 L0,116.8568 Z" type="custom" id="bZC">
+        <fill>
+          <fillColor color="rgba(3, 72, 149, 1)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" lineSpacing="multiple:1.2">
+          <p textAlign="center" lineSpacing="multiple:1.2"/>
+        </content>
+      </shape>
+      <shape width="18.444094488188977" height="82.79322834645669" topLeftX="28.568976377952744" topLeftY="-3.1153543307086977" rotation="141.9454" path="M0,82.7932 L0,5.548 L18.4441,0 L18.4441,82.7932 Z" type="custom" id="bZe">
+        <fill>
+          <fillColor color="rgba(0, 0, 238, 0.85)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" lineSpacing="multiple:1.2">
+          <p textAlign="center" lineSpacing="multiple:1.2"/>
+        </content>
+      </shape>
+      <shape width="12.148346456692913" height="8.965984251968504" topLeftX="43.633858267716526" topLeftY="68.02417322834646" rotation="355.5271666666667" path="M12.1368,8.9488 L12.1483,8.966 L12.1226,8.9659 Z M6.0884,0 L12.041,8.9655 L0,8.9116 Z" type="custom" id="bZg">
+        <fill>
+          <fillColor color="rgba(3, 72, 149, 1)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" lineSpacing="multiple:1.2">
+          <p textAlign="center" lineSpacing="multiple:1.2"/>
+        </content>
+      </shape>
+      <shape width="18.444094488188977" height="82.79322834645669" topLeftX="39.524488188976385" topLeftY="-18.838346456692904" rotation="141.9454" path="M0,82.7932 L0,5.548 L18.4441,0 L18.4441,82.7932 Z" type="custom" id="bZk">
+        <fill>
+          <fillColor color="rgba(0, 0, 238, 0.58)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" lineSpacing="multiple:1.2">
+          <p textAlign="center" lineSpacing="multiple:1.2"/>
+        </content>
+      </shape>
+      <shape width="141.1400787401575" height="116.8567716535433" topLeftX="831.0015748031499" topLeftY="411.00157480314954" rotation="270" path="M0,0 L141.1401,0 L0,116.8568 Z" flipY="true" type="custom" id="bZr">
+        <fill>
+          <fillColor color="rgba(240, 240, 240, 1)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" lineSpacing="multiple:1.2">
+          <p textAlign="center" lineSpacing="multiple:1.2"/>
+        </content>
+      </shape>
+      <shape width="63.02236220472441" height="201.64354330708662" topLeftX="889.9439370078744" topLeftY="241.31811023622072" rotation="218.7576833333333" path="M63.0223,0 L0,78.5026 L0,201.6435 L63.0224,149.364 Z" flipY="true" type="custom" id="bZK">
+        <fill>
+          <fillColor color="rgba(240, 240, 240, 1)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" lineSpacing="multiple:1.2">
+          <p textAlign="center" lineSpacing="multiple:1.2"/>
+        </content>
+      </shape>
+      <shape width="960" height="540" topLeftX="0" topLeftY="0" presetHandlers="0" type="rect" id="bZu">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" lineSpacing="multiple:1.2">
+          <p textAlign="center" lineSpacing="multiple:1.2"/>
+        </content>
+      </shape>
+      <img id="bZN" src="Hcg2brSTUohK5kxUpMmchnfcnqc" width="500.35716535433073" height="362.14283464566927" topLeftX="-13.928582677165366" topLeftY="78.94283464566928">
+        <crop leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0"/>
+      </img>
+      <shape width="165.23787401574802" height="851.5506299212599" topLeftX="473.352125984252" topLeftY="-247.114330708661" rotation="233.03654999999998" path="M165.2378,219.5693 L0,0 L0,851.5506 L165.2379,714.4792 Z" flipY="true" type="custom" id="bZn">
+        <fill>
+          <fillColor color="rgba(0, 171, 249, 1)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" lineSpacing="multiple:1.2">
+          <p textAlign="center" lineSpacing="multiple:1.2"/>
+        </content>
+      </shape>
+      <shape width="50.90850393700787" height="88.04307086614173" topLeftX="532.0896062992126" topLeftY="225.58086614173232" rotation="63.42366666666667" path="M34.77,0 L50.9085,88.0431 L0,88.0431 Z" type="custom" id="bZx">
+        <fill>
+          <fillColor color="rgba(3, 72, 149, 1)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" lineSpacing="multiple:1.2">
+          <p textAlign="center" lineSpacing="multiple:1.2"/>
+        </content>
+      </shape>
+      <shape width="338.83574803149605" height="466.18204724409446" topLeftX="252.7880314960629" topLeftY="312.1374803149606" rotation="53.98916666666668" path="M0,0 L338.8357,0.0001 L0,466.182 Z" type="custom" id="bZT">
+        <fill>
+          <fillColor color="rgba(4, 96, 199, 1)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" lineSpacing="multiple:1.2">
+          <p textAlign="center" lineSpacing="multiple:1.2"/>
+        </content>
+      </shape>
+      <shape width="80.78259842519685" height="416.3116535433071" topLeftX="860.5872440944879" topLeftY="79.19866141732314" rotation="233.03654999999998" path="M80.7826,107.3445 L0,0 L0,416.3117 L80.7826,349.2993 Z" flipY="true" type="custom" id="bZB">
+        <fill>
+          <fillColor color="rgba(240, 240, 240, 1)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" lineSpacing="multiple:1.2">
+          <p textAlign="center" lineSpacing="multiple:1.2"/>
+        </content>
+      </shape>
+      <shape width="625.2566929133858" height="44.14787401574803" topLeftX="-379.9244094488189" topLeftY="419.81811023622055" rotation="180" path="M33.4626,0 L625.2567,0 L625.2567,44.1479 L0,44.1479 Z" flipY="true" type="custom" id="bZG">
+        <fill>
+          <fillColor color="rgba(240, 240, 240, 1)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" lineSpacing="multiple:1.2">
+          <p textAlign="center" lineSpacing="multiple:1.2"/>
+        </content>
+      </shape>
+      <shape width="175.71425196850393" height="54.64283464566929" topLeftX="-27.321417322834648" topLeftY="457.28574803149604" type="flow-chart-input-output" id="bZq">
+        <fill>
+          <fillColor color="rgba(0, 0, 0, 1)"/>
+        </fill>
+        <border width="1" lineJoin="miter"/>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" lineSpacing="multiple:1.2">
+          <p textAlign="center" lineSpacing="multiple:1.2"/>
+        </content>
+      </shape>
+      <shape width="625.2566929133858" height="44.14787401574803" topLeftX="-324.56732283464567" topLeftY="34.818110236220505" rotation="180" path="M33.4626,0 L625.2567,0 L625.2567,44.1479 L0,44.1479 Z" flipY="true" type="custom" id="bZS">
+        <fill>
+          <fillColor color="rgba(240, 240, 240, 1)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" lineSpacing="multiple:1.2">
+          <p textAlign="center" lineSpacing="multiple:1.2"/>
+        </content>
+      </shape>
+      <shape width="546.4285826771653" height="26.785748031496063" topLeftX="9.642834645669268" topLeftY="42.857165354330746" rotation="180" flipY="true" type="text" id="bZf">
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="20" fontFamily="黑体" color="rgba(0, 0, 0, 1)" bold="true" italic="true" underline="false" strikethrough="false" lineSpacing="multiple:1.2" letterSpacing="1.1" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" letterSpacing="1.1"><strong><em><span color="rgba(0, 0, 0, 1)" fontSize="20" fontFamily="黑体" strikethrough="false" underline="false" letterSpacing="1.1">『生无所息，斗无所止』</span></em></strong></p>
+        </content>
+      </shape>
+      <shape width="473.2" height="193.87503937007875" topLeftX="328.2166141732283" topLeftY="112.63984251968498" rotation="322.25576666666666" type="text" id="bZb">
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="锐字真言体免费商用" color="rgba(255, 255, 255, 1)" bold="true" italic="true" underline="false" strikethrough="false" lineSpacing="multiple:1.2" textAlign="left" autoFit="shape-auto-fit">
+          <p textAlign="left" lineSpacing="multiple:1.2"><strong><em><span color="rgba(255, 255, 255, 1)" fontSize="66" fontFamily="锐字真言体免费商用" strikethrough="false" underline="false">03</span></em></strong><strong><em><span color="rgba(255, 255, 255, 1)" fontSize="36" fontFamily="锐字真言体免费商用" strikethrough="false" underline="false">命令解析</span></em></strong></p>
+          <p textAlign="left" lineSpacing="multiple:1.2"/>
+          <p textAlign="left" lineSpacing="multiple:1.2"/>
+        </content>
+      </shape>
+    </data>
+    <note id="bZw">
+      <content>
+        <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(0, 0, 0, 1)" fontSize="12" fontFamily="等线" bold="false" italic="false" strikethrough="false" underline="false">第三部分处理收到的东西。串口收到的都是字符，字符没法直接比大小，要先转成数字。然后按命令的格式去判断：发 A 就点灯、发 B 就熄灯，发 P500 就把参数改成 500。这一节把串口和前面学的功能真正连起来。</span></p>
+      </content>
+    </note>
+  </slide>
+  <slide id="psX">
+    <style/>
+    <data>
+      <shape width="141.1400787401575" height="116.8567716535433" topLeftX="0" topLeftY="0" path="M0,0 L141.1401,0 L0,116.8568 Z" type="custom" id="bZh">
+        <fill>
+          <fillColor color="rgba(3, 72, 149, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="18.444094488188977" height="82.79322834645669" topLeftX="28.568976377952744" topLeftY="-3.1153543307086977" rotation="141.9454" path="M0,82.7932 L0,5.548 L18.4441,0 L18.4441,82.7932 Z" type="custom" id="bZI">
+        <fill>
+          <fillColor color="rgba(0, 0, 238, 0.85)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="18.444094488188977" height="82.79322834645669" topLeftX="39.524488188976385" topLeftY="-18.838346456692904" rotation="141.9454" path="M0,82.7932 L0,5.548 L18.4441,0 L18.4441,82.7932 Z" type="custom" id="bZc">
+        <fill>
+          <fillColor color="rgba(0, 0, 238, 0.58)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="141.1400787401575" height="116.8567716535433" topLeftX="831.0015748031499" topLeftY="411.00157480314954" rotation="270" path="M0,0 L141.1401,0 L0,116.8568 Z" flipY="true" type="custom" id="bZm">
+        <fill>
+          <fillColor color="rgba(240, 240, 240, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="63.02236220472441" height="201.64354330708662" topLeftX="889.9439370078744" topLeftY="241.31811023622072" rotation="218.7576833333333" path="M63.0223,0 L0,78.5026 L0,201.6435 L63.0224,149.364 Z" flipY="true" type="custom" id="bZO">
+        <fill>
+          <fillColor color="rgba(240, 240, 240, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="21.767244094488188" height="18.764881889763778" topLeftX="924.6477952755905" topLeftY="61.56204724409457" rotation="343.3178" presetHandlers="50000" type="triangle" id="bZR">
+        <fill>
+          <fillColor color="rgba(0, 0, 238, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="625.2566929133858" height="44.14787401574803" topLeftX="673.7879527559055" topLeftY="43.19409448818897" path="M33.4626,0 L625.2567,0 L625.2567,44.1479 L0,44.1479 Z" type="custom" id="bZP">
+        <fill>
+          <fillColor color="rgba(240, 240, 240, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <img id="bZL" src="Cw90brZa4onf5uxgsvOc5vj0ncf" width="44.14787401574803" height="44.14787401574803" topLeftX="890.4203937007874" topLeftY="43.1940157480315">
+        <crop leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0"/>
+      </img>
+      <shape width="160" height="32" topLeftX="705.6155118110237" topLeftY="48" type="text" id="bZD">
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="14" fontFamily="思源黑体" color="rgba(0, 0, 0, 1)" bold="false" italic="true" underline="false" strikethrough="false" lineSpacing="multiple:1.2" letterSpacing="1.1" textAlign="left" wrap="false">
+          <p textAlign="left" lineSpacing="multiple:1.2" letterSpacing="1.1"><em><span color="rgba(0, 0, 0, 1)" fontSize="14" fontFamily="思源黑体" bold="false" strikethrough="false" underline="false" letterSpacing="1.1">哈理工A.I.R.创新实验室</span></em></p>
+        </content>
+      </shape>
+      <shape width="66.94629921259842" height="50.8" topLeftX="33.25511811023622" topLeftY="15.769133858267715" type="text" id="bZF">
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="36" fontFamily="锐字真言体免费商用" color="rgba(255, 255, 255, 1)" bold="true" italic="true" underline="false" strikethrough="false" lineSpacing="multiple:1.2" textAlign="left" autoFit="shape-auto-fit">
+          <p textAlign="left" lineSpacing="multiple:1.2"><strong><em><span color="rgba(255, 255, 255, 1)" fontSize="36" fontFamily="锐字真言体免费商用" strikethrough="false" underline="false">11</span></em></strong></p>
+        </content>
+      </shape>
+      <shape width="560" height="36.25" topLeftX="110.86724409448817" topLeftY="33.10251968503937" type="text" id="bZJ">
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="24" fontFamily="思源黑体" color="rgba(3, 72, 149, 1)" bold="true" italic="true" underline="false" strikethrough="false" lineSpacing="multiple:1.2" textAlign="left" autoFit="shape-auto-fit">
+          <p textAlign="left" lineSpacing="multiple:1.2"><strong><em><span color="rgba(3, 72, 149, 1)" fontSize="24" fontFamily="思源黑体" strikethrough="false" underline="false">命令解析：让串口管起整套系统</span></em></strong></p>
+        </content>
+      </shape>
+      <shape width="430" height="66" topLeftX="62.42" topLeftY="124" type="text" id="bZi">
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" underline="false" strikethrough="false" lineSpacing="multiple:1.2" textAlign="left" autoFit="shape-auto-fit">
+          <p textAlign="left" lineSpacing="multiple:1.2"><strong><span color="rgba(3, 72, 149, 1)" fontSize="17" fontFamily="思源黑体" strikethrough="false" underline="false">① 先定一套命令表</span></strong></p>
+          <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(31, 35, 41, 1)" fontSize="15" fontFamily="思源黑体" bold="false" strikethrough="false" underline="false">写代码前先把命令定下来：A 开灯、B 关灯、P 加数值改占空比、S 查询状态。</span></p>
+        </content>
+      </shape>
+      <shape width="430" height="66" topLeftX="62.42" topLeftY="194" type="text" id="bZj">
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" underline="false" strikethrough="false" lineSpacing="multiple:1.2" textAlign="left" autoFit="shape-auto-fit">
+          <p textAlign="left" lineSpacing="multiple:1.2"><strong><span color="rgba(3, 72, 149, 1)" fontSize="17" fontFamily="思源黑体" strikethrough="false" underline="false">② 一次只处理一条</span></strong></p>
+          <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(31, 35, 41, 1)" fontSize="15" fontFamily="思源黑体" bold="false" strikethrough="false" underline="false">用 switch 认第一个字符就够；处理完立刻清空缓冲区，避免上一条的残留影响下一条。</span></p>
+        </content>
+      </shape>
+      <shape width="430" height="66" topLeftX="62.42" topLeftY="264" type="text" id="bZY">
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" underline="false" strikethrough="false" lineSpacing="multiple:1.2" textAlign="left" autoFit="shape-auto-fit">
+          <p textAlign="left" lineSpacing="multiple:1.2"><strong><span color="rgba(3, 72, 149, 1)" fontSize="17" fontFamily="思源黑体" strikethrough="false" underline="false">③ 每条命令都回一句</span></strong></p>
+          <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(31, 35, 41, 1)" fontSize="15" fontFamily="思源黑体" bold="false" strikethrough="false" underline="false">执行完回一个 OK 或当前状态，上位机才知道命令生效了，调起来省一半时间。</span></p>
+        </content>
+      </shape>
+      <shape width="378" height="230" topLeftX="510" topLeftY="112" presetHandlers="0" type="rect" id="bZd">
+        <fill>
+          <fillColor color="rgba(240, 240, 240, 1)"/>
+        </fill>
+        <border color="rgba(3, 72, 149, 1)" width="1" lineJoin="miter" miterLimit="10"/>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="354" height="212" topLeftX="522" topLeftY="120" type="text" id="bZy">
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="15" fontFamily="Consolas" color="rgba(31, 35, 41, 1)" bold="false" underline="false" strikethrough="false" lineSpacing="multiple:1.2" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(31, 35, 41, 1)" fontSize="15" fontFamily="Consolas" bold="false" strikethrough="false" underline="false">switch (buf[0]) {</span></p>
+          <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(31, 35, 41, 1)" fontSize="15" fontFamily="Consolas" bold="false" strikethrough="false" underline="false">case &apos;A&apos;: LED_ON(); break;</span></p>
+          <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(31, 35, 41, 1)" fontSize="15" fontFamily="Consolas" bold="false" strikethrough="false" underline="false">case &apos;B&apos;: LED_OFF(); break;</span></p>
+          <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(31, 35, 41, 1)" fontSize="15" fontFamily="Consolas" bold="false" strikethrough="false" underline="false">case &apos;P&apos;: duty = atoi((char *)&amp;buf[1]);</span></p>
+          <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(31, 35, 41, 1)" fontSize="15" fontFamily="Consolas" bold="false" strikethrough="false" underline="false">PWM_SET(duty); break;</span></p>
+          <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(31, 35, 41, 1)" fontSize="15" fontFamily="Consolas" bold="false" strikethrough="false" underline="false">}</span></p>
+          <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(140, 70, 190, 1)" fontSize="15" fontFamily="Consolas" bold="false" strikethrough="false" underline="false">UART_SEND(&quot;OK\r\n&quot;);</span></p>
+        </content>
+      </shape>
+      <shape width="817.58" height="34" topLeftX="62.42" topLeftY="372" presetHandlers="0" type="rect" id="bZU">
+        <fill>
+          <fillColor color="rgba(3, 72, 149, 1)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="14" paddingRight="14" fontSize="15" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" bold="false" underline="false" strikethrough="false" lineSpacing="multiple:1.2" textAlign="left" autoFit="shape-auto-fit">
+          <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(255, 255, 255, 1)" fontSize="15" fontFamily="思源黑体" bold="false" strikethrough="false" underline="false">命令表定清楚、解析只认第一个字符、每条都回话——串口就从调试口变成了控制口。</span></p>
+        </content>
+      </shape>
+    </data>
+    <note id="bZt">
+      <content>
+        <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(0, 0, 0, 1)" fontSize="12" fontFamily="等线" bold="false" italic="false" strikethrough="false" underline="false">到这一页，串口就不只是打印调试信息了，它成了你控制整台设备的入口。写命令解析的关键是先把命令表定下来再写代码，边写边改很容易写成一堆 if 嵌套。解析用 switch 判断第一个字符最省事，参数部分用 atoi 转换。这里要注意处理未知命令：如果收到一个没定义的字符，回一个 ERROR，而不是什么都不做，否则上位机不知道是没收到还是命令写错了。作业第一题要「发 A 回 1、发 B 回 0」，回值就是让上位机能确认——这个思路在考核里也会用到，因为考核要检查「有效操作后有反馈」。</span></p>
+      </content>
+    </note>
+  </slide>
+  <slide id="psB">
+    <style>
+      <fill id="fsB">
+        <fillColor color="rgba(255, 255, 255, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="141.1400787401575" height="116.8567716535433" topLeftX="0" topLeftY="0" path="M0,0 L141.1401,0 L0,116.8568 Z" type="custom" id="bXM">
+        <fill>
+          <fillColor color="rgba(3, 72, 149, 1)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" lineSpacing="multiple:1.2">
+          <p textAlign="center" lineSpacing="multiple:1.2"/>
+        </content>
+      </shape>
+      <shape width="18.444094488188977" height="82.79322834645669" topLeftX="28.568976377952744" topLeftY="-3.1153543307086977" rotation="141.9454" path="M0,82.7932 L0,5.548 L18.4441,0 L18.4441,82.7932 Z" type="custom" id="bXE">
+        <fill>
+          <fillColor color="rgba(0, 0, 238, 0.85)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" lineSpacing="multiple:1.2">
+          <p textAlign="center" lineSpacing="multiple:1.2"/>
+        </content>
+      </shape>
+      <shape width="12.148346456692913" height="8.965984251968504" topLeftX="43.633858267716526" topLeftY="68.02417322834646" rotation="355.5271666666667" path="M12.1368,8.9488 L12.1483,8.966 L12.1226,8.9659 Z M6.0884,0 L12.041,8.9655 L0,8.9116 Z" type="custom" id="bXv">
+        <fill>
+          <fillColor color="rgba(3, 72, 149, 1)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" lineSpacing="multiple:1.2">
+          <p textAlign="center" lineSpacing="multiple:1.2"/>
+        </content>
+      </shape>
+      <shape width="18.444094488188977" height="82.79322834645669" topLeftX="39.524488188976385" topLeftY="-18.838346456692904" rotation="141.9454" path="M0,82.7932 L0,5.548 L18.4441,0 L18.4441,82.7932 Z" type="custom" id="bXz">
+        <fill>
+          <fillColor color="rgba(0, 0, 238, 0.58)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" lineSpacing="multiple:1.2">
+          <p textAlign="center" lineSpacing="multiple:1.2"/>
+        </content>
+      </shape>
+      <shape width="141.1400787401575" height="116.8567716535433" topLeftX="831.0015748031499" topLeftY="411.00157480314954" rotation="270" path="M0,0 L141.1401,0 L0,116.8568 Z" flipY="true" type="custom" id="bXo">
+        <fill>
+          <fillColor color="rgba(240, 240, 240, 1)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" lineSpacing="multiple:1.2">
+          <p textAlign="center" lineSpacing="multiple:1.2"/>
+        </content>
+      </shape>
+      <shape width="63.02236220472441" height="201.64354330708662" topLeftX="889.9439370078744" topLeftY="241.31811023622072" rotation="218.7576833333333" path="M63.0223,0 L0,78.5026 L0,201.6435 L63.0224,149.364 Z" flipY="true" type="custom" id="bXA">
+        <fill>
+          <fillColor color="rgba(240, 240, 240, 1)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" lineSpacing="multiple:1.2">
+          <p textAlign="center" lineSpacing="multiple:1.2"/>
+        </content>
+      </shape>
+      <shape width="960" height="540" topLeftX="0" topLeftY="0" presetHandlers="0" type="rect" id="bXX">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" lineSpacing="multiple:1.2">
+          <p textAlign="center" lineSpacing="multiple:1.2"/>
+        </content>
+      </shape>
+      <img id="bXq" src="Hcg2brSTUohK5kxUpMmchnfcnqc" width="500.35716535433073" height="362.14283464566927" topLeftX="-13.928582677165366" topLeftY="78.94283464566928">
+        <crop leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0"/>
+      </img>
+      <shape width="165.23787401574802" height="851.5506299212599" topLeftX="473.352125984252" topLeftY="-247.114330708661" rotation="233.03654999999998" path="M165.2378,219.5693 L0,0 L0,851.5506 L165.2379,714.4792 Z" flipY="true" type="custom" id="bXH">
+        <fill>
+          <fillColor color="rgba(0, 171, 249, 1)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" lineSpacing="multiple:1.2">
+          <p textAlign="center" lineSpacing="multiple:1.2"/>
+        </content>
+      </shape>
+      <shape width="50.90850393700787" height="88.04307086614173" topLeftX="532.0896062992126" topLeftY="225.58086614173232" rotation="63.42366666666667" path="M34.77,0 L50.9085,88.0431 L0,88.0431 Z" type="custom" id="bXs">
+        <fill>
+          <fillColor color="rgba(3, 72, 149, 1)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" lineSpacing="multiple:1.2">
+          <p textAlign="center" lineSpacing="multiple:1.2"/>
+        </content>
+      </shape>
+      <shape width="338.83574803149605" height="466.18204724409446" topLeftX="252.7880314960629" topLeftY="312.1374803149606" rotation="53.98916666666668" path="M0,0 L338.8357,0.0001 L0,466.182 Z" type="custom" id="bXa">
+        <fill>
+          <fillColor color="rgba(4, 96, 199, 1)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" lineSpacing="multiple:1.2">
+          <p textAlign="center" lineSpacing="multiple:1.2"/>
+        </content>
+      </shape>
+      <shape width="80.78259842519685" height="416.3116535433071" topLeftX="860.5872440944879" topLeftY="79.19866141732314" rotation="233.03654999999998" path="M80.7826,107.3445 L0,0 L0,416.3117 L80.7826,349.2993 Z" flipY="true" type="custom" id="bXZ">
+        <fill>
+          <fillColor color="rgba(240, 240, 240, 1)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" lineSpacing="multiple:1.2">
+          <p textAlign="center" lineSpacing="multiple:1.2"/>
+        </content>
+      </shape>
+      <shape width="625.2566929133858" height="44.14787401574803" topLeftX="-379.9244094488189" topLeftY="419.81811023622055" rotation="180" path="M33.4626,0 L625.2567,0 L625.2567,44.1479 L0,44.1479 Z" flipY="true" type="custom" id="bXw">
+        <fill>
+          <fillColor color="rgba(240, 240, 240, 1)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" lineSpacing="multiple:1.2">
+          <p textAlign="center" lineSpacing="multiple:1.2"/>
+        </content>
+      </shape>
+      <shape width="175.71425196850393" height="54.64283464566929" topLeftX="-27.321417322834648" topLeftY="457.28574803149604" type="flow-chart-input-output" id="bXW">
+        <fill>
+          <fillColor color="rgba(0, 0, 0, 1)"/>
+        </fill>
+        <border width="1" lineJoin="miter"/>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" lineSpacing="multiple:1.2">
+          <p textAlign="center" lineSpacing="multiple:1.2"/>
+        </content>
+      </shape>
+      <shape width="625.2566929133858" height="44.14787401574803" topLeftX="-324.56732283464567" topLeftY="34.818110236220505" rotation="180" path="M33.4626,0 L625.2567,0 L625.2567,44.1479 L0,44.1479 Z" flipY="true" type="custom" id="bXl">
+        <fill>
+          <fillColor color="rgba(240, 240, 240, 1)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" lineSpacing="multiple:1.2">
+          <p textAlign="center" lineSpacing="multiple:1.2"/>
+        </content>
+      </shape>
+      <shape width="546.4285826771653" height="26.785748031496063" topLeftX="9.642834645669268" topLeftY="42.857165354330746" rotation="180" flipY="true" type="text" id="bXQ">
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="20" fontFamily="黑体" color="rgba(0, 0, 0, 1)" bold="true" italic="true" underline="false" strikethrough="false" lineSpacing="multiple:1.2" letterSpacing="1.1" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" letterSpacing="1.1"><strong><em><span color="rgba(0, 0, 0, 1)" fontSize="20" fontFamily="黑体" strikethrough="false" underline="false" letterSpacing="1.1">『生无所息，斗无所止』</span></em></strong></p>
+        </content>
+      </shape>
+      <shape width="473.2" height="193.87503937007875" topLeftX="328.2166141732283" topLeftY="112.63984251968498" rotation="322.25576666666666" type="text" id="bXp">
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="锐字真言体免费商用" color="rgba(255, 255, 255, 1)" bold="true" italic="true" underline="false" strikethrough="false" lineSpacing="multiple:1.2" textAlign="left" autoFit="shape-auto-fit">
+          <p textAlign="left" lineSpacing="multiple:1.2"><strong><em><span color="rgba(255, 255, 255, 1)" fontSize="66" fontFamily="锐字真言体免费商用" strikethrough="false" underline="false">04</span></em></strong><strong><em><span color="rgba(255, 255, 255, 1)" fontSize="36" fontFamily="锐字真言体免费商用" strikethrough="false" underline="false">OLED 显示</span></em></strong></p>
+          <p textAlign="left" lineSpacing="multiple:1.2"/>
+          <p textAlign="left" lineSpacing="multiple:1.2"/>
+        </content>
+      </shape>
+    </data>
+    <note id="bXV">
+      <content>
+        <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(0, 0, 0, 1)" fontSize="12" fontFamily="等线" bold="false" italic="false" strikethrough="false" underline="false">最后一部分让系统会说话。OLED 用两根线通信，初始化之后就能在上面写字。把灯的开关状态、当前的频率和占空比显示上去，调试的时候不用再开电脑，看一眼屏幕就知道系统在干什么。</span></p>
+      </content>
+    </note>
+  </slide>
+  <slide id="psq">
+    <style/>
+    <data>
+      <shape width="141.1400787401575" height="116.8567716535433" topLeftX="0" topLeftY="0" path="M0,0 L141.1401,0 L0,116.8568 Z" type="custom" id="bXK">
+        <fill>
+          <fillColor color="rgba(3, 72, 149, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="18.444094488188977" height="82.79322834645669" topLeftX="28.568976377952744" topLeftY="-3.1153543307086977" rotation="141.9454" path="M0,82.7932 L0,5.548 L18.4441,0 L18.4441,82.7932 Z" type="custom" id="bXu">
+        <fill>
+          <fillColor color="rgba(0, 0, 238, 0.85)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="18.444094488188977" height="82.79322834645669" topLeftX="39.524488188976385" topLeftY="-18.838346456692904" rotation="141.9454" path="M0,82.7932 L0,5.548 L18.4441,0 L18.4441,82.7932 Z" type="custom" id="bXb">
+        <fill>
+          <fillColor color="rgba(0, 0, 238, 0.58)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="141.1400787401575" height="116.8567716535433" topLeftX="831.0015748031499" topLeftY="411.00157480314954" rotation="270" path="M0,0 L141.1401,0 L0,116.8568 Z" flipY="true" type="custom" id="bXI">
+        <fill>
+          <fillColor color="rgba(240, 240, 240, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="63.02236220472441" height="201.64354330708662" topLeftX="889.9439370078744" topLeftY="241.31811023622072" rotation="218.7576833333333" path="M63.0223,0 L0,78.5026 L0,201.6435 L63.0224,149.364 Z" flipY="true" type="custom" id="bXr">
+        <fill>
+          <fillColor color="rgba(240, 240, 240, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="21.767244094488188" height="18.764881889763778" topLeftX="924.6477952755905" topLeftY="61.56204724409457" rotation="343.3178" presetHandlers="50000" type="triangle" id="bXC">
+        <fill>
+          <fillColor color="rgba(0, 0, 238, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="625.2566929133858" height="44.14787401574803" topLeftX="673.7879527559055" topLeftY="43.19409448818897" path="M33.4626,0 L625.2567,0 L625.2567,44.1479 L0,44.1479 Z" type="custom" id="bXe">
+        <fill>
+          <fillColor color="rgba(240, 240, 240, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <img id="bXG" src="Cw90brZa4onf5uxgsvOc5vj0ncf" width="44.14787401574803" height="44.14787401574803" topLeftX="890.4203937007874" topLeftY="43.1940157480315">
+        <crop leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0"/>
+      </img>
+      <shape width="160" height="32" topLeftX="705.6155118110237" topLeftY="48" type="text" id="bXd">
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="14" fontFamily="思源黑体" color="rgba(0, 0, 0, 1)" bold="false" italic="true" underline="false" strikethrough="false" lineSpacing="multiple:1.2" letterSpacing="1.1" textAlign="left" wrap="false">
+          <p textAlign="left" lineSpacing="multiple:1.2" letterSpacing="1.1"><em><span color="rgba(0, 0, 0, 1)" fontSize="14" fontFamily="思源黑体" bold="false" strikethrough="false" underline="false" letterSpacing="1.1">哈理工A.I.R.创新实验室</span></em></p>
+        </content>
+      </shape>
+      <shape width="66.94629921259842" height="50.8" topLeftX="33.25511811023622" topLeftY="15.769133858267715" type="text" id="bXS">
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="36" fontFamily="锐字真言体免费商用" color="rgba(255, 255, 255, 1)" bold="true" italic="true" underline="false" strikethrough="false" lineSpacing="multiple:1.2" textAlign="left" autoFit="shape-auto-fit">
+          <p textAlign="left" lineSpacing="multiple:1.2"><strong><em><span color="rgba(255, 255, 255, 1)" fontSize="36" fontFamily="锐字真言体免费商用" strikethrough="false" underline="false">13</span></em></strong></p>
+        </content>
+      </shape>
+      <shape width="560" height="36.25" topLeftX="110.86724409448817" topLeftY="33.10251968503937" type="text" id="bXf">
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="24" fontFamily="思源黑体" color="rgba(3, 72, 149, 1)" bold="true" italic="true" underline="false" strikethrough="false" lineSpacing="multiple:1.2" textAlign="left" autoFit="shape-auto-fit">
+          <p textAlign="left" lineSpacing="multiple:1.2"><strong><em><span color="rgba(3, 72, 149, 1)" fontSize="24" fontFamily="思源黑体" strikethrough="false" underline="false">OLED：把系统状态搬到屏幕上</span></em></strong></p>
+        </content>
+      </shape>
+      <shape width="430" height="66" topLeftX="62.42" topLeftY="124" type="text" id="bXN">
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" underline="false" strikethrough="false" lineSpacing="multiple:1.2" textAlign="left" autoFit="shape-auto-fit">
+          <p textAlign="left" lineSpacing="multiple:1.2"><strong><span color="rgba(3, 72, 149, 1)" fontSize="17" fontFamily="思源黑体" strikethrough="false" underline="false">① 两根线：SCL 和 SDA</span></strong></p>
+          <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(31, 35, 41, 1)" fontSize="15" fontFamily="思源黑体" bold="false" strikethrough="false" underline="false">OLED 走 I2C，时钟线上拉后接 SCL，数据线接 SDA，供电接 3.3V；CubeMX 里开 I2C1 即可。</span></p>
+        </content>
+      </shape>
+      <shape width="430" height="66" topLeftX="62.42" topLeftY="194" type="text" id="bXn">
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" underline="false" strikethrough="false" lineSpacing="multiple:1.2" textAlign="left" autoFit="shape-auto-fit">
+          <p textAlign="left" lineSpacing="multiple:1.2"><strong><span color="rgba(3, 72, 149, 1)" fontSize="17" fontFamily="思源黑体" strikethrough="false" underline="false">② 初始化一次，然后清屏</span></strong></p>
+          <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(31, 35, 41, 1)" fontSize="15" fontFamily="思源黑体" bold="false" strikethrough="false" underline="false">上电只做一次初始化，接着清屏；之后就能按坐标往指定位置写字。</span></p>
+        </content>
+      </shape>
+      <shape width="430" height="66" topLeftX="62.42" topLeftY="264" type="text" id="bXT">
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" underline="false" strikethrough="false" lineSpacing="multiple:1.2" textAlign="left" autoFit="shape-auto-fit">
+          <p textAlign="left" lineSpacing="multiple:1.2"><strong><span color="rgba(3, 72, 149, 1)" fontSize="17" fontFamily="思源黑体" strikethrough="false" underline="false">③ 显示什么：挑最关键的几项</span></strong></p>
+          <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(31, 35, 41, 1)" fontSize="15" fontFamily="思源黑体" bold="false" strikethrough="false" underline="false">灯的开关、当前占空比、舵机角度；数字先用 sprintf 转成字符串再显示。</span></p>
+        </content>
+      </shape>
+      <shape width="378" height="230" topLeftX="510" topLeftY="112" presetHandlers="0" type="rect" id="bXB">
+        <fill>
+          <fillColor color="rgba(240, 240, 240, 1)"/>
+        </fill>
+        <border color="rgba(3, 72, 149, 1)" width="1" lineJoin="miter" miterLimit="10"/>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="354" height="212" topLeftX="522" topLeftY="120" type="text" id="bXg">
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="15" fontFamily="Consolas" color="rgba(31, 35, 41, 1)" bold="false" underline="false" strikethrough="false" lineSpacing="multiple:1.2" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(140, 70, 190, 1)" fontSize="15" fontFamily="Consolas" bold="false" strikethrough="false" underline="false">OLED_Init();</span></p>
+          <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(140, 70, 190, 1)" fontSize="15" fontFamily="Consolas" bold="false" strikethrough="false" underline="false">OLED_Clear();</span></p>
+          <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(31, 35, 41, 1)" fontSize="15" fontFamily="Consolas" bold="false" strikethrough="false" underline="false">char line[20];</span></p>
+          <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(140, 70, 190, 1)" fontSize="15" fontFamily="Consolas" bold="false" strikethrough="false" underline="false">sprintf(line, &quot;LED:%s&quot;, on ? &quot;ON &quot; : &quot;OFF&quot;);</span></p>
+          <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(140, 70, 190, 1)" fontSize="15" fontFamily="Consolas" bold="false" strikethrough="false" underline="false">OLED_ShowString(0, 0, (uint8_t *)line, 16);</span></p>
+          <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(140, 70, 190, 1)" fontSize="15" fontFamily="Consolas" bold="false" strikethrough="false" underline="false">sprintf(line, &quot;duty=%d&quot;, duty);</span></p>
+          <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(140, 70, 190, 1)" fontSize="15" fontFamily="Consolas" bold="false" strikethrough="false" underline="false">OLED_ShowString(0, 2, (uint8_t *)line, 16);</span></p>
+        </content>
+      </shape>
+      <shape width="817.58" height="34" topLeftX="62.42" topLeftY="372" presetHandlers="0" type="rect" id="bXk">
+        <fill>
+          <fillColor color="rgba(3, 72, 149, 1)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="14" paddingRight="14" fontSize="15" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" bold="false" underline="false" strikethrough="false" lineSpacing="multiple:1.2" textAlign="left" autoFit="shape-auto-fit">
+          <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(255, 255, 255, 1)" fontSize="15" fontFamily="思源黑体" bold="false" strikethrough="false" underline="false">OLED 是你自己给自己的调试窗口：初始化一次，之后想写哪就写哪。</span></p>
+        </content>
+      </shape>
+    </data>
+    <note id="bXx">
+      <content>
+        <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(0, 0, 0, 1)" fontSize="12" fontFamily="等线" bold="false" italic="false" strikethrough="false" underline="false">OLED 用的是 I2C，两条信号线加上电源，接线比并口屏简单得多。代码部分通常直接用现成的驱动库，你要做的是三件事：上电初始化一次并清屏、把要显示的数字用 sprintf 转成字符串、再按行列坐标写上去。第 0 行显示灯的开关状态，第 2 行显示占空比，这样调试时不用再开电脑，一眼就知道系统在什么状态。注意 sprintf 的目标数组要有足够空间，显示字符串长度别超过屏幕宽度，一屏一般放得下 16 个字符。第四题是课后自己扩展 OLED 的用法，比如加一行显示舵机角度或者运行时间。</span></p>
+      </content>
+    </note>
+  </slide>
+  <slide id="psk">
+    <style/>
+    <data>
+      <shape width="141.1400787401575" height="116.8567716535433" topLeftX="0" topLeftY="0" path="M0,0 L141.1401,0 L0,116.8568 Z" type="custom" id="bvs">
+        <fill>
+          <fillColor color="rgba(3, 72, 149, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="18.444094488188977" height="82.79322834645669" topLeftX="28.568976377952744" topLeftY="-3.1153543307086977" rotation="141.9454" path="M0,82.7932 L0,5.548 L18.4441,0 L18.4441,82.7932 Z" type="custom" id="bXc">
+        <fill>
+          <fillColor color="rgba(0, 0, 238, 0.85)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="18.444094488188977" height="82.79322834645669" topLeftX="39.524488188976385" topLeftY="-18.838346456692904" rotation="141.9454" path="M0,82.7932 L0,5.548 L18.4441,0 L18.4441,82.7932 Z" type="custom" id="bXU">
+        <fill>
+          <fillColor color="rgba(0, 0, 238, 0.58)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="141.1400787401575" height="116.8567716535433" topLeftX="831.0015748031499" topLeftY="411.00157480314954" rotation="270" path="M0,0 L141.1401,0 L0,116.8568 Z" flipY="true" type="custom" id="bXj">
+        <fill>
+          <fillColor color="rgba(240, 240, 240, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="63.02236220472441" height="201.64354330708662" topLeftX="889.9439370078744" topLeftY="241.31811023622072" rotation="218.7576833333333" path="M63.0223,0 L0,78.5026 L0,201.6435 L63.0224,149.364 Z" flipY="true" type="custom" id="bXY">
+        <fill>
+          <fillColor color="rgba(240, 240, 240, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="21.767244094488188" height="18.764881889763778" topLeftX="924.6477952755905" topLeftY="61.56204724409457" rotation="343.3178" presetHandlers="50000" type="triangle" id="bvV">
+        <fill>
+          <fillColor color="rgba(0, 0, 238, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="625.2566929133858" height="44.14787401574803" topLeftX="673.7879527559055" topLeftY="43.19409448818897" path="M33.4626,0 L625.2567,0 L625.2567,44.1479 L0,44.1479 Z" type="custom" id="bXR">
+        <fill>
+          <fillColor color="rgba(240, 240, 240, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <img id="bXm" src="Cw90brZa4onf5uxgsvOc5vj0ncf" width="44.14787401574803" height="44.14787401574803" topLeftX="890.4203937007874" topLeftY="43.1940157480315">
+        <crop leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0"/>
+      </img>
+      <shape width="160" height="32" topLeftX="705.6155118110237" topLeftY="48" type="text" id="bXt">
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="14" fontFamily="思源黑体" color="rgba(0, 0, 0, 1)" bold="false" italic="true" underline="false" strikethrough="false" lineSpacing="multiple:1.2" letterSpacing="1.1" textAlign="left" wrap="false">
+          <p textAlign="left" lineSpacing="multiple:1.2" letterSpacing="1.1"><em><span color="rgba(0, 0, 0, 1)" fontSize="14" fontFamily="思源黑体" bold="false" strikethrough="false" underline="false" letterSpacing="1.1">哈理工A.I.R.创新实验室</span></em></p>
+        </content>
+      </shape>
+      <shape width="66.94629921259842" height="50.8" topLeftX="33.25511811023622" topLeftY="15.769133858267715" type="text" id="bXh">
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="36" fontFamily="锐字真言体免费商用" color="rgba(255, 255, 255, 1)" bold="true" italic="true" underline="false" strikethrough="false" lineSpacing="multiple:1.2" textAlign="left" autoFit="shape-auto-fit">
+          <p textAlign="left" lineSpacing="multiple:1.2"><strong><em><span color="rgba(255, 255, 255, 1)" fontSize="36" fontFamily="锐字真言体免费商用" strikethrough="false" underline="false">14</span></em></strong></p>
+        </content>
+      </shape>
+      <shape width="560" height="36.25" topLeftX="110.86724409448817" topLeftY="33.10251968503937" type="text" id="bvz">
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="24" fontFamily="思源黑体" color="rgba(3, 72, 149, 1)" bold="true" italic="true" underline="false" strikethrough="false" lineSpacing="multiple:1.2" textAlign="left" autoFit="shape-auto-fit">
+          <p textAlign="left" lineSpacing="multiple:1.2"><strong><em><span color="rgba(3, 72, 149, 1)" fontSize="24" fontFamily="思源黑体" strikethrough="false" underline="false">课后作业 5：串口与 OLED</span></em></strong></p>
+        </content>
+      </shape>
+      <shape width="56" height="40" topLeftX="62.42" topLeftY="132" presetHandlers="0" type="rect" id="bXF">
+        <fill>
+          <fillColor color="rgba(240, 240, 240, 1)"/>
+        </fill>
+        <border color="rgba(3, 72, 149, 1)" width="1" lineJoin="miter" miterLimit="10"/>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="28" fontFamily="锐字真言体免费商用" color="rgba(3, 72, 149, 1)" bold="true" italic="true" underline="false" strikethrough="false" lineSpacing="multiple:1.2">
+          <p textAlign="center" lineSpacing="multiple:1.2"><strong><em><span color="rgba(3, 72, 149, 1)" fontSize="28" fontFamily="锐字真言体免费商用" strikethrough="false" underline="false">01</span></em></strong></p>
+        </content>
+      </shape>
+      <shape width="752" height="64" topLeftX="124" topLeftY="132" type="text" id="bXP">
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" underline="false" strikethrough="false" lineSpacing="multiple:1.2" textAlign="left" autoFit="shape-auto-fit">
+          <p textAlign="left" lineSpacing="multiple:1.2"><strong><span color="rgba(3, 72, 149, 1)" fontSize="17" fontFamily="思源黑体" strikethrough="false" underline="false">串口点灯：发 A 灯亮回 1，发 B 灯灭回 0</span></strong></p>
+          <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(31, 35, 41, 1)" fontSize="15" fontFamily="思源黑体" bold="false" strikethrough="false" underline="false">先在 main 里轮询接收，把「收命令 → 执行 → 回值」这条链路跑通。</span></p>
+        </content>
+      </shape>
+      <shape width="56" height="40" topLeftX="62.42" topLeftY="212" presetHandlers="0" type="rect" id="bXL">
+        <fill>
+          <fillColor color="rgba(240, 240, 240, 1)"/>
+        </fill>
+        <border color="rgba(3, 72, 149, 1)" width="1" lineJoin="miter" miterLimit="10"/>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="28" fontFamily="锐字真言体免费商用" color="rgba(3, 72, 149, 1)" bold="true" italic="true" underline="false" strikethrough="false" lineSpacing="multiple:1.2">
+          <p textAlign="center" lineSpacing="multiple:1.2"><strong><em><span color="rgba(3, 72, 149, 1)" fontSize="28" fontFamily="锐字真言体免费商用" strikethrough="false" underline="false">02</span></em></strong></p>
+        </content>
+      </shape>
+      <shape width="752" height="64" topLeftX="124" topLeftY="212" type="text" id="bXO">
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" underline="false" strikethrough="false" lineSpacing="multiple:1.2" textAlign="left" autoFit="shape-auto-fit">
+          <p textAlign="left" lineSpacing="multiple:1.2"><strong><span color="rgba(3, 72, 149, 1)" fontSize="17" fontFamily="思源黑体" strikethrough="false" underline="false">用接收中断重做任务 1</span></strong></p>
+          <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(31, 35, 41, 1)" fontSize="15" fontFamily="思源黑体" bold="false" strikethrough="false" underline="false">换成中断接收，回调里攒够一句再解析；注意处理缓冲区越界和收完再开。</span></p>
+        </content>
+      </shape>
+      <shape width="56" height="40" topLeftX="62.42" topLeftY="292" presetHandlers="0" type="rect" id="bvH">
+        <fill>
+          <fillColor color="rgba(240, 240, 240, 1)"/>
+        </fill>
+        <border color="rgba(3, 72, 149, 1)" width="1" lineJoin="miter" miterLimit="10"/>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="28" fontFamily="锐字真言体免费商用" color="rgba(3, 72, 149, 1)" bold="true" italic="true" underline="false" strikethrough="false" lineSpacing="multiple:1.2">
+          <p textAlign="center" lineSpacing="multiple:1.2"><strong><em><span color="rgba(3, 72, 149, 1)" fontSize="28" fontFamily="锐字真言体免费商用" strikethrough="false" underline="false">03</span></em></strong></p>
+        </content>
+      </shape>
+      <shape width="752" height="64" topLeftX="124" topLeftY="292" type="text" id="bXy">
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" underline="false" strikethrough="false" lineSpacing="multiple:1.2" textAlign="left" autoFit="shape-auto-fit">
+          <p textAlign="left" lineSpacing="multiple:1.2"><strong><span color="rgba(3, 72, 149, 1)" fontSize="17" fontFamily="思源黑体" strikethrough="false" underline="false">OLED 显示小灯状态</span></strong></p>
+          <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(31, 35, 41, 1)" fontSize="15" fontFamily="思源黑体" bold="false" strikethrough="false" underline="false">把灯的开关状态显示在屏幕上，命令生效后屏幕要跟着变。</span></p>
+        </content>
+      </shape>
+      <shape width="56" height="40" topLeftX="62.42" topLeftY="372" presetHandlers="0" type="rect" id="bXJ">
+        <fill>
+          <fillColor color="rgba(240, 240, 240, 1)"/>
+        </fill>
+        <border color="rgba(3, 72, 149, 1)" width="1" lineJoin="miter" miterLimit="10"/>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="28" fontFamily="锐字真言体免费商用" color="rgba(3, 72, 149, 1)" bold="true" italic="true" underline="false" strikethrough="false" lineSpacing="multiple:1.2">
+          <p textAlign="center" lineSpacing="multiple:1.2"><strong><em><span color="rgba(3, 72, 149, 1)" fontSize="28" fontFamily="锐字真言体免费商用" strikethrough="false" underline="false">04</span></em></strong></p>
+        </content>
+      </shape>
+      <shape width="752" height="64" topLeftX="124" topLeftY="372" type="text" id="bXi">
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" underline="false" strikethrough="false" lineSpacing="multiple:1.2" textAlign="left" autoFit="shape-auto-fit">
+          <p textAlign="left" lineSpacing="multiple:1.2"><strong><span color="rgba(3, 72, 149, 1)" fontSize="17" fontFamily="思源黑体" strikethrough="false" underline="false">课余：了解 UART 的其他用法</span></strong></p>
+          <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(31, 35, 41, 1)" fontSize="15" fontFamily="思源黑体" bold="false" strikethrough="false" underline="false">DMA 收发、空闲中断、printf 重定向、多串口；挑一两个试试，下一阶段会用到。</span></p>
+        </content>
+      </shape>
+      <shape width="817.58" height="34" topLeftX="62.42" topLeftY="456" presetHandlers="0" type="rect" id="bXD">
+        <fill>
+          <fillColor color="rgba(3, 72, 149, 1)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="14" paddingRight="14" fontSize="15" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" bold="false" underline="false" strikethrough="false" lineSpacing="multiple:1.2" textAlign="left" autoFit="shape-auto-fit">
+          <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(255, 255, 255, 1)" fontSize="15" fontFamily="思源黑体" bold="false" strikethrough="false" underline="false">四题把串口收发、中断接收和 OLED 串成一套；第 11 周考核里这几样都要用上。</span></p>
+        </content>
+      </shape>
+    </data>
+    <note id="bvW">
+      <content>
+        <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(0, 0, 0, 1)" fontSize="12" fontFamily="等线" bold="false" italic="false" strikethrough="false" underline="false">这是本阶段的最后一次作业，四道题有先后关系：第一题先把命令链路跑通，用轮询就够了；第二题再换成中断接收，体会两种做法的差别；第三题加 OLED，把状态显示出来；第四题是课余扩展，DMA 和空闲中断都值得看一眼，考核的时候处理一长串数据会轻松很多。第一题要求的回值（发 A 回 1、发 B 回 0）看起来多余，其实这就是「有反馈」的习惯，考核里也会检查。交作业还是老规矩：代码注释统一 UTF-8，演示视频和代码放同一个压缩包，命名按班级加姓名加第几次任务，十一月之前交齐。</span></p>
+      </content>
+    </note>
+  </slide>
+  <slide id="psN">
+    <style/>
+    <data>
+      <shape width="141.1400787401575" height="116.8567716535433" topLeftX="0" topLeftY="0" path="M0,0 L141.1401,0 L0,116.8568 Z" type="custom" id="bvJ">
+        <fill>
+          <fillColor color="rgba(3, 72, 149, 1)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" lineSpacing="multiple:1.2">
+          <p textAlign="center" lineSpacing="multiple:1.2"/>
+        </content>
+      </shape>
+      <shape width="18.444094488188977" height="82.79322834645669" topLeftX="28.568976377952744" topLeftY="-3.1153543307086977" rotation="141.9454" path="M0,82.7932 L0,5.548 L18.4441,0 L18.4441,82.7932 Z" type="custom" id="bvi">
+        <fill>
+          <fillColor color="rgba(0, 0, 238, 0.85)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" lineSpacing="multiple:1.2">
+          <p textAlign="center" lineSpacing="multiple:1.2"/>
+        </content>
+      </shape>
+      <shape width="18.444094488188977" height="82.79322834645669" topLeftX="39.524488188976385" topLeftY="-18.838346456692904" rotation="141.9454" path="M0,82.7932 L0,5.548 L18.4441,0 L18.4441,82.7932 Z" type="custom" id="bvf">
+        <fill>
+          <fillColor color="rgba(0, 0, 238, 0.58)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" lineSpacing="multiple:1.2">
+          <p textAlign="center" lineSpacing="multiple:1.2"/>
+        </content>
+      </shape>
+      <shape width="141.1400787401575" height="116.8567716535433" topLeftX="831.0015748031499" topLeftY="411.00157480314954" rotation="270" path="M0,0 L141.1401,0 L0,116.8568 Z" flipY="true" type="custom" id="bvN">
+        <fill>
+          <fillColor color="rgba(240, 240, 240, 1)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" lineSpacing="multiple:1.2">
+          <p textAlign="center" lineSpacing="multiple:1.2"/>
+        </content>
+      </shape>
+      <shape width="63.02236220472441" height="201.64354330708662" topLeftX="889.9439370078744" topLeftY="241.31811023622072" rotation="218.7576833333333" path="M63.0223,0 L0,78.5026 L0,201.6435 L63.0224,149.364 Z" flipY="true" type="custom" id="bvn">
+        <fill>
+          <fillColor color="rgba(240, 240, 240, 1)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" lineSpacing="multiple:1.2">
+          <p textAlign="center" lineSpacing="multiple:1.2"/>
+        </content>
+      </shape>
+      <shape width="21.767244094488188" height="18.764881889763778" topLeftX="924.6477952755905" topLeftY="61.56204724409457" rotation="343.3178" presetHandlers="50000" type="triangle" id="bvR">
+        <fill>
+          <fillColor color="rgba(0, 0, 238, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <shape width="625.2566929133858" height="44.14787401574803" topLeftX="673.7879527559055" topLeftY="43.19409448818897" path="M33.4626,0 L625.2567,0 L625.2567,44.1479 L0,44.1479 Z" type="custom" id="bvP">
+        <fill>
+          <fillColor color="rgba(240, 240, 240, 1)"/>
+        </fill>
+        <content fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)"/>
+      </shape>
+      <img id="bvL" src="Cw90brZa4onf5uxgsvOc5vj0ncf" width="44.14787401574803" height="44.14787401574803" topLeftX="890.4203937007874" topLeftY="43.1940157480315">
+        <crop leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0"/>
+      </img>
+      <shape width="160" height="32" topLeftX="705.6155118110237" topLeftY="48" type="text" id="bvB">
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="14" fontFamily="思源黑体" color="rgba(0, 0, 0, 1)" bold="false" italic="true" underline="false" strikethrough="false" lineSpacing="multiple:1.2" letterSpacing="1.1" textAlign="left" wrap="false">
+          <p textAlign="left" lineSpacing="multiple:1.2" letterSpacing="1.1"><em><span color="rgba(0, 0, 0, 1)" fontSize="14" fontFamily="思源黑体" bold="false" strikethrough="false" underline="false" letterSpacing="1.1">哈理工A.I.R.创新实验室</span></em></p>
+        </content>
+      </shape>
+      <shape width="66.94629921259842" height="50.8" topLeftX="33.25511811023622" topLeftY="15.769133858267715" type="text" id="bvg">
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="36" fontFamily="锐字真言体免费商用" color="rgba(255, 255, 255, 1)" bold="true" italic="true" underline="false" strikethrough="false" lineSpacing="multiple:1.2" textAlign="left" autoFit="shape-auto-fit">
+          <p textAlign="left" lineSpacing="multiple:1.2"><strong><em><span color="rgba(255, 255, 255, 1)" fontSize="36" fontFamily="锐字真言体免费商用" strikethrough="false" underline="false">15</span></em></strong></p>
+        </content>
+      </shape>
+      <shape width="560" height="36.25" topLeftX="110.86724409448817" topLeftY="33.10251968503937" type="text" id="bvk">
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="24" fontFamily="思源黑体" color="rgba(3, 72, 149, 1)" bold="true" italic="true" underline="false" strikethrough="false" lineSpacing="multiple:1.2" textAlign="left" autoFit="shape-auto-fit">
+          <p textAlign="left" lineSpacing="multiple:1.2"><strong><em><span color="rgba(3, 72, 149, 1)" fontSize="24" fontFamily="思源黑体" strikethrough="false" underline="false">交作业：比代码更容易丢分的地方</span></em></strong></p>
+        </content>
+      </shape>
+      <shape width="56" height="38" topLeftX="62.42" topLeftY="118" presetHandlers="0" type="rect" id="bvc">
+        <fill>
+          <fillColor color="rgba(240, 240, 240, 1)"/>
+        </fill>
+        <border color="rgba(3, 72, 149, 1)" width="1" lineJoin="miter" miterLimit="10"/>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="28" fontFamily="锐字真言体免费商用" color="rgba(3, 72, 149, 1)" bold="true" italic="true" underline="false" strikethrough="false" lineSpacing="multiple:1.2">
+          <p textAlign="center" lineSpacing="multiple:1.2"><strong><em><span color="rgba(3, 72, 149, 1)" fontSize="28" fontFamily="锐字真言体免费商用" strikethrough="false" underline="false">01</span></em></strong></p>
+        </content>
+      </shape>
+      <shape width="758" height="38" topLeftX="124" topLeftY="118" type="text" id="bvm">
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="15" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" underline="false" strikethrough="false" lineSpacing="multiple:1.2" textAlign="left" autoFit="shape-auto-fit">
+          <p textAlign="left" lineSpacing="multiple:1.2"><strong><span color="rgba(31, 35, 41, 1)" fontSize="15" fontFamily="思源黑体" strikethrough="false" underline="false">代码注释必须统一 UTF-8</span></strong><span color="rgba(31, 35, 41, 1)" fontSize="15" fontFamily="思源黑体" bold="false" strikethrough="false" underline="false">；交上来打不开、或者注释是乱码的，按未提交处理。</span></p>
+        </content>
+      </shape>
+      <shape width="56" height="38" topLeftX="62.42" topLeftY="160" presetHandlers="0" type="rect" id="bvu">
+        <fill>
+          <fillColor color="rgba(240, 240, 240, 1)"/>
+        </fill>
+        <border color="rgba(3, 72, 149, 1)" width="1" lineJoin="miter" miterLimit="10"/>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="28" fontFamily="锐字真言体免费商用" color="rgba(3, 72, 149, 1)" bold="true" italic="true" underline="false" strikethrough="false" lineSpacing="multiple:1.2">
+          <p textAlign="center" lineSpacing="multiple:1.2"><strong><em><span color="rgba(3, 72, 149, 1)" fontSize="28" fontFamily="锐字真言体免费商用" strikethrough="false" underline="false">02</span></em></strong></p>
+        </content>
+      </shape>
+      <shape width="758" height="38" topLeftX="124" topLeftY="160" type="text" id="bvb">
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="15" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" underline="false" strikethrough="false" lineSpacing="multiple:1.2" textAlign="left" autoFit="shape-auto-fit">
+          <p textAlign="left" lineSpacing="multiple:1.2"><strong><span color="rgba(31, 35, 41, 1)" fontSize="15" fontFamily="思源黑体" strikethrough="false" underline="false">演示视频、代码和其他材料放在同一个压缩包里</span></strong><span color="rgba(31, 35, 41, 1)" fontSize="15" fontFamily="思源黑体" bold="false" strikethrough="false" underline="false">，不要拆成几个文件分开发。</span></p>
+        </content>
+      </shape>
+      <shape width="56" height="38" topLeftX="62.42" topLeftY="202" presetHandlers="0" type="rect" id="bvI">
+        <fill>
+          <fillColor color="rgba(240, 240, 240, 1)"/>
+        </fill>
+        <border color="rgba(3, 72, 149, 1)" width="1" lineJoin="miter" miterLimit="10"/>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="28" fontFamily="锐字真言体免费商用" color="rgba(3, 72, 149, 1)" bold="true" italic="true" underline="false" strikethrough="false" lineSpacing="multiple:1.2">
+          <p textAlign="center" lineSpacing="multiple:1.2"><strong><em><span color="rgba(3, 72, 149, 1)" fontSize="28" fontFamily="锐字真言体免费商用" strikethrough="false" underline="false">03</span></em></strong></p>
+        </content>
+      </shape>
+      <shape width="758" height="38" topLeftX="124" topLeftY="202" type="text" id="bvd">
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="15" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" underline="false" strikethrough="false" lineSpacing="multiple:1.2" textAlign="left" autoFit="shape-auto-fit">
+          <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(31, 35, 41, 1)" fontSize="15" fontFamily="思源黑体" bold="false" strikethrough="false" underline="false">压缩包命名格式：</span><strong><span color="rgba(31, 35, 41, 1)" fontSize="15" fontFamily="思源黑体" strikethrough="false" underline="false">班级+姓名+第几次任务</span></strong><span color="rgba(31, 35, 41, 1)" fontSize="15" fontFamily="思源黑体" bold="false" strikethrough="false" underline="false">，例如「电气26-5班+李华+第一次任务.zip」。</span></p>
+        </content>
+      </shape>
+      <shape width="56" height="38" topLeftX="62.42" topLeftY="244" presetHandlers="0" type="rect" id="bvy">
+        <fill>
+          <fillColor color="rgba(240, 240, 240, 1)"/>
+        </fill>
+        <border color="rgba(3, 72, 149, 1)" width="1" lineJoin="miter" miterLimit="10"/>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="28" fontFamily="锐字真言体免费商用" color="rgba(3, 72, 149, 1)" bold="true" italic="true" underline="false" strikethrough="false" lineSpacing="multiple:1.2">
+          <p textAlign="center" lineSpacing="multiple:1.2"><strong><em><span color="rgba(3, 72, 149, 1)" fontSize="28" fontFamily="锐字真言体免费商用" strikethrough="false" underline="false">04</span></em></strong></p>
+        </content>
+      </shape>
+      <shape width="758" height="38" topLeftX="124" topLeftY="244" type="text" id="bvU">
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="15" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" underline="false" strikethrough="false" lineSpacing="multiple:1.2" textAlign="left" autoFit="shape-auto-fit">
+          <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(31, 35, 41, 1)" fontSize="15" fontFamily="思源黑体" bold="false" strikethrough="false" underline="false">发到指定邮箱，</span><strong><span color="rgba(31, 35, 41, 1)" fontSize="15" fontFamily="思源黑体" strikethrough="false" underline="false">邮件主题与压缩包同名</span></strong><span color="rgba(31, 35, 41, 1)" fontSize="15" fontFamily="思源黑体" bold="false" strikethrough="false" underline="false">，压缩包作为附件上传，不要用网盘链接。</span></p>
+        </content>
+      </shape>
+      <shape width="56" height="38" topLeftX="62.42" topLeftY="286" presetHandlers="0" type="rect" id="bvC">
+        <fill>
+          <fillColor color="rgba(240, 240, 240, 1)"/>
+        </fill>
+        <border color="rgba(3, 72, 149, 1)" width="1" lineJoin="miter" miterLimit="10"/>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="28" fontFamily="锐字真言体免费商用" color="rgba(3, 72, 149, 1)" bold="true" italic="true" underline="false" strikethrough="false" lineSpacing="multiple:1.2">
+          <p textAlign="center" lineSpacing="multiple:1.2"><strong><em><span color="rgba(3, 72, 149, 1)" fontSize="28" fontFamily="锐字真言体免费商用" strikethrough="false" underline="false">05</span></em></strong></p>
+        </content>
+      </shape>
+      <shape width="758" height="38" topLeftX="124" topLeftY="286" type="text" id="bve">
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="15" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" underline="false" strikethrough="false" lineSpacing="multiple:1.2" textAlign="left" autoFit="shape-auto-fit">
+          <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(31, 35, 41, 1)" fontSize="15" fontFamily="思源黑体" bold="false" strikethrough="false" underline="false">不强制每周内完成，但</span><strong><span color="rgba(31, 35, 41, 1)" fontSize="15" fontFamily="思源黑体" strikethrough="false" underline="false">转入梯队考核上传结束时间前必须全部交齐</span></strong><span color="rgba(31, 35, 41, 1)" fontSize="15" fontFamily="思源黑体" bold="false" strikethrough="false" underline="false">（第 11 周）。</span></p>
+        </content>
+      </shape>
+      <shape width="817.58" height="34" topLeftX="62.42" topLeftY="372" presetHandlers="0" type="rect" id="bvG">
+        <fill>
+          <fillColor color="rgba(3, 72, 149, 1)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="14" paddingRight="14" fontSize="15" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" bold="false" underline="false" strikethrough="false" lineSpacing="multiple:1.2" textAlign="left" autoFit="shape-auto-fit">
+          <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(255, 255, 255, 1)" fontSize="15" fontFamily="思源黑体" bold="false" strikethrough="false" underline="false">五条要求都是硬性的：代码写得对，但包名写错、注释乱码，一样按未提交处理。</span></p>
+        </content>
+      </shape>
+    </data>
+    <note id="bvF">
+      <content>
+        <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(0, 0, 0, 1)" fontSize="12" fontFamily="等线" bold="false" italic="false" strikethrough="false" underline="false">作业要求和前面几讲一样，五条都是硬性的。第五讲四道题：串口点灯、用接收中断重做一遍、OLED 显示小灯状态，最后课余那题自己扩展串口用法。十一月之前交齐，注释统一 UTF-8。</span></p>
+      </content>
+    </note>
+  </slide>
+  <slide id="psf">
+    <style>
+      <fill id="fsf">
+        <fillColor color="rgba(255, 255, 255, 1)"/>
+      </fill>
+    </style>
+    <data>
+      <shape width="141.1400787401575" height="116.8567716535433" topLeftX="0" topLeftY="0" path="M0,0 L141.1401,0 L0,116.8568 Z" type="custom" id="bva">
+        <fill>
+          <fillColor color="rgba(3, 72, 149, 1)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" lineSpacing="multiple:1.2">
+          <p textAlign="center" lineSpacing="multiple:1.2"/>
+        </content>
+      </shape>
+      <shape width="18.444094488188977" height="82.79322834645669" topLeftX="28.568976377952744" topLeftY="-3.1153543307086977" rotation="141.9454" path="M0,82.7932 L0,5.548 L18.4441,0 L18.4441,82.7932 Z" type="custom" id="bvZ">
+        <fill>
+          <fillColor color="rgba(0, 0, 238, 0.85)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" lineSpacing="multiple:1.2">
+          <p textAlign="center" lineSpacing="multiple:1.2"/>
+        </content>
+      </shape>
+      <shape width="12.148346456692913" height="8.965984251968504" topLeftX="43.633858267716526" topLeftY="68.02417322834646" rotation="355.5271666666667" path="M12.1368,8.9488 L12.1483,8.966 L12.1226,8.9659 Z M6.0884,0 L12.041,8.9655 L0,8.9116 Z" type="custom" id="bvq">
+        <fill>
+          <fillColor color="rgba(3, 72, 149, 1)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" lineSpacing="multiple:1.2">
+          <p textAlign="center" lineSpacing="multiple:1.2"/>
+        </content>
+      </shape>
+      <shape width="18.444094488188977" height="82.79322834645669" topLeftX="39.524488188976385" topLeftY="-18.838346456692904" rotation="141.9454" path="M0,82.7932 L0,5.548 L18.4441,0 L18.4441,82.7932 Z" type="custom" id="bvT">
+        <fill>
+          <fillColor color="rgba(0, 0, 238, 0.58)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" lineSpacing="multiple:1.2">
+          <p textAlign="center" lineSpacing="multiple:1.2"/>
+        </content>
+      </shape>
+      <shape width="141.1400787401575" height="116.8567716535433" topLeftX="831.0015748031499" topLeftY="411.00157480314954" rotation="270" path="M0,0 L141.1401,0 L0,116.8568 Z" flipY="true" type="custom" id="bvM">
+        <fill>
+          <fillColor color="rgba(240, 240, 240, 1)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" lineSpacing="multiple:1.2">
+          <p textAlign="center" lineSpacing="multiple:1.2"/>
+        </content>
+      </shape>
+      <shape width="63.02236220472441" height="201.64354330708662" topLeftX="889.9439370078744" topLeftY="241.31811023622072" rotation="218.7576833333333" path="M63.0223,0 L0,78.5026 L0,201.6435 L63.0224,149.364 Z" flipY="true" type="custom" id="bvA">
+        <fill>
+          <fillColor color="rgba(240, 240, 240, 1)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" lineSpacing="multiple:1.2">
+          <p textAlign="center" lineSpacing="multiple:1.2"/>
+        </content>
+      </shape>
+      <shape width="960" height="540" topLeftX="0" topLeftY="0" presetHandlers="0" type="rect" id="bvX">
+        <fill>
+          <fillColor color="rgba(255, 255, 255, 1)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" lineSpacing="multiple:1.2">
+          <p textAlign="center" lineSpacing="multiple:1.2"/>
+        </content>
+      </shape>
+      <img id="bvx" src="Hcg2brSTUohK5kxUpMmchnfcnqc" width="500.35716535433073" height="362.14283464566927" topLeftX="-8.77858267716536" topLeftY="78.94283464566928">
+        <crop leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0"/>
+      </img>
+      <shape width="165.23787401574802" height="851.5506299212599" topLeftX="473.352125984252" topLeftY="-247.114330708661" rotation="233.03654999999998" path="M165.2378,219.5693 L0,0 L0,851.5506 L165.2379,714.4792 Z" flipY="true" type="custom" id="bvK">
+        <fill>
+          <fillColor color="rgba(0, 171, 249, 1)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" lineSpacing="multiple:1.2">
+          <p textAlign="center" lineSpacing="multiple:1.2"/>
+        </content>
+      </shape>
+      <shape width="50.90850393700787" height="88.04307086614173" topLeftX="532.0896062992126" topLeftY="225.58086614173232" rotation="63.42366666666667" path="M34.77,0 L50.9085,88.0431 L0,88.0431 Z" type="custom" id="bvl">
+        <fill>
+          <fillColor color="rgba(3, 72, 149, 1)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" lineSpacing="multiple:1.2">
+          <p textAlign="center" lineSpacing="multiple:1.2"/>
+        </content>
+      </shape>
+      <shape width="338.83574803149605" height="466.18204724409446" topLeftX="252.7880314960629" topLeftY="312.1374803149606" rotation="53.98916666666668" path="M0,0 L338.8357,0.0001 L0,466.182 Z" type="custom" id="bvE">
+        <fill>
+          <fillColor color="rgba(4, 96, 199, 1)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" lineSpacing="multiple:1.2">
+          <p textAlign="center" lineSpacing="multiple:1.2"/>
+        </content>
+      </shape>
+      <shape width="80.78259842519685" height="416.3116535433071" topLeftX="860.5872440944879" topLeftY="79.19866141732314" rotation="233.03654999999998" path="M80.7826,107.3445 L0,0 L0,416.3117 L80.7826,349.2993 Z" flipY="true" type="custom" id="bvv">
+        <fill>
+          <fillColor color="rgba(240, 240, 240, 1)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" lineSpacing="multiple:1.2">
+          <p textAlign="center" lineSpacing="multiple:1.2"/>
+        </content>
+      </shape>
+      <shape width="625.2566929133858" height="44.14787401574803" topLeftX="-379.9244094488189" topLeftY="419.81811023622055" rotation="180" path="M33.4626,0 L625.2567,0 L625.2567,44.1479 L0,44.1479 Z" flipY="true" type="custom" id="bvr">
+        <fill>
+          <fillColor color="rgba(240, 240, 240, 1)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" lineSpacing="multiple:1.2">
+          <p textAlign="center" lineSpacing="multiple:1.2"/>
+        </content>
+      </shape>
+      <shape width="175.71425196850393" height="54.64283464566929" topLeftX="-27.321417322834648" topLeftY="457.28574803149604" type="flow-chart-input-output" id="bvQ">
+        <fill>
+          <fillColor color="rgba(0, 0, 0, 1)"/>
+        </fill>
+        <border width="1" lineJoin="miter"/>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" lineSpacing="multiple:1.2">
+          <p textAlign="center" lineSpacing="multiple:1.2"/>
+        </content>
+      </shape>
+      <shape width="625.2566929133858" height="44.14787401574803" topLeftX="-324.56732283464567" topLeftY="34.818110236220505" rotation="180" path="M33.4626,0 L625.2567,0 L625.2567,44.1479 L0,44.1479 Z" flipY="true" type="custom" id="bvp">
+        <fill>
+          <fillColor color="rgba(240, 240, 240, 1)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" lineSpacing="multiple:1.2">
+          <p textAlign="center" lineSpacing="multiple:1.2"/>
+        </content>
+      </shape>
+      <shape width="546.4285826771653" height="26.785748031496063" topLeftX="9.642834645669268" topLeftY="42.857165354330746" rotation="180" flipY="true" type="text" id="bvw">
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="20" fontFamily="黑体" color="rgba(0, 0, 0, 1)" bold="true" italic="true" underline="false" strikethrough="false" lineSpacing="multiple:1.2" letterSpacing="1.1" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2" letterSpacing="1.1"><strong><em><span color="rgba(0, 0, 0, 1)" fontSize="20" fontFamily="黑体" strikethrough="false" underline="false" letterSpacing="1.1">『生无所息，斗无所止』</span></em></strong></p>
+        </content>
+      </shape>
+      <shape width="396.7451181102362" height="60.5" topLeftX="382.6720472440944" topLeftY="104.16055118110239" rotation="322.25576666666666" type="text" id="bvS">
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="44" fontFamily="锐字真言体免费商用" color="rgba(255, 255, 255, 1)" bold="true" italic="true" underline="false" strikethrough="false" lineSpacing="multiple:1.2" textAlign="left" autoFit="shape-auto-fit">
+          <p textAlign="left" lineSpacing="multiple:1.2"><strong><em><span color="rgba(255, 255, 255, 1)" fontSize="44" fontFamily="锐字真言体免费商用" strikethrough="false" underline="false">下课啦！</span></em></strong></p>
+        </content>
+      </shape>
+    </data>
+    <note id="bvo">
+      <content>
+        <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(0, 0, 0, 1)" fontSize="12" fontFamily="等线" bold="false" italic="false" strikethrough="false" underline="false">五次讲完，你的系统已经能点灯、读按键、定时、输出 PWM、发串口、显示状态。作业五是串口和 OLED，做完之后我们就不再逐条讲了，直接进梯队考核。十一月之前把作业交齐，考核见。下课。</span></p>
+      </content>
+    </note>
+  </slide>
+</presentation>

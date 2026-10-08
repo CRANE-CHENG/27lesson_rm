@@ -1,0 +1,200 @@
+<slide xmlns="https://www.larkoffice.com/sml/2.0">
+    <data>
+      <shape width="141.1400787401575" height="116.8567716535433" topLeftX="0" topLeftY="0" path="M0,0 L141.1401,0 L0,116.8568 Z" type="custom">
+        <fill>
+          <fillColor color="rgba(3, 72, 149, 1)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)">
+          <p textAlign="center" lineSpacing="multiple:1.2"><span color="rgba(255, 255, 255, 1)" fontSize="18" fontFamily="思源黑体"> </span></p>
+        </content>
+      </shape>
+      <shape width="18.444094488188977" height="82.79322834645669" topLeftX="28.56897637795275" topLeftY="-3.1153543307086693" rotation="141.9454" path="M0,82.7932 L0,5.548 L18.4441,0 L18.4441,82.7932 Z" type="custom">
+        <fill>
+          <fillColor color="rgba(0, 0, 238, 0.85)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)">
+          <p textAlign="center" lineSpacing="multiple:1.2"><span color="rgba(255, 255, 255, 1)" fontSize="18" fontFamily="思源黑体"> </span></p>
+        </content>
+      </shape>
+      <shape width="18.444094488188977" height="82.79322834645669" topLeftX="39.52448818897639" topLeftY="-18.838346456692904" rotation="141.9454" path="M0,82.7932 L0,5.548 L18.4441,0 L18.4441,82.7932 Z" type="custom">
+        <fill>
+          <fillColor color="rgba(0, 0, 238, 0.58)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)">
+          <p textAlign="center" lineSpacing="multiple:1.2"><span color="rgba(255, 255, 255, 1)" fontSize="18" fontFamily="思源黑体"> </span></p>
+        </content>
+      </shape>
+      <shape width="141.1400787401575" height="116.8567716535433" topLeftX="831.0015748031497" topLeftY="411.00157480314954" rotation="270" path="M0,0 L141.1401,0 L0,116.8568 Z" flipY="true" type="custom">
+        <fill>
+          <fillColor color="rgba(240, 240, 240, 1)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)">
+          <p textAlign="center" lineSpacing="multiple:1.2"><span color="rgba(255, 255, 255, 1)" fontSize="18" fontFamily="思源黑体"> </span></p>
+        </content>
+      </shape>
+      <shape width="63.02236220472441" height="201.64354330708662" topLeftX="889.9439370078742" topLeftY="241.31811023622072" rotation="218.75768333333332" path="M63.0223,0 L0,78.5026 L0,201.6435 L63.0224,149.364 Z" flipY="true" type="custom">
+        <fill>
+          <fillColor color="rgba(240, 240, 240, 1)"/>
+        </fill>
+        <content paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)">
+          <p textAlign="center" lineSpacing="multiple:1.2"><span color="rgba(255, 255, 255, 1)" fontSize="18" fontFamily="思源黑体"> </span></p>
+        </content>
+      </shape>
+      <shape width="21.767244094488188" height="18.764881889763778" topLeftX="924.6477952755905" topLeftY="61.562047244094515" rotation="343.3178" presetHandlers="50000" type="triangle">
+        <fill>
+          <fillColor color="rgba(0, 0, 238, 1)"/>
+        </fill>
+      </shape>
+      <shape width="625.2566929133858" height="44.14787401574803" topLeftX="673.7879527559055" topLeftY="43.19409448818897" path="M33.4626,0 L625.2567,0 L625.2567,44.1479 L0,44.1479 Z" type="custom">
+        <fill>
+          <fillColor color="rgba(240, 240, 240, 1)"/>
+        </fill>
+      </shape>
+      <img src="OrCKbuA53o6Jlyxhe73cSAORn4e" width="44.14787401574803" height="44.14787401574803" topLeftX="890.4203937007874" topLeftY="43.1940157480315">
+        <crop leftOffset="0" rightOffset="0" topOffset="0" bottomOffset="0"/>
+      </img>
+      <shape width="160" height="32" topLeftX="705.6155118110237" topLeftY="54.487716535433066" type="text">
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left" wrap="false">
+          <p textAlign="left" lineSpacing="multiple:1.2" letterSpacing="1.1"><em><span color="rgba(0, 0, 0, 1)" fontSize="14" fontFamily="思源黑体" bold="false" strikethrough="false" underline="false" letterSpacing="1.1">哈理工A.I.R.创新实验室</span></em></p>
+        </content>
+      </shape>
+      <shape width="66.94629921259842" height="50.8" topLeftX="33.25511811023622" topLeftY="15.769133858267715" type="text">
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left" autoFit="shape-auto-fit">
+          <p textAlign="left" lineSpacing="multiple:1.2"><strong><em><span color="rgba(255, 255, 255, 1)" fontSize="36" fontFamily="锐字真言体免费商用" strikethrough="false" underline="false">03</span></em></strong></p>
+        </content>
+      </shape>
+      <shape width="560" height="36.25" topLeftX="110.86724409448817" topLeftY="33.10251968503937" type="text">
+        <content verticalAlign="top" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left" autoFit="shape-auto-fit">
+          <p textAlign="left" lineSpacing="multiple:1.2"><strong><em><span color="rgba(3, 72, 149, 1)" fontSize="24" fontFamily="思源黑体" strikethrough="false" underline="false">四种消抖方案，怎么选？</span></em></strong></p>
+        </content>
+      </shape>
+      <shape width="828" height="32" topLeftX="62.42" topLeftY="118" type="rect">
+        <fill>
+          <fillColor color="rgba(3, 72, 149, 1)"/>
+        </fill>
+      </shape>
+      <shape width="170" height="30" topLeftX="74" topLeftY="119" type="text">
+        <content verticalAlign="middle" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2"><strong><span color="rgba(255, 255, 255, 1)" fontSize="15" fontFamily="思源黑体" strikethrough="false" underline="false">方案</span></strong></p>
+        </content>
+      </shape>
+      <shape width="250" height="30" topLeftX="254" topLeftY="119" type="text">
+        <content verticalAlign="middle" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2"><strong><span color="rgba(255, 255, 255, 1)" fontSize="15" fontFamily="思源黑体" strikethrough="false" underline="false">怎么判断</span></strong></p>
+        </content>
+      </shape>
+      <shape width="170" height="30" topLeftX="514" topLeftY="119" type="text">
+        <content verticalAlign="middle" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2"><strong><span color="rgba(255, 255, 255, 1)" fontSize="15" fontFamily="思源黑体" strikethrough="false" underline="false">代价</span></strong></p>
+        </content>
+      </shape>
+      <shape width="190" height="30" topLeftX="694" topLeftY="119" type="text">
+        <content verticalAlign="middle" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2"><strong><span color="rgba(255, 255, 255, 1)" fontSize="15" fontFamily="思源黑体" strikethrough="false" underline="false">用在哪</span></strong></p>
+        </content>
+      </shape>
+      <shape width="828" height="40" topLeftX="62.42" topLeftY="156" type="rect">
+        <fill>
+          <fillColor color="rgba(240, 240, 240, 1)"/>
+        </fill>
+      </shape>
+      <shape width="828" height="40" topLeftX="62.42" topLeftY="244" type="rect">
+        <fill>
+          <fillColor color="rgba(240, 240, 240, 1)"/>
+        </fill>
+      </shape>
+      <shape width="170" height="38" topLeftX="74" topLeftY="157" type="text">
+        <content verticalAlign="middle" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2"><strong><span color="rgba(3, 72, 149, 1)" fontSize="15" fontFamily="思源黑体" strikethrough="false" underline="false">延时消抖</span></strong></p>
+        </content>
+      </shape>
+      <shape width="250" height="38" topLeftX="254" topLeftY="157" type="text">
+        <content verticalAlign="middle" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(31, 35, 41, 1)" fontSize="15" fontFamily="思源黑体" bold="false" strikethrough="false" underline="false">等 20ms 再读一次确认</span></p>
+        </content>
+      </shape>
+      <shape width="170" height="38" topLeftX="514" topLeftY="157" type="text">
+        <content verticalAlign="middle" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(31, 35, 41, 1)" fontSize="15" fontFamily="思源黑体" bold="false" strikethrough="false" underline="false">主循环停 20ms</span></p>
+        </content>
+      </shape>
+      <shape width="190" height="38" topLeftX="694" topLeftY="157" type="text">
+        <content verticalAlign="middle" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(31, 35, 41, 1)" fontSize="15" fontFamily="思源黑体" bold="false" strikethrough="false" underline="false">作业、单个按键</span></p>
+        </content>
+      </shape>
+      <shape width="170" height="38" topLeftX="74" topLeftY="201" type="text">
+        <content verticalAlign="middle" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2"><strong><span color="rgba(3, 72, 149, 1)" fontSize="15" fontFamily="思源黑体" strikethrough="false" underline="false">计数消抖</span></strong></p>
+        </content>
+      </shape>
+      <shape width="250" height="38" topLeftX="254" topLeftY="201" type="text">
+        <content verticalAlign="middle" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(31, 35, 41, 1)" fontSize="15" fontFamily="思源黑体" bold="false" strikethrough="false" underline="false">连续 N 次读到相同才认</span></p>
+        </content>
+      </shape>
+      <shape width="170" height="38" topLeftX="514" topLeftY="201" type="text">
+        <content verticalAlign="middle" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(31, 35, 41, 1)" fontSize="15" fontFamily="思源黑体" bold="false" strikethrough="false" underline="false">次数不好定</span></p>
+        </content>
+      </shape>
+      <shape width="190" height="38" topLeftX="694" topLeftY="201" type="text">
+        <content verticalAlign="middle" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(31, 35, 41, 1)" fontSize="15" fontFamily="思源黑体" bold="false" strikethrough="false" underline="false">循环稳定的简单场合</span></p>
+        </content>
+      </shape>
+      <shape width="170" height="38" topLeftX="74" topLeftY="245" type="text">
+        <content verticalAlign="middle" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2"><strong><span color="rgba(3, 72, 149, 1)" fontSize="15" fontFamily="思源黑体" strikethrough="false" underline="false">状态机消抖</span></strong></p>
+        </content>
+      </shape>
+      <shape width="250" height="38" topLeftX="254" topLeftY="245" type="text">
+        <content verticalAlign="middle" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(31, 35, 41, 1)" fontSize="15" fontFamily="思源黑体" bold="false" strikethrough="false" underline="false">用时间戳判稳定时长</span></p>
+        </content>
+      </shape>
+      <shape width="170" height="38" topLeftX="514" topLeftY="245" type="text">
+        <content verticalAlign="middle" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(31, 35, 41, 1)" fontSize="15" fontFamily="思源黑体" bold="false" strikethrough="false" underline="false">代码稍长，要有时间基准</span></p>
+        </content>
+      </shape>
+      <shape width="190" height="38" topLeftX="694" topLeftY="245" type="text">
+        <content verticalAlign="middle" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(31, 35, 41, 1)" fontSize="15" fontFamily="思源黑体" bold="false" strikethrough="false" underline="false">工程里的标准做法</span></p>
+        </content>
+      </shape>
+      <shape width="170" height="38" topLeftX="74" topLeftY="289" type="text">
+        <content verticalAlign="middle" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2"><strong><span color="rgba(3, 72, 149, 1)" fontSize="15" fontFamily="思源黑体" strikethrough="false" underline="false">硬件消抖</span></strong></p>
+        </content>
+      </shape>
+      <shape width="250" height="38" topLeftX="254" topLeftY="289" type="text">
+        <content verticalAlign="middle" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(31, 35, 41, 1)" fontSize="15" fontFamily="思源黑体" bold="false" strikethrough="false" underline="false">RC 电路或专用芯片先滤</span></p>
+        </content>
+      </shape>
+      <shape width="170" height="38" topLeftX="514" topLeftY="289" type="text">
+        <content verticalAlign="middle" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(31, 35, 41, 1)" fontSize="15" fontFamily="思源黑体" bold="false" strikethrough="false" underline="false">加器件、占板面</span></p>
+        </content>
+      </shape>
+      <shape width="190" height="38" topLeftX="694" topLeftY="289" type="text">
+        <content verticalAlign="middle" paddingTop="3.6" paddingBottom="3.6" paddingLeft="7.2" paddingRight="7.2" fontSize="16" fontFamily="思源黑体" color="rgba(31, 35, 41, 1)" textAlign="left">
+          <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(31, 35, 41, 1)" fontSize="15" fontFamily="思源黑体" bold="false" strikethrough="false" underline="false">按键多、CPU 忙的场合</span></p>
+        </content>
+      </shape>
+      <shape width="817.58" height="34" topLeftX="62.42" topLeftY="372" type="rect">
+        <fill>
+          <fillColor color="rgba(3, 72, 149, 1)"/>
+        </fill>
+        <content verticalAlign="middle" paddingTop="3.6" paddingBottom="3.6" paddingLeft="14" paddingRight="14" fontSize="16" fontFamily="思源黑体" color="rgba(255, 255, 255, 1)" textAlign="left" autoFit="shape-auto-fit">
+          <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(255, 255, 255, 1)" fontSize="15" fontFamily="思源黑体" bold="false" strikethrough="false" underline="false">先问一句：主循环里除了按键还有别的事吗？只有按键，延时消抖就够；还有别的事，必须换成状态机或硬件。</span></p>
+        </content>
+      </shape>
+    </data>
+    <note>
+      <content>
+        <p textAlign="left" lineSpacing="multiple:1.2"><span color="rgba(0, 0, 0, 1)" fontSize="12" fontFamily="等线" bold="false" italic="false" strikethrough="false" underline="false">作业里用延时消抖就够了，但工程里不行，因为主循环里还有别的活。判断标准就一条：如果主循环同时还要刷屏、还要发串口，那就不能用会阻塞的延时消抖，得换成状态机，用时间戳判断电平稳定了多久。硬件消抖是另一条路，用 RC 电路把抖动在进入芯片之前就滤掉，代价是加器件、占板面，参数还得算，但换来的是 CPU 完全不操心。这张表不要求背下来，要求的是知道四者的区别在哪，选的时候能说出理由。</span></p>
+      </content>
+    </note>
+  </slide>

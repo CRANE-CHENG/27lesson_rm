@@ -1,0 +1,104 @@
+{
+  "slide_num": 4,
+  "role": "chapter",
+  "slide_id": "psZ",
+  "local_xml_path": "source-slides\\slide-04.xml",
+  "shell_shapes": [
+    {
+      "id": 8,
+      "type": "AUTO_SHAPE",
+      "left": -0.3795,
+      "top": 6.3512,
+      "width": 2.4405,
+      "height": 0.7589,
+      "text": ""
+    }
+  ],
+  "content_shapes": [
+    {
+      "id": 11,
+      "type": "PICTURE",
+      "left": -0.1935,
+      "top": 1.0964,
+      "width": 6.9494,
+      "height": 5.0298,
+      "text": ""
+    },
+    {
+      "id": 26,
+      "type": "FREEFORM",
+      "left": 6.5743,
+      "top": -3.4321,
+      "width": 2.295,
+      "height": 11.8271,
+      "text": ""
+    },
+    {
+      "id": 16,
+      "type": "FREEFORM",
+      "left": 7.3901,
+      "top": 3.1331,
+      "width": 0.7071,
+      "height": 1.2228,
+      "text": ""
+    },
+    {
+      "id": 25,
+      "type": "FREEFORM",
+      "left": 3.5109,
+      "top": 4.3352,
+      "width": 4.7061,
+      "height": 6.4748,
+      "text": ""
+    },
+    {
+      "id": 10,
+      "type": "FREEFORM",
+      "left": 11.9526,
+      "top": 1.1,
+      "width": 1.122,
+      "height": 5.7821,
+      "text": ""
+    },
+    {
+      "id": 7,
+      "type": "FREEFORM",
+      "left": -5.2767,
+      "top": 5.8308,
+      "width": 8.6841,
+      "height": 0.6132,
+      "text": ""
+    },
+    {
+      "id": 13,
+      "type": "FREEFORM",
+      "left": -4.5079,
+      "top": 0.4836,
+      "width": 8.6841,
+      "height": 0.6132,
+      "text": ""
+    },
+    {
+      "id": 14,
+      "type": "TEXT_BOX",
+      "left": 0.1339,
+      "top": 0.5952,
+      "width": 7.5893,
+      "height": 0.372,
+      "text": "『生无所息，斗无所止』"
+    },
+    {
+      "id": 18,
+      "type": "TEXT_BOX",
+      "left": 4.5586,
+      "top": 1.5644,
+      "width": 6.5722,
+      "height": 2.6927,
+      "text": "01战队历史及电控组介绍"
+    }
+  ],
+  "available_regions": [],
+  "images_used": [
+    "image1.png"
+  ]
+}
