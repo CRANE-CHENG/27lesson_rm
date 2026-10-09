@@ -67,3 +67,7 @@ MDK-ARM/AIR_RM_HAL/
 
 *.mp4
 *.exe
+
+# 工具生成的临时目录（Lark Slides 幻灯片、PPT 重排工具）
+.lark-slides/
+.ppt-restyle/
