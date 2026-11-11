@@ -1,0 +1,10 @@
+第一题答案：因为去掉了第二个HAL_Delay故小灯并不是没有熄灭而是熄灭的非常快我们的肉眼无法看见而笑灯的亮时又有延时导致了我们看见的小灯
+像是常亮
+由于第三题的注释写不上去我写在这里：
+void HAL_GPIO_EXTI_Callback(uint16_t GPIO_Pin)//回调函数
+	{
+		if(HAL_GPIO_ReadPin(GPIOB,GPIO_PIN_1)==GPIO_PIN_RESET)//确认读取的是PIN1且一旦按下将其拉低为低点平
+		    {
+		       	HAL_GPIO_TogglePin(GPIOA,GPIO_PIN_1);//翻转pin1的电平
+		    }
+	}
