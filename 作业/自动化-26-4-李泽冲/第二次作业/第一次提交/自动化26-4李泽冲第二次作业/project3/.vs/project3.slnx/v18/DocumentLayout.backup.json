@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\duodu\\Desktop\\rm\u7B2C\u4E8C\u6B21\\project3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED35EC9D-9D0A-4425-AE4A-E2ADA66E1D81}|project3.vcxproj|C:\\Users\\duodu\\Desktop\\rm\u7B2C\u4E8C\u6B21\\project3\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ED35EC9D-9D0A-4425-AE4A-E2ADA66E1D81}|project3.vcxproj|solutionrelative:FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileName.cpp",
+              "DocumentMoniker": "C:\\Users\\duodu\\Desktop\\rm\u7B2C\u4E8C\u6B21\\project3\\FileName.cpp",
+              "RelativeDocumentMoniker": "FileName.cpp",
+              "ToolTip": "C:\\Users\\duodu\\Desktop\\rm\u7B2C\u4E8C\u6B21\\project3\\FileName.cpp*",
+              "RelativeToolTip": "FileName.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-25T03:09:38.573Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
