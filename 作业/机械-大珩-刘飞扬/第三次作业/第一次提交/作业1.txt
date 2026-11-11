@@ -1,0 +1,9 @@
+对于代码：
+HAL_GPIO_WritePin(GPIOC,GPIO_PIN_13,GPIO_PIN_RESET);
+HAL_GPIO_WritePin(GPIOA,GPIO_PIN_9,GPIO_PIN_SET);
+HAL_Delay(1000);
+HAL_GPIO_WritePin(GPIOC,GPIO_PIN_13,GPIO_PIN_SET);
+HAL_GPIO_WritePin(GPIOA,GPIO_PIN_9,GPIO_PIN_RESET);
+HAL_Delay(1000)；
+显然13小灯亮，9灭，一秒后相反，且再次持续1秒，从而闪烁。
+而去掉第二个HAL_Delay(1000)，则会使第二次的相反不能真正执行就已经结束，从而只有第一次13亮9灭执行，从而一直亮。
